@@ -7,7 +7,7 @@
 - Combined and cleaned both datasets before generating movement heatmaps using a density plot
 - Created a replay system with features that address current pain points verified by KOLs
 
-![alt text](https://github.com/[keith-ng]/[Projects]/blob/[Valorant Heatmaps & Replay]/assets/example.PNG?raw=true)
+![Alt text](/assets/example.PNG?raw=true "Optional Title")
 
 ### Description:
 
