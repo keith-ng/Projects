@@ -1,8 +1,11 @@
 ### Project X - Valorant Match Analyses (VCT Champions 2022 - Istanbul)
 
-### Caveat:
+### TLDR:
 
-- Images displayed are generated on a case by case basis due to the nature of a free hosting service with limited storage space, resulting in slower response speed on the webpage.
+- Extracted positional data of over 10 object classes throughout a video using a machine learning model
+- Obtained information from images using optical character recognition and computer vision
+- Combined and cleaned both datasets before generating movement heatmaps using a density plot
+- Created a replay system with features that address current pain points verified by KOLs
 
 ### Description:
 
