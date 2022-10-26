@@ -2,12 +2,12 @@
 
 ### Description:
 
-1. Code to scrape information from popular CS:GO website.
+Code to scrape information from popular CS:GO website.
 - Game results by each individual map, not series.
 - Historic team ranks of teams with points
 - Events' information
 
-2. Data cleaning
+Data Cleaning
 - Create dataset for a specific team to prepare for Analysis
 
 ### For The Future
