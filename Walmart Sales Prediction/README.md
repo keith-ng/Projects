@@ -15,11 +15,6 @@
 - Data refined through normalisation, specifically using 'TransformedTargetRegressor'.
 - Final Model used: Random Forest with a R2 score of 0.95.
 
-### Differentiating Factors:
-
-- Assigned ordinal variables' weight not proportional. 
-- Interaction terms.   
-
 ### Files used:
 
 - features.csv -- dataset containing details of some features.
