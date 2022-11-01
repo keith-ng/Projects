@@ -7,9 +7,6 @@ Code to scrape information from popular CS:GO website.
 - Historic team ranks of teams with points
 - Events' information
 
-Data Cleaning
-- Create dataset for a specific team to prepare for Analysis
-
 ### For The Future
 
 Create prediction model to predict winner or round handicaps.
