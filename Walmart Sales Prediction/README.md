@@ -8,9 +8,10 @@
 
 ### Process:
 
+- Exploratory Data Analysis
 - Data cleaned in a manner deemed appropriate. 
 - Removed outliers based on 1.5 IQR thresholds.
-- Discover valuable interaction terms. 
+- Further data preprocessing. 
 - A variety of regression models were applied and the model with the highest R2 score was selected. 
 - Data transformed and refined through normalisation.
 - Final Model used: Random Forest with a R2 score of 0.95.
