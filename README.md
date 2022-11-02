@@ -1,7 +1,6 @@
-### A collection of projects by yours truly.
-
-**Legend:**
-- Cls: Classification
+### Legend:
+- Cls: Classification Model
 - CV: Computer Vision
-- Reg: Regression
+- NLP: Natural Language Processing
+- Reg: Regression Model
 - WS: Web Scraping
