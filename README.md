@@ -1,6 +1,4 @@
-### A collection of projects by yours truly.
-
-**Legend:**
+### Legend:
 - Cls: Classification
 - CV: Computer Vision
 - Reg: Regression
