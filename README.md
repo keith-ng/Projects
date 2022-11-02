@@ -1,5 +1,6 @@
 ### Legend:
-- Cls: Classification
+- Cls: Classification Model
 - CV: Computer Vision
-- Reg: Regression
+- NLP: Natural Language Processing
+- Reg: Regression Model
 - WS: Web Scraping
