@@ -4,4 +4,3 @@
 - EDA: Exploratory Data Analysis
 - NLP: Natural Language Processing
 - Reg: Regression Modelling
-- WS: Web Scraping
