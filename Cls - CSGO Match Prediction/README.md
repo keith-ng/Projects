@@ -2,12 +2,23 @@
 
 ### Description:
 
-The aim of this project is create a model to predict the winner of professional matches for the popular first person shooter game Counter-Strike Global Offensive.
-
-Models' accuracy typically range from 0.6 to 0.7.
+- The aim of this project is create a model to predict the winner of professional matches for the popular first person shooter game Counter-Strike Global Offensive.
+- The data set contains matches played by a team in the past 13 months.
+- Models' accuracy typically range from 0.6 to 0.7.
 - Different models performed better for different teams
-- Some models show promising results and might be worth investigating further.
 
+### Process:
+
+- Data scraped from popular website 'HLTV.org'
+- Data cleaned in a manner deemed appropriate. 
+- Feature Engineering
+- Filter data points based on specified team of interest
+- Test five different classification models with newly curated data set
+    1. Logistic Regression
+    2. K-Nearest Neighbors
+    3. Random Forest Classifier
+    4. Ada Boost Classifier
+    5. Gradient Boosting Classifier
 
 ### Project's Potential Pitfalls
 
