@@ -45,6 +45,6 @@ Create prediction model to predict the winner of a game.
  
 ### Files used:
 
-- events_info.csv -- Data of completed events created from HLTV web scraper.
-- rank_info.csv -- Each teams' historical rank and points created from HLTV web scraper.
-- results_info.csv -- Game scores by map created from HLTV web scraper.
+- events_info.csv -- Data of completed events scraped from website 'hltv.org.
+- rank_info.csv -- Each teams' historical rank and points scraped from website 'hltv.org.
+- results_info.csv -- Game scores by map scraped from website 'hltv.org.
