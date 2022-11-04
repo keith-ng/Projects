@@ -1,6 +1,6 @@
-### Legend:
+### Projects' Category Legend:
 - CV: Computer Vision
-- Cls: Classification Modelling
+- Cls: Classification
 - EDA: Exploratory Data Analysis
 - NLP: Natural Language Processing
-- Reg: Regression Modelling
+- Reg: Regression
