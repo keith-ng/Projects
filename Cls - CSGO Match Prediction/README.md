@@ -3,7 +3,7 @@
 ### Description:
 
 - The aim of this project is create a model to predict the winner of professional matches for the popular first person shooter game Counter-Strike Global Offensive.
-- The data set contains matches played by all team in the past 13 months.
+- The data set contains all recorded official matches played in the past 13 months.
 - Models' accuracy typically range from 0.6 to 0.7.
 - Different models performed better for different teams
 
