@@ -9,7 +9,7 @@
 
 ### Process:
 
-- Data scraped from popular website 'HLTV.org'
+- Data scraped from popular CSGO website 'HLTV.org'
     1. Game results by each individual map, not series.
     2. Historic team ranks of teams with points
     3. Events' information
