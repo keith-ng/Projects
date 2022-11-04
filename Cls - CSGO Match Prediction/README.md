@@ -10,6 +10,9 @@
 ### Process:
 
 - Data scraped from popular website 'HLTV.org'
+    1. Game results by each individual map, not series.
+    2. Historic team ranks of teams with points
+    3. Events' information
 - Data cleaned in a manner deemed appropriate. 
 - Feature Engineering
 - Filter data points based on specified team of interest
