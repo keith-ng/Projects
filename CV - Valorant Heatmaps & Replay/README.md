@@ -2,7 +2,7 @@
 
 ### TLDR:
 
-- Extracted positional data of over 10 object classes throughout a video using a machine learning model
+- Extracted positional data of over 10 object classes from videos using a machine learning model
 - Obtained information from over 20 data points using optical character recognition and computer vision
 - Combined and cleaned both datasets before generating movement heatmaps using a density plot
 - Created a replay system with features that address current pain points verified by KOLs
