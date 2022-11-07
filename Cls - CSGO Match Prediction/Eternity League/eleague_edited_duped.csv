@@ -1,0 +1,1707 @@
+,season,team1,team2,t1_score,t2_score,map_pick,own_pick,map,t1_rounds,t2_rounds,winner,winner_ohc
+0,23,Chappa Flays,Team Mellif,2,1,Team Mellif,0,Inferno,16,8,Chappa Flays,1
+1,23,Lepido eSports,Dixxi Riders,0,2,Dixxi Riders,0,Inferno,8,16,Dixxi Riders,0
+2,23,Bowl eSports,Monarz Five,2,1,Monarz Five,0,Overpass,17,19,Monarz Five,0
+3,23,Desafinado Academy,Bandi Soilders,2,1,Bandi Soilders,0,Dust2,7,16,Bandi Soilders,0
+4,23,Team Crimbe,Rainbow Riders,1,2,Rainbow Riders,0,Overpass,11,16,Rainbow Riders,0
+5,23,Cherizy eSports,Team Mellif,1,2,Team Mellif,0,Dust2,16,11,Cherizy eSports,1
+6,23,Chappa Flays,Rainbow Riders,2,0,Rainbow Riders,0,Nuke,16,7,Chappa Flays,1
+7,23,Desafinado Academy,Team Crimbe,1,2,Team Crimbe,0,Mirage,16,12,Desafinado Academy,1
+8,23,Team Orbis,Squeezi Boars,1,2,Squeezi Boars,0,Overpass,13,16,Squeezi Boars,0
+9,23,Marriz Gaming,Team Shipin,1,2,Team Shipin,0,Mirage,11,16,Team Shipin,0
+10,23,Kunzite Gaming,Team Sudio,2,1,Team Sudio,0,Overpass,9,16,Team Sudio,0
+11,23,Lepido eSports,Bowl eSports,0,2,Bowl eSports,0,Ancient,8,16,Bowl eSports,0
+12,23,Tweezar Crusaders,Leemaz Clan,0,2,Leemaz Clan,0,Nuke,9,16,Leemaz Clan,0
+13,23,Rozippe Gaming,Team Orbis,2,0,Team Orbis,0,Vertigo,16,12,Rozippe Gaming,1
+14,23,Team Priestly,qK,2,1,qK,0,Vertigo,10,16,qK,0
+15,23,Yowi Rising,Team Sudio,2,0,Team Sudio,0,Inferno,16,9,Yowi Rising,1
+16,23,Midnight Academy,Cherizy eSports,2,0,Cherizy eSports,0,Nuke,16,11,Midnight Academy,1
+17,23,Team Solitude,Kunzite Gaming,2,0,Kunzite Gaming,0,Ancient,16,9,Team Solitude,1
+18,23,Team Kayzze,Hako Gaming,2,1,Hako Gaming,0,Mirage,6,16,Hako Gaming,0
+19,23,Dixxi Riders,Chappa Flays,1,2,Chappa Flays,0,Ancient,16,9,Dixxi Riders,1
+20,23,Monarz Five,Desafinado Academy,0,2,Desafinado Academy,0,Mirage,6,16,Desafinado Academy,0
+21,23,Squeezi Boars,Bandi Soilders,2,1,Bandi Soilders,0,Ancient,16,11,Squeezi Boars,1
+22,23,Team Mellif,Team Shipin,0,2,Team Shipin,0,Vertigo,9,16,Team Shipin,0
+23,23,Rewice Gaming,Team Crimbe,2,1,Team Crimbe,0,Ancient,7,16,Team Crimbe,0
+24,23,Wups Gaming,Marriz Gaming,0,2,Marriz Gaming,0,Dust2,9,16,Marriz Gaming,0
+25,23,WPG,Rainbow Riders,0,2,Rainbow Riders,0,Dust2,13,16,Rainbow Riders,0
+26,23,Team Mellif,Team Sudio,2,0,Team Sudio,0,Nuke,16,9,Team Mellif,1
+27,23,Bandi Soilders,Team Shipin,1,2,Team Shipin,0,Mirage,16,7,Bandi Soilders,1
+28,23,Team Crimbe,WPG,2,0,WPG,0,Overpass,16,14,Team Crimbe,1
+29,23,Desafinado Academy,Rewice Gaming,1,2,Rewice Gaming,0,Vertigo,16,14,Desafinado Academy,1
+30,23,Rainbow Riders,Squeezi Boars,2,1,Squeezi Boars,0,Ancient,16,12,Rainbow Riders,1
+31,23,Lepido eSports,Yowi Rising,0,2,Yowi Rising,0,Ancient,11,16,Yowi Rising,0
+32,23,Hako Gaming,Dixxi Riders,2,0,Dixxi Riders,0,Vertigo,16,12,Hako Gaming,1
+33,23,Cherizy eSports,Team Kayzze,2,0,Team Kayzze,0,Overpass,16,10,Cherizy eSports,1
+34,23,Kunzite Gaming,Midnight Academy,2,0,Midnight Academy,0,Inferno,16,10,Kunzite Gaming,1
+35,23,Marriz Gaming,Team Solitude,1,2,Team Solitude,0,Mirage,4,16,Team Solitude,0
+36,23,Leemaz Clan,Team Priestly,2,1,Team Priestly,0,Overpass,19,17,Leemaz Clan,1
+37,23,Bowl eSports,Tweezar Crusaders,0,2,Tweezar Crusaders,0,Dust2,8,16,Tweezar Crusaders,0
+38,23,Team Orbis,Wups Gaming,0,2,Wups Gaming,0,Ancient,10,16,Wups Gaming,0
+39,23,Chappa Flays,Monarz Five,1,2,Monarz Five,0,Mirage,16,14,Chappa Flays,1
+40,23,qK,Rozippe Gaming,0,2,Rozippe Gaming,0,Dust2,6,16,Rozippe Gaming,0
+41,23,Tweezar Crusaders,Lepido eSports,2,1,Lepido eSports,0,Inferno,7,16,Lepido eSports,0
+42,23,Wups Gaming,qK,2,0,qK,0,Ancient,16,13,Wups Gaming,1
+43,23,Team Priestly,Bowl eSports,2,0,Bowl eSports,0,Overpass,16,6,Team Priestly,1
+44,23,Rozippe Gaming,Leemaz Clan,0,2,Leemaz Clan,0,Inferno,7,16,Leemaz Clan,0
+45,23,Team Solitude,Team Orbis,1,2,Team Orbis,0,Inferno,16,12,Team Solitude,1
+46,23,Midnight Academy,Marriz Gaming,0,2,Marriz Gaming,0,Dust2,12,16,Marriz Gaming,0
+47,23,Yowi Rising,Team Mellif,2,0,Team Mellif,0,Ancient,16,14,Yowi Rising,1
+48,23,Dixxi Riders,Cherizy eSports,2,1,Cherizy eSports,0,Vertigo,16,11,Dixxi Riders,1
+49,23,Monarz Five,Hako Gaming,2,1,Hako Gaming,0,Dust2,14,16,Hako Gaming,0
+50,23,Rewice Gaming,Chappa Flays,1,2,Chappa Flays,0,Dust2,5,16,Chappa Flays,0
+51,23,Team Shipin,Rainbow Riders,1,2,Rainbow Riders,0,Dust2,7,16,Rainbow Riders,0
+52,23,Team Sudio,Bandi Soilders,0,2,Bandi Soilders,0,Nuke,11,16,Bandi Soilders,0
+53,23,WPG,Desafinado Academy,1,2,Desafinado Academy,0,Nuke,19,16,WPG,1
+54,23,Squeezi Boars,Team Crimbe,0,2,Team Crimbe,0,Ancient,3,16,Team Crimbe,0
+55,23,Team Kayzze,Kunzite Gaming,2,1,Kunzite Gaming,0,Ancient,14,16,Kunzite Gaming,0
+56,23,Bandi Soilders,Team Mellif,0,2,Team Mellif,0,Ancient,13,16,Team Mellif,0
+57,23,Desafinado Academy,Squeezi Boars,2,1,Squeezi Boars,0,Dust2,13,16,Squeezi Boars,0
+58,23,Rainbow Riders,Team Sudio,2,0,Team Sudio,0,Vertigo,16,7,Rainbow Riders,1
+59,23,Chappa Flays,WPG,2,0,WPG,0,Overpass,16,11,Chappa Flays,1
+60,23,Team Crimbe,Team Shipin,2,0,Team Shipin,0,Dust2,19,15,Team Crimbe,1
+61,23,Hako Gaming,Rewice Gaming,1,2,Rewice Gaming,0,Inferno,14,16,Rewice Gaming,0
+62,23,Cherizy eSports,Monarz Five,1,2,Monarz Five,0,Overpass,16,13,Cherizy eSports,1
+63,23,Tweezar Crusaders,Yowi Rising,2,0,Yowi Rising,0,Dust2,16,10,Tweezar Crusaders,1
+64,23,Marriz Gaming,Team Kayzze,1,2,Team Kayzze,0,Mirage,16,12,Marriz Gaming,1
+65,23,Team Orbis,Midnight Academy,2,1,Midnight Academy,0,Dust2,11,16,Midnight Academy,0
+66,23,Bowl eSports,Rozippe Gaming,1,2,Rozippe Gaming,0,Dust2,10,16,Rozippe Gaming,0
+67,23,Lepido eSports,Team Priestly,0,2,Team Priestly,0,Nuke,14,16,Team Priestly,0
+68,23,qK,Team Solitude,0,2,Team Solitude,0,Nuke,12,16,Team Solitude,0
+69,23,Leemaz Clan,Wups Gaming,1,2,Wups Gaming,0,Ancient,7,16,Wups Gaming,0
+70,23,Kunzite Gaming,Dixxi Riders,2,1,Dixxi Riders,0,Ancient,11,16,Dixxi Riders,0
+71,23,Team Priestly,Tweezar Crusaders,0,2,Tweezar Crusaders,0,Overpass,16,19,Tweezar Crusaders,0
+72,23,Team Solitude,Leemaz Clan,0,2,Leemaz Clan,0,Mirage,14,16,Leemaz Clan,0
+73,23,Rozippe Gaming,Lepido eSports,1,2,Lepido eSports,0,Dust2,16,13,Rozippe Gaming,1
+74,23,Midnight Academy,qK,1,2,qK,0,Dust2,7,16,qK,0
+75,23,Wups Gaming,Bowl eSports,0,2,Bowl eSports,0,Mirage,7,16,Bowl eSports,0
+76,23,Team Kayzze,Team Orbis,2,1,Team Orbis,0,Overpass,14,16,Team Orbis,0
+77,23,Dixxi Riders,Marriz Gaming,2,1,Marriz Gaming,0,Nuke,16,10,Dixxi Riders,1
+78,23,Monarz Five,Kunzite Gaming,1,2,Kunzite Gaming,0,Nuke,14,16,Kunzite Gaming,0
+79,23,Yowi Rising,Bandi Soilders,0,2,Bandi Soilders,0,Dust2,10,16,Bandi Soilders,0
+80,23,WPG,Hako Gaming,1,2,Hako Gaming,0,Dust2,4,16,Hako Gaming,0
+81,23,Team Sudio,Team Crimbe,2,1,Team Crimbe,0,Overpass,13,16,Team Crimbe,0
+82,23,Team Mellif,Rainbow Riders,2,0,Rainbow Riders,0,Dust2,16,14,Team Mellif,1
+83,23,Squeezi Boars,Chappa Flays,0,2,Chappa Flays,0,Ancient,7,16,Chappa Flays,0
+84,23,Team Shipin,Desafinado Academy,2,0,Desafinado Academy,0,Dust2,16,13,Team Shipin,1
+85,23,Rewice Gaming,Cherizy eSports,2,1,Cherizy eSports,0,Mirage,16,12,Rewice Gaming,1
+86,23,Rainbow Riders,Bandi Soilders,0,2,Bandi Soilders,0,Dust2,9,16,Bandi Soilders,0
+87,23,Team Crimbe,Team Mellif,2,1,Team Mellif,0,Nuke,16,7,Team Crimbe,1
+88,23,Chappa Flays,Team Shipin,1,2,Team Shipin,0,Vertigo,14,16,Team Shipin,0
+89,23,Hako Gaming,Squeezi Boars,1,2,Squeezi Boars,0,Nuke,7,16,Squeezi Boars,0
+90,23,Desafinado Academy,Team Sudio,1,2,Team Sudio,0,Dust2,6,16,Team Sudio,0
+91,23,Cherizy eSports,WPG,0,2,WPG,0,Inferno,11,16,WPG,0
+92,23,Kunzite Gaming,Rewice Gaming,1,2,Rewice Gaming,0,Nuke,16,10,Kunzite Gaming,1
+93,23,Marriz Gaming,Monarz Five,1,2,Monarz Five,0,Mirage,16,11,Marriz Gaming,1
+94,23,Team Orbis,Dixxi Riders,,,Dixxi Riders,0,Vertigo,5,16,Dixxi Riders,0
+95,23,Team Priestly,Yowi Rising,0,2,Yowi Rising,0,Dust2,7,16,Yowi Rising,0
+96,23,Lepido eSports,Wups Gaming,2,1,Wups Gaming,0,Dust2,14,16,Wups Gaming,0
+97,23,Tweezar Crusaders,Rozippe Gaming,0,2,Rozippe Gaming,0,Nuke,8,16,Rozippe Gaming,0
+98,23,Leemaz Clan,Midnight Academy,1,2,Midnight Academy,0,Overpass,3,16,Midnight Academy,0
+99,23,Bowl eSports,Team Solitude,1,2,Team Solitude,0,Mirage,6,16,Team Solitude,0
+100,23,qK,Team Kayzze,2,1,Team Kayzze,0,Dust2,16,10,qK,1
+101,23,Hako Gaming,Team Sudio,2,1,Team Sudio,0,Dust2,11,16,Team Sudio,0
+103,23,Kunzite Gaming,Squeezi Boars,1,2,Squeezi Boars,0,Overpass,7,16,Squeezi Boars,0
+104,23,Marriz Gaming,WPG,1,2,WPG,0,Mirage,12,16,WPG,0
+105,23,Team Orbis,Rewice Gaming,2,0,Rewice Gaming,0,Dust2,16,8,Team Orbis,1
+106,23,qK,Monarz Five,2,1,Monarz Five,0,Vertigo,11,16,Monarz Five,0
+107,23,Tweezar Crusaders,Team Solitude,2,1,Team Solitude,0,Nuke,6,16,Team Solitude,0
+108,23,Leemaz Clan,Dixxi Riders,2,1,Dixxi Riders,0,Ancient,13,16,Dixxi Riders,0
+109,23,Team Priestly,Wups Gaming,1,2,Wups Gaming,0,Mirage,16,12,Team Priestly,1
+110,23,Bowl eSports,Team Kayzze,2,0,Team Kayzze,0,Dust2,16,13,Bowl eSports,1
+111,23,Lepido eSports,Midnight Academy,0,2,Midnight Academy,0,Ancient,10,16,Midnight Academy,0
+112,23,Rozippe Gaming,Yowi Rising,0,2,Yowi Rising,0,Vertigo,15,19,Yowi Rising,0
+113,23,Rozippe Gaming,Team Priestly,2,1,Team Priestly,0,Ancient,7,16,Team Priestly,0
+114,23,Wups Gaming,Tweezar Crusaders,0,2,Tweezar Crusaders,0,Overpass,7,16,Tweezar Crusaders,0
+115,23,Midnight Academy,Bowl eSports,0,2,Bowl eSports,0,Ancient,14,16,Bowl eSports,0
+116,23,Team Kayzze,Leemaz Clan,2,0,Leemaz Clan,0,Inferno,16,13,Team Kayzze,1
+117,23,Team Solitude,Lepido eSports,1,2,Lepido eSports,0,Inferno,6,16,Lepido eSports,0
+118,23,Dixxi Riders,qK,0,2,qK,0,Dust2,8,16,qK,0
+119,23,Monarz Five,Team Orbis,,,Team Orbis,0,Dust2,16,9,Monarz Five,1
+120,23,Rewice Gaming,Marriz Gaming,2,1,Marriz Gaming,0,Vertigo,16,12,Rewice Gaming,1
+121,23,WPG,Kunzite Gaming,2,1,Kunzite Gaming,0,Ancient,12,16,Kunzite Gaming,0
+122,23,Squeezi Boars,Cherizy eSports,1,2,Cherizy eSports,0,Dust2,9,16,Cherizy eSports,0
+123,23,Team Mellif,Desafinado Academy,1,2,Desafinado Academy,0,Nuke,16,7,Team Mellif,1
+124,23,Yowi Rising,Rainbow Riders,2,0,Rainbow Riders,0,Vertigo,16,13,Yowi Rising,1
+125,23,Bandi Soilders,Team Crimbe,2,1,Team Crimbe,0,Overpass,16,8,Bandi Soilders,1
+126,23,Team Sudio,Chappa Flays,1,2,Chappa Flays,0,Dust2,16,8,Team Sudio,1
+127,23,Team Shipin,Hako Gaming,0,2,Hako Gaming,0,Inferno,10,16,Hako Gaming,0
+128,23,Wups Gaming,Rozippe Gaming,0,2,Rozippe Gaming,0,Dust2,5,16,Rozippe Gaming,0
+129,23,Team Solitude,Team Priestly,1,2,Team Priestly,0,Dust2,16,13,Team Solitude,1
+130,23,Team Kayzze,Lepido eSports,1,2,Lepido eSports,0,Dust2,6,16,Lepido eSports,0
+131,23,Dixxi Riders,Bowl eSports,0,2,Bowl eSports,0,Ancient,10,16,Bowl eSports,0
+132,23,Midnight Academy,Tweezar Crusaders,0,2,Tweezar Crusaders,0,Inferno,10,16,Tweezar Crusaders,0
+133,23,Monarz Five,Leemaz Clan,2,0,Leemaz Clan,0,Inferno,16,14,Monarz Five,1
+134,23,Rewice Gaming,qK,0,2,qK,0,Overpass,12,16,qK,0
+135,23,WPG,Team Orbis,2,1,Team Orbis,0,Dust2,16,14,WPG,1
+136,23,Squeezi Boars,Marriz Gaming,2,0,Marriz Gaming,0,Mirage,16,8,Squeezi Boars,1
+137,23,Team Shipin,Kunzite Gaming,2,0,Kunzite Gaming,0,Dust2,16,12,Team Shipin,1
+138,23,Yowi Rising,Team Crimbe,1,2,Team Crimbe,0,Dust2,11,16,Team Crimbe,0
+139,23,Team Sudio,Cherizy eSports,1,2,Cherizy eSports,0,Nuke,12,16,Cherizy eSports,0
+140,23,Rainbow Riders,Desafinado Academy,2,0,Desafinado Academy,0,Vertigo,16,9,Rainbow Riders,1
+141,23,Bandi Soilders,Chappa Flays,2,1,Chappa Flays,0,Ancient,11,16,Chappa Flays,0
+142,23,Team Mellif,Hako Gaming,2,1,Hako Gaming,0,Inferno,5,16,Hako Gaming,0
+143,23,Team Solitude,Wups Gaming,0,2,Wups Gaming,0,Overpass,10,16,Wups Gaming,0
+144,23,Midnight Academy,Rozippe Gaming,2,1,Rozippe Gaming,0,Dust2,7,16,Rozippe Gaming,0
+145,23,Dixxi Riders,Tweezar Crusaders,1,2,Tweezar Crusaders,0,Dust2,14,16,Tweezar Crusaders,0
+146,23,Monarz Five,Lepido eSports,0,2,Lepido eSports,0,Inferno,9,16,Lepido eSports,0
+147,23,Team Kayzze,Team Priestly,1,2,Team Priestly,0,Mirage,16,11,Team Kayzze,1
+148,23,Rewice Gaming,Bowl eSports,1,2,Bowl eSports,0,Vertigo,16,5,Rewice Gaming,1
+149,23,WPG,Leemaz Clan,2,0,Leemaz Clan,0,Dust2,16,10,WPG,1
+150,23,Squeezi Boars,qK,1,2,qK,0,Nuke,16,10,Squeezi Boars,1
+151,23,Team Shipin,Team Orbis,0,2,Team Orbis,0,Ancient,14,16,Team Orbis,0
+152,23,Team Sudio,Marriz Gaming,2,0,Marriz Gaming,0,Mirage,16,14,Team Sudio,1
+153,23,Rainbow Riders,Hako Gaming,2,1,Hako Gaming,0,Inferno,16,13,Rainbow Riders,1
+154,23,Team Mellif,Kunzite Gaming,0,2,Kunzite Gaming,0,Inferno,12,16,Kunzite Gaming,0
+155,23,Team Crimbe,Chappa Flays,1,2,Chappa Flays,0,Nuke,16,12,Team Crimbe,1
+156,23,Yowi Rising,Desafinado Academy,0,2,Desafinado Academy,0,Dust2,10,16,Desafinado Academy,0
+157,23,Bandi Soilders,Cherizy eSports,0,2,Cherizy eSports,0,Vertigo,6,16,Cherizy eSports,0
+158,23,Hako Gaming,Bandi Soilders,0,2,andi Soilders,0,Dust2,14,16,Bandi Soilders,0
+159,23,Wups Gaming,Yowi Rising,0,2,Yowi Rising,0,Nuke,14,16,Yowi Rising,0
+160,23,Team Priestly,Midnight Academy,0,2,Midnight Academy,0,Mirage,13,16,Midnight Academy,0
+161,23,qK,WPG,2,0,WPG,0,Vertigo,16,14,qK,1
+162,23,Tweezar Crusaders,Team Kayzze,1,2,Team Kayzze,0,Ancient,16,19,Team Kayzze,0
+163,23,Rozippe Gaming,Team Solitude,1,2,Team Solitude,0,Inferno,12,16,Team Solitude,0
+165,22 playoffs,Rainbow Riders,Team Sudio,0,2,Team Sudio,0,Inferno,13,16,Team Sudio,0
+166,22 playoffs,Rainbow Riders,Bowl eSports,2,0,Bowl eSports,0,Dust2,16,12,Rainbow Riders,1
+167,22 playoffs,Team Orbis,Rainbow Riders,0,2,Rainbow Riders,0,Inferno,6,16,Rainbow Riders,0
+169,22 playoffs,Bowl eSports,Leemaz Clan,2,0,Leemaz Clan,0,Overpass,16,8,Bowl eSports,1
+172,22 playoffs,Leemaz Clan,Team Sudio,0,2,Team Sudio,0,Inferno,16,19,Team Sudio,0
+173,22 playoffs,Lepido eSports,Team Orbis,1,2,eam Orbis,0,Ancient,11,16,Team Orbis,0
+174,22 playoffs,Team Mellif,Team Orbis,2,0,eam Orbis,0,Nuke,16,6,Team Mellif,1
+175,22 playoffs,Team Sudio,Bowl eSports,2,1,Bowl eSports,0,Overpass,16,13,Team Sudio,1
+176,22 playoffs,Chappa Flays,Leemaz Clan,1,2,Leemaz Clan,0,Nuke,13,16,Leemaz Clan,0
+177,22 playoffs,Rainbow Riders,Lepido eSports,2,1,Lepido eSports,0,Inferno,16,11,Rainbow Riders,1
+178,22,Kunzite Gaming,Mioriz Eminor,2,0,Mioriz Eminor,0,Ancient,16,14,Kunzite Gaming,1
+179,22,Yowi Rising,Midnight Academy,2,0,Midnight Academy,0,Inferno,16,6,Yowi Rising,1
+180,22,Leemaz Clan,Marriz Gaming,0,2,Marriz Gaming,0,Vertigo,8,16,Marriz Gaming,0
+181,22,Bandi Soilders,Bowl eSports,1,2,Bowl eSports,0,Ancient,16,11,Bandi Soilders,1
+182,22,Lepido eSports,Rainbow Riders,1,2,Rainbow Riders,0,Dust2,12,16,Rainbow Riders,0
+183,22,Rewice Gaming,Team Mellif,1,2,Team Mellif,0,Vertigo,12,16,Team Mellif,0
+184,22,Dixxi Riders,Bandi Soilders,2,0,Bandi Soilders,0,Ancient,16,4,Dixxi Riders,1
+185,22,Tweezar Crusaders,LynxCompany,0,2,LynxCompany,0,Vertigo,14,16,LynxCompany,0
+186,22,Evil Sharks,Team Sudio,1,2,Team Sudio,0,Ancient,6,16,Team Sudio,0
+187,22,Bowl eSports,Team Orbis,1,2,Team Orbis,0,Dust2,13,16,Team Orbis,0
+188,22,Team Crimbe,Desafinado Academy,1,2,esafinado Academy,0,Ancient,16,7,Team Crimbe,1
+189,22,Team Sudio,Chappa Flays,2,0,Chappa Flays,0,Nuke,16,8,Team Sudio,1
+190,22,Rainbow Riders,Team Inpiration,2,1,Team Inpiration,0,Ancient,11,16,Team Inpiration,0
+191,22,Lepido eSports,Leemaz Clan,0,2,Leemaz Clan,0,Dust2,11,16,Leemaz Clan,0
+192,22,LynxCompany,Monarz Five,2,1,Monarz Five,0,Ancient,7,16,Monarz Five,0
+193,22,Tweezar Crusaders,Duck eSports,2,1,Duck eSports,0,Mirage,13,16,Duck eSports,0
+194,22,Evil Sharks,Kunzite Gaming,2,0,Kunzite Gaming,0,Inferno,16,13,Evil Sharks,1
+195,22,Yowi Rising,Mioriz Eminor,1,2,Mioriz Eminor,0,Nuke,16,6,Yowi Rising,1
+196,22,Squeezi Boars,Team Solitude,2,0,Team Solitude,0,Ancient,16,5,Squeezi Boars,1
+197,22,Mint Flames,Marriz Gaming,2,1,Marriz Gaming,0,Mirage,16,3,Mint Flames,1
+198,22,Team Orbis,Dixxi Riders,2,1,Dixxi Riders,0,Inferno,17,19,Dixxi Riders,0
+199,22,Midnight Academy,Team Mellif,0,2,Team Mellif,0,Nuke,9,16,Team Mellif,0
+200,22,Team Shipin,Cherizy eSports,2,0,Cherizy eSports,0,Ancient,19,17,Team Shipin,1
+201,22,Bandi Soilders,Rewice Gaming,2,1,Rewice Gaming,0,Dust2,11,16,Rewice Gaming,0
+202,22,Wups Gaming,Bowl eSports,2,0,Bowl eSports,0,Dust2,16,12,Wups Gaming,1
+203,22,Cherizy eSports,Wups Gaming,1,2,Wups Gaming,0,Dust2,10,16,Wups Gaming,0
+204,22,Marriz Gaming,Team Shipin,1,2,Team Shipin,0,Mirage,9,16,Team Shipin,0
+205,22,Team Solitude,Mint Flames,0,2,Mint Flames,0,Vertigo,7,16,Mint Flames,0
+206,22,Mioriz Eminor,Squeezi Boars,2,0,Squeezi Boars,0,Overpass,16,7,Mioriz Eminor,1
+207,22,Kunzite Gaming,Yowi Rising,2,1,Yowi Rising,0,Vertigo,16,8,Kunzite Gaming,1
+208,22,Duck eSports,Evil Sharks,1,2,Evil Sharks,0,Mirage,9,16,Evil Sharks,0
+209,22,Leemaz Clan,Tweezar Crusaders,0,2,Tweezar Crusaders,0,Dust2,5,16,Tweezar Crusaders,0
+210,22,Team Crimbe,Midnight Academy,0,2,Midnight Academy,0,Dust2,6,16,Midnight Academy,0
+211,22,Team Inpiration,Lepido eSports,2,1,Lepido eSports,0,Nuke,13,16,Lepido eSports,0
+212,22,Desafinado Academy,Team Sudio,1,2,Team Sudio,0,Nuke,16,19,Team Sudio,0
+213,22,Chappa Flays,LynxCompany,2,0,LynxCompany,0,Ancient,16,5,Chappa Flays,1
+214,22,Monarz Five,Rainbow Riders,2,1,Rainbow Riders,0,Ancient,11,16,Rainbow Riders,0
+215,22,Team Sudio,Team Crimbe,2,0,Team Crimbe,0,Dust2,19,17,Team Sudio,1
+216,22,LynxCompany,Desafinado Academy,0,2,Desafinado Academy,0,Nuke,9,16,Desafinado Academy,0
+217,22,Lepido eSports,Monarz Five,2,1,Monarz Five,0,Inferno,16,8,Lepido eSports,1
+218,22,Tweezar Crusaders,Team Inpiration,0,2,Team Inpiration,0,Dust2,7,16,Team Inpiration,0
+219,22,Rainbow Riders,Chappa Flays,0,2,Chappa Flays,0,Dust2,8,16,Chappa Flays,0
+220,22,Yowi Rising,Duck eSports,0,2,Duck eSports,0,Ancient,5,16,Duck eSports,0
+221,22,Evil Sharks,Leemaz Clan,2,0,Leemaz Clan,0,Mirage,16,14,Evil Sharks,1
+222,22,Squeezi Boars,Kunzite Gaming,1,2,Kunzite Gaming,0,Nuke,9,16,Kunzite Gaming,0
+223,22,Mint Flames,Mioriz Eminor,0,2,Mioriz Eminor,0,Vertigo,11,16,Mioriz Eminor,0
+224,22,Team Shipin,Team Solitude,0,2,Team Solitude,0,Overpass,11,16,Team Solitude,0
+225,22,Wups Gaming,Marriz Gaming,2,0,Marriz Gaming,0,Dust2,16,12,Wups Gaming,1
+226,22,Team Mellif,Dixxi Riders,2,0,Dixxi Riders,0,Dust2,16,13,Team Mellif,1
+227,22,Midnight Academy,Rewice Gaming,2,0,Rewice Gaming,0,Inferno,16,9,Midnight Academy,1
+228,22,Team Orbis,Cherizy eSports,2,0,Cherizy eSports,0,Mirage,16,8,Team Orbis,1
+229,22,Dixxi Riders,Rewice Gaming,2,0,Rewice Gaming,0,Nuke,16,8,Dixxi Riders,1
+230,22,Bowl eSports,Team Mellif,0,2,Team Mellif,0,Mirage,7,16,Team Mellif,0
+231,22,Marriz Gaming,Team Orbis,2,1,Team Orbis,0,Overpass,14,16,Team Orbis,0
+232,22,Team Solitude,Wups Gaming,2,1,Wups Gaming,0,Mirage,16,13,Team Solitude,1
+233,22,Cherizy eSports,Bandi Soilders,1,2,Bandi Soilders,0,Vertigo,11,16,Bandi Soilders,0
+234,22,Mioriz Eminor,Team Shipin,2,0,Team Shipin,0,Dust2,16,12,Mioriz Eminor,1
+235,22,Kunzite Gaming,Mint Flames,2,0,Mint Flames,0,Nuke,16,13,Kunzite Gaming,1
+236,22,Duck eSports,Squeezi Boars,1,2,Squeezi Boars,0,Mirage,9,16,Squeezi Boars,0
+237,22,Leemaz Clan,Yowi Rising,0,2,Yowi Rising,0,Ancient,4,16,Yowi Rising,0
+238,22,Team Inpiration,Evil Sharks,0,2,Evil Sharks,0,Dust2,11,16,Evil Sharks,0
+239,22,Desafinado Academy,Rainbow Riders,1,2,Rainbow Riders,0,Dust2,7,16,Rainbow Riders,0
+240,22,Team Sudio,Midnight Academy,0,2,Midnight Academy,0,Nuke,4,16,Midnight Academy,0
+241,22,Team Crimbe,LynxCompany,2,1,LynxCompany,0,Nuke,10,16,LynxCompany,0
+242,22,Monarz Five,Tweezar Crusaders,2,0,Tweezar Crusaders,0,Dust2,16,11,Monarz Five,1
+243,22,Chappa Flays,Lepido eSports,2,1,Lepido eSports,0,Overpass,14,16,Lepido eSports,0
+244,22,LynxCompany,Team Sudio,2,0,Team Sudio,0,Ancient,16,6,LynxCompany,1
+245,22,Rainbow Riders,Team Crimbe,2,1,Team Crimbe,0,Overpass,16,8,Rainbow Riders,1
+246,22,Tweezar Crusaders,Chappa Flays,2,1,Chappa Flays,0,Ancient,16,11,Tweezar Crusaders,1
+247,22,Evil Sharks,Monarz Five,0,2,Monarz Five,0,Overpass,13,16,Monarz Five,0
+248,22,Lepido eSports,Desafinado Academy,2,1,Desafinado Academy,0,Inferno,11,16,Desafinado Academy,0
+249,22,Yowi Rising,Team Inpiration,0,2,Team Inpiration,0,Nuke,8,16,Team Inpiration,0
+250,22,Squeezi Boars,Leemaz Clan,0,2,Leemaz Clan,0,Vertigo,9,16,Leemaz Clan,0
+251,22,Mint Flames,Duck eSports,2,0,Duck eSports,0,Overpass,19,17,Mint Flames,1
+252,22,Team Shipin,Kunzite Gaming,1,2,Kunzite Gaming,0,Inferno,13,16,Kunzite Gaming,0
+253,22,Team Mellif,Cherizy eSports,2,1,Cherizy eSports,0,Nuke,16,11,Team Mellif,1
+254,22,Midnight Academy,Dixxi Riders,1,2,Dixxi Riders,0,Nuke,16,19,Dixxi Riders,0
+255,22,Rewice Gaming,Bowl eSports,1,2,Bowl eSports,0,Mirage,9,16,Bowl eSports,0
+256,22,Team Orbis,Team Solitude,2,1,Team Solitude,0,Mirage,16,13,Team Orbis,1
+257,22,Bandi Soilders,Marriz Gaming,2,0,Marriz Gaming,0,Dust2,16,7,Bandi Soilders,1
+258,22,Wups Gaming,Mioriz Eminor,2,1,Mioriz Eminor,0,Ancient,19,15,Wups Gaming,1
+259,22,Bowl eSports,Dixxi Riders,0,2,Dixxi Riders,0,Dust2,14,16,Dixxi Riders,0
+260,22,Cherizy eSports,Rewice Gaming,2,1,Rewice Gaming,0,Dust2,12,16,Rewice Gaming,0
+261,22,Team Solitude,Bandi Soilders,2,1,Bandi Soilders,0,Vertigo,16,10,Team Solitude,1
+262,22,Mioriz Eminor,Team Orbis,2,0,Team Orbis,0,Dust2,16,12,Mioriz Eminor,1
+263,22,Marriz Gaming,Team Mellif,2,0,Team Mellif,0,Inferno,16,10,Marriz Gaming,1
+264,22,Kunzite Gaming,Wups Gaming,2,0,Wups Gaming,0,Overpass,16,8,Kunzite Gaming,1
+265,22,Duck eSports,Team Shipin,1,2,Team Shipin,0,Ancient,16,8,Duck eSports,1
+266,22,Leemaz Clan,Mint Flames,2,1,Mint Flames,0,Vertigo,16,8,Leemaz Clan,1
+267,22,LynxCompany,Midnight Academy,0,2,Midnight Academy,0,Dust2,13,16,Midnight Academy,0
+268,22,Team Crimbe,Lepido eSports,1,2,Lepido eSports,0,Nuke,14,16,Lepido eSports,0
+269,22,Monarz Five,Yowi Rising,2,0,Yowi Rising,0,Inferno,16,5,Monarz Five,1
+270,22,Team Sudio,Rainbow Riders,2,0,Rainbow Riders,0,Overpass,16,11,Team Sudio,1
+271,22,Chappa Flays,Evil Sharks,2,0,Evil Sharks,0,Overpass,16,12,Chappa Flays,1
+272,22,Desafinado Academy,Tweezar Crusaders,2,1,Tweezar Crusaders,0,Inferno,12,16,Tweezar Crusaders,0
+273,22,Team Inpiration,Squeezi Boars,2,1,Squeezi Boars,0,Inferno,11,16,Squeezi Boars,0
+274,22,Rainbow Riders,LynxCompany,2,0,LynxCompany,0,Overpass,16,13,Rainbow Riders,1
+275,22,Lepido eSports,Team Sudio,1,2,Team Sudio,0,Dust2,8,16,Team Sudio,0
+276,22,Evil Sharks,Desafinado Academy,2,1,Desafinado Academy,0,Inferno,16,12,Evil Sharks,1
+277,22,Yowi Rising,Chappa Flays,2,0,Chappa Flays,0,Overpass,16,8,Yowi Rising,1
+278,22,Tweezar Crusaders,Team Crimbe,2,1,Team Crimbe,0,Mirage,16,11,Tweezar Crusaders,1
+279,22,Squeezi Boars,Monarz Five,2,1,Monarz Five,0,Mirage,16,13,Squeezi Boars,1
+280,22,Mint Flames,Team Inpiration,2,1,Team Inpiration,0,Overpass,16,10,Mint Flames,1
+281,22,Midnight Academy,Bowl eSports,0,2,Bowl eSports,0,Dust2,6,16,Bowl eSports,0
+282,22,Wups Gaming,Duck eSports,2,0,Duck eSports,0,Mirage,16,9,Wups Gaming,1
+283,22,Team Orbis,Kunzite Gaming,1,2,Kunzite Gaming,0,Vertigo,5,16,Kunzite Gaming,0
+284,22,Rewice Gaming,Marriz Gaming,2,1,Marriz Gaming,0,Dust2,15,19,Marriz Gaming,0
+285,22,Dixxi Riders,Cherizy eSports,2,0,Cherizy eSports,0,Vertigo,16,14,Dixxi Riders,1
+286,22,Bandi Soilders,Mioriz Eminor,0,2,Mioriz Eminor,0,Ancient,12,16,Mioriz Eminor,0
+287,22,Team Shipin,Leemaz Clan,,,Leemaz Clan,0,Ancient,10,16,Leemaz Clan,0
+288,22,Team Mellif,Team Solitude,2,0,Team Solitude,0,Dust2,16,13,Team Mellif,1
+289,22,Cherizy eSports,Bowl eSports,2,0,Bowl eSports,0,Dust2,16,14,Cherizy eSports,1
+290,22,Mioriz Eminor,Team Mellif,0,2,Team Mellif,0,Ancient,12,16,Team Mellif,0
+291,22,Marriz Gaming,Dixxi Riders,2,0,Dixxi Riders,0,Nuke,16,13,Marriz Gaming,1
+292,22,Kunzite Gaming,Bandi Soilders,0,2,Bandi Soilders,0,Mirage,10,16,Bandi Soilders,0
+293,22,Team Solitude,Rewice Gaming,2,0,Rewice Gaming,0,Ancient,16,8,Team Solitude,1
+294,22,Duck eSports,Team Orbis,2,1,Team Orbis,0,Inferno,13,16,Team Orbis,0
+295,22,Rainbow Riders,Midnight Academy,0,2,Midnight Academy,0,Dust2,10,16,Midnight Academy,0
+296,22,Team Inpiration,Team Shipin,0,2,Team Shipin,0,Nuke,8,16,Team Shipin,0
+297,22,Monarz Five,Mint Flames,1,2,Mint Flames,0,Ancient,16,11,Monarz Five,1
+298,22,Team Sudio,Tweezar Crusaders,2,1,Tweezar Crusaders,0,Inferno,9,16,Tweezar Crusaders,0
+299,22,Chappa Flays,Squeezi Boars,0,2,Squeezi Boars,0,Mirage,13,16,Squeezi Boars,0
+300,22,LynxCompany,Lepido eSports,0,2,Lepido eSports,0,Nuke,14,16,Lepido eSports,0
+301,22,Desafinado Academy,Yowi Rising,2,0,Yowi Rising,0,Ancient,16,11,Desafinado Academy,1
+302,22,Leemaz Clan,Wups Gaming,2,1,Wups Gaming,0,Dust2,10,16,Wups Gaming,0
+303,22,Team Crimbe,Evil Sharks,0,2,Evil Sharks,0,Dust2,14,16,Evil Sharks,0
+304,22,Yowi Rising,Team Crimbe,1,2,Team Crimbe,0,Vertigo,16,9,Yowi Rising,1
+305,22,Squeezi Boars,Desafinado Academy,1,2,Desafinado Academy,0,Mirage,9,16,Desafinado Academy,0
+306,22,Midnight Academy,Cherizy eSports,,,Cherizy eSports,0,Dust2,16,10,Midnight Academy,1
+307,22,Team Shipin,Monarz Five,2,1,Monarz Five,0,Overpass,13,16,Monarz Five,0
+308,22,Wups Gaming,Team Inpiration,2,0,Team Inpiration,0,Vertigo,16,12,Wups Gaming,1
+309,22,Team Orbis,Leemaz Clan,1,2,Leemaz Clan,0,Mirage,10,16,Leemaz Clan,0
+310,22,Bandi Soilders,Duck eSports,2,1,Duck eSports,0,Vertigo,16,11,Bandi Soilders,1
+311,22,Dixxi Riders,Team Solitude,1,2,Team Solitude,0,Dust2,13,16,Team Solitude,0
+312,22,Team Mellif,Kunzite Gaming,1,2,Kunzite Gaming,0,Mirage,5,16,Kunzite Gaming,0
+313,22,Bowl eSports,Marriz Gaming,1,2,Marriz Gaming,0,Nuke,8,16,Marriz Gaming,0
+314,22,Rewice Gaming,Mioriz Eminor,2,1,Mioriz Eminor,0,Dust2,8,16,Mioriz Eminor,0
+315,22,Mint Flames,Chappa Flays,0,2,Chappa Flays,0,Ancient,13,16,Chappa Flays,0
+316,22,Marriz Gaming,Cherizy eSports,0,2,Cherizy eSports,0,Dust2,11,16,Cherizy eSports,0
+317,22,Team Solitude,Bowl eSports,0,2,Bowl eSports,0,Nuke,6,16,Bowl eSports,0
+318,22,Kunzite Gaming,Rewice Gaming,0,2,Rewice Gaming,0,Ancient,13,16,Rewice Gaming,0
+319,22,Mioriz Eminor,Dixxi Riders,2,1,Dixxi Riders,0,Dust2,16,7,Mioriz Eminor,1
+320,22,Lepido eSports,Midnight Academy,2,1,Midnight Academy,0,Dust2,6,16,Midnight Academy,0
+321,22,Leemaz Clan,Bandi Soilders,0,2,Bandi Soilders,0,Inferno,9,16,Bandi Soilders,0
+322,22,Team Inpiration,Team Orbis,2,1,Team Orbis,0,Ancient,11,16,Team Orbis,0
+323,22,Monarz Five,Wups Gaming,2,1,Wups Gaming,0,Nuke,10,16,Wups Gaming,0
+324,22,Chappa Flays,Team Shipin,0,2,Team Shipin,0,Dust2,13,16,Team Shipin,0
+325,22,Desafinado Academy,Mint Flames,1,2,Mint Flames,0,Inferno,7,16,Mint Flames,0
+326,22,LynxCompany,Evil Sharks,1,2,Evil Sharks,0,Overpass,16,5,LynxCompany,1
+327,22,Team Crimbe,Squeezi Boars,2,1,Squeezi Boars,0,Ancient,16,12,Team Crimbe,1
+328,22,Rainbow Riders,Tweezar Crusaders,2,0,Tweezar Crusaders,0,Dust2,16,10,Rainbow Riders,1
+329,22,Duck eSports,Team Mellif,0,2,Team Mellif,0,Mirage,8,16,Team Mellif,0
+330,22,Team Sudio,Yowi Rising,0,2,Yowi Rising,0,Nuke,14,16,Yowi Rising,0
+331,22,Tweezar Crusaders,Lepido eSports,2,0,Lepido eSports,0,Nuke,16,8,Tweezar Crusaders,1
+332,22,Evil Sharks,Rainbow Riders,0,2,Rainbow Riders,0,Mirage,9,16,Rainbow Riders,0
+333,22,Midnight Academy,Marriz Gaming,1,2,Marriz Gaming,0,Inferno,16,14,Midnight Academy,1
+334,22,Mint Flames,Team Crimbe,2,0,Team Crimbe,0,Vertigo,16,12,Mint Flames,1
+335,22,Yowi Rising,LynxCompany,2,1,LynxCompany,0,Vertigo,16,9,Yowi Rising,1
+336,22,Team Shipin,Desafinado Academy,1,2,Desafinado Academy,0,Dust2,16,6,Team Shipin,1
+337,22,Wups Gaming,Chappa Flays,2,0,Chappa Flays,0,Nuke,16,7,Wups Gaming,1
+338,22,Team Orbis,Monarz Five,2,0,Monarz Five,0,Mirage,16,7,Team Orbis,1
+339,22,Bandi Soilders,Team Inpiration,2,1,Team Inpiration,0,Vertigo,6,16,Team Inpiration,0
+340,22,Team Mellif,Leemaz Clan,2,0,Leemaz Clan,0,Ancient,16,14,Team Mellif,1
+341,22,Bowl eSports,Mioriz Eminor,2,1,Mioriz Eminor,0,Dust2,16,8,Bowl eSports,1
+342,22,Rewice Gaming,Duck eSports,2,0,Duck eSports,0,Inferno,16,10,Rewice Gaming,1
+343,22,Cherizy eSports,Team Solitude,0,2,Team Solitude,0,Nuke,12,16,Team Solitude,0
+344,22,Dixxi Riders,Kunzite Gaming,2,0,Kunzite Gaming,0,Dust2,16,11,Dixxi Riders,1
+345,22,Squeezi Boars,Team Sudio,0,2,Team Sudio,0,Dust2,8,16,Team Sudio,0
+346,22,Team Solitude,Marriz Gaming,2,0,Marriz Gaming,0,Ancient,16,12,Team Solitude,1
+347,23,Chappa Flays,Team Mellif,2,1,Chappa Flays,1,Nuke,16,19,Team Mellif,0
+348,23,Lepido eSports,Dixxi Riders,0,2,Lepido eSports,1,Dust2,7,16,Dixxi Riders,0
+349,23,Bowl eSports,Monarz Five,2,1,Bowl eSports,1,Vertigo,16,8,Bowl eSports,1
+350,23,Desafinado Academy,Bandi Soilders,2,1,Desafinado Academy,1,Ancient,16,10,Desafinado Academy,1
+351,23,Team Crimbe,Rainbow Riders,1,2,Team Crimbe,1,Dust2,19,16,Team Crimbe,1
+352,23,Cherizy eSports,Team Mellif,1,2,Cherizy eSports,1,Mirage,5,16,Team Mellif,0
+353,23,Chappa Flays,Rainbow Riders,2,0,Chappa Flays,1,Inferno,16,8,Chappa Flays,1
+354,23,Desafinado Academy,Team Crimbe,1,2,Desafinado Academy,1,Inferno,10,16,Team Crimbe,0
+355,23,Team Orbis,Squeezi Boars,1,2,Team Orbis,1,Inferno,16,9,Team Orbis,1
+356,23,Marriz Gaming,Team Shipin,1,2,Marriz Gaming,1,Inferno,16,9,Marriz Gaming,1
+357,23,Kunzite Gaming,Team Sudio,2,1,Kunzite Gaming,1,Dust2,16,5,Kunzite Gaming,1
+358,23,Lepido eSports,Bowl eSports,0,2,Lepido eSports,1,Mirage,10,16,Bowl eSports,0
+359,23,Tweezar Crusaders,Leemaz Clan,0,2,Tweezar Crusaders,1,Inferno,8,16,Leemaz Clan,0
+360,23,Rozippe Gaming,Team Orbis,2,0,Rozippe Gaming,1,Overpass,16,14,Rozippe Gaming,1
+361,23,Team Priestly,qK,2,1,Team Priestly,1,Mirage,16,8,Team Priestly,1
+362,23,Yowi Rising,Team Sudio,2,0,Yowi Rising,1,Mirage,16,13,Yowi Rising,1
+363,23,Midnight Academy,Cherizy eSports,2,0,Midnight Academy,1,Dust2,16,9,Midnight Academy,1
+364,23,Team Solitude,Kunzite Gaming,2,0,Team Solitude,1,Nuke,16,10,Team Solitude,1
+365,23,Team Kayzze,Hako Gaming,2,1,Team Kayzze,1,Overpass,16,11,Team Kayzze,1
+366,23,Dixxi Riders,Chappa Flays,1,2,Dixxi Riders,1,Inferno,14,16,Chappa Flays,0
+367,23,Monarz Five,Desafinado Academy,0,2,Monarz Five,1,Vertigo,14,16,Desafinado Academy,0
+368,23,Squeezi Boars,Bandi Soilders,2,1,Squeezi Boars,1,Nuke,7,16,Bandi Soilders,0
+369,23,Team Mellif,Team Shipin,0,2,Team Mellif,1,Dust2,16,19,Team Shipin,0
+370,23,Rewice Gaming,Team Crimbe,2,1,Rewice Gaming,1,Overpass,16,5,Rewice Gaming,1
+371,23,Wups Gaming,Marriz Gaming,0,2,Wups Gaming,1,Mirage,12,16,Marriz Gaming,0
+372,23,WPG,Rainbow Riders,0,2,WPG,1,Mirage,8,16,Rainbow Riders,0
+373,23,Team Mellif,Team Sudio,2,0,Team Mellif,1,Dust2,16,13,Team Mellif,1
+374,23,Bandi Soilders,Team Shipin,1,2,Bandi Soilders,1,Overpass,11,16,Team Shipin,0
+375,23,Team Crimbe,WPG,2,0,Team Crimbe,1,Inferno,16,14,Team Crimbe,1
+376,23,Desafinado Academy,Rewice Gaming,1,2,Desafinado Academy,1,Nuke,6,16,Rewice Gaming,0
+377,23,Rainbow Riders,Squeezi Boars,2,1,Rainbow Riders,1,Inferno,9,16,Squeezi Boars,0
+378,23,Lepido eSports,Yowi Rising,0,2,Lepido eSports,1,Mirage,8,16,Yowi Rising,0
+379,23,Hako Gaming,Dixxi Riders,2,0,Hako Gaming,1,Mirage,19,17,Hako Gaming,1
+380,23,Cherizy eSports,Team Kayzze,2,0,Cherizy eSports,1,Vertigo,16,12,Cherizy eSports,1
+381,23,Kunzite Gaming,Midnight Academy,2,0,Kunzite Gaming,1,Dust2,16,8,Kunzite Gaming,1
+382,23,Marriz Gaming,Team Solitude,1,2,Marriz Gaming,1,Vertigo,16,12,Marriz Gaming,1
+383,23,Leemaz Clan,Team Priestly,2,1,Leemaz Clan,1,Dust2,7,16,Team Priestly,0
+384,23,Bowl eSports,Tweezar Crusaders,0,2,Bowl eSports,1,Vertigo,7,16,Tweezar Crusaders,0
+385,23,Team Orbis,Wups Gaming,0,2,Team Orbis,1,Overpass,19,22,Wups Gaming,0
+386,23,Chappa Flays,Monarz Five,1,2,Chappa Flays,1,Overpass,11,16,Monarz Five,0
+387,23,qK,Rozippe Gaming,0,2,qK,1,Mirage,13,16,Rozippe Gaming,0
+388,23,Tweezar Crusaders,Lepido eSports,2,1,Tweezar Crusaders,1,Mirage,16,7,Tweezar Crusaders,1
+389,23,Wups Gaming,qK,2,0,Wups Gaming,1,Overpass,16,12,Wups Gaming,1
+390,23,Team Priestly,Bowl eSports,2,0,Team Priestly,1,Vertigo,19,17,Team Priestly,1
+391,23,Rozippe Gaming,Leemaz Clan,0,2,Rozippe Gaming,1,Dust2,14,16,Leemaz Clan,0
+392,23,Team Solitude,Team Orbis,1,2,Team Solitude,1,Mirage,7,16,Team Orbis,0
+393,23,Midnight Academy,Marriz Gaming,0,2,Midnight Academy,1,Vertigo,7,16,Marriz Gaming,0
+394,23,Yowi Rising,Team Mellif,2,0,Yowi Rising,1,Nuke,16,13,Yowi Rising,1
+395,23,Dixxi Riders,Cherizy eSports,2,1,Dixxi Riders,1,Dust2,10,16,Cherizy eSports,0
+396,23,Monarz Five,Hako Gaming,2,1,Monarz Five,1,Mirage,16,9,Monarz Five,1
+397,23,Rewice Gaming,Chappa Flays,1,2,Rewice Gaming,1,Mirage,16,13,Rewice Gaming,1
+398,23,Team Shipin,Rainbow Riders,1,2,Team Shipin,1,Mirage,16,10,Team Shipin,1
+399,23,Team Sudio,Bandi Soilders,0,2,Team Sudio,1,Inferno,16,19,Bandi Soilders,0
+400,23,WPG,Desafinado Academy,1,2,WPG,1,Inferno,4,16,Desafinado Academy,0
+401,23,Squeezi Boars,Team Crimbe,0,2,Squeezi Boars,1,Mirage,14,16,Team Crimbe,0
+402,23,Team Kayzze,Kunzite Gaming,2,1,Team Kayzze,1,Mirage,16,6,Team Kayzze,1
+403,23,Bandi Soilders,Team Mellif,0,2,Bandi Soilders,1,Nuke,14,16,Team Mellif,0
+404,23,Desafinado Academy,Squeezi Boars,2,1,Desafinado Academy,1,Ancient,16,10,Desafinado Academy,1
+405,23,Rainbow Riders,Team Sudio,2,0,Rainbow Riders,1,Dust2,19,15,Rainbow Riders,1
+406,23,Chappa Flays,WPG,2,0,Chappa Flays,1,Nuke,16,11,Chappa Flays,1
+407,23,Team Crimbe,Team Shipin,2,0,Team Crimbe,1,Mirage,16,5,Team Crimbe,1
+408,23,Hako Gaming,Rewice Gaming,1,2,Hako Gaming,1,Mirage,16,11,Hako Gaming,1
+409,23,Cherizy eSports,Monarz Five,1,2,Cherizy eSports,1,Dust2,9,16,Monarz Five,0
+410,23,Tweezar Crusaders,Yowi Rising,2,0,Tweezar Crusaders,1,Vertigo,16,8,Tweezar Crusaders,1
+411,23,Marriz Gaming,Team Kayzze,1,2,Marriz Gaming,1,Overpass,10,16,Team Kayzze,0
+412,23,Team Orbis,Midnight Academy,2,1,Team Orbis,1,Mirage,16,13,Team Orbis,1
+413,23,Bowl eSports,Rozippe Gaming,1,2,Bowl eSports,1,Mirage,19,16,Bowl eSports,1
+414,23,Lepido eSports,Team Priestly,0,2,Lepido eSports,1,Inferno,8,16,Team Priestly,0
+415,23,qK,Team Solitude,0,2,qK,1,Inferno,15,19,Team Solitude,0
+416,23,Leemaz Clan,Wups Gaming,1,2,Leemaz Clan,1,Mirage,16,9,Leemaz Clan,1
+417,23,Kunzite Gaming,Dixxi Riders,2,1,Kunzite Gaming,1,Mirage,16,11,Kunzite Gaming,1
+418,23,Team Priestly,Tweezar Crusaders,0,2,Team Priestly,1,Dust2,17,19,Tweezar Crusaders,0
+419,23,Team Solitude,Leemaz Clan,0,2,Team Solitude,1,Inferno,13,16,Leemaz Clan,0
+420,23,Rozippe Gaming,Lepido eSports,1,2,Rozippe Gaming,1,Vertigo,9,16,Lepido eSports,0
+421,23,Midnight Academy,qK,1,2,Midnight Academy,1,Nuke,16,3,Midnight Academy,1
+422,23,Wups Gaming,Bowl eSports,0,2,Wups Gaming,1,Overpass,9,16,Bowl eSports,0
+423,23,Team Kayzze,Team Orbis,2,1,Team Kayzze,1,Mirage,16,11,Team Kayzze,1
+424,23,Dixxi Riders,Marriz Gaming,2,1,Dixxi Riders,1,Inferno,10,16,Marriz Gaming,0
+425,23,Monarz Five,Kunzite Gaming,1,2,Monarz Five,1,Inferno,16,6,Monarz Five,1
+426,23,Yowi Rising,Bandi Soilders,0,2,Yowi Rising,1,Mirage,10,16,Bandi Soilders,0
+427,23,WPG,Hako Gaming,1,2,WPG,1,Mirage,16,11,WPG,1
+428,23,Team Sudio,Team Crimbe,2,1,Team Sudio,1,Dust2,16,12,Team Sudio,1
+429,23,Team Mellif,Rainbow Riders,2,0,Team Mellif,1,Vertigo,16,12,Team Mellif,1
+430,23,Squeezi Boars,Chappa Flays,0,2,Squeezi Boars,1,Vertigo,13,16,Chappa Flays,0
+431,23,Team Shipin,Desafinado Academy,2,0,Team Shipin,1,Mirage,19,17,Team Shipin,1
+432,23,Rewice Gaming,Cherizy eSports,2,1,Rewice Gaming,1,Overpass,8,16,Cherizy eSports,0
+433,23,Rainbow Riders,Bandi Soilders,0,2,Rainbow Riders,1,Mirage,6,16,Bandi Soilders,0
+434,23,Team Crimbe,Team Mellif,2,1,Team Crimbe,1,Inferno,11,16,Team Mellif,0
+435,23,Chappa Flays,Team Shipin,1,2,Chappa Flays,1,Overpass,16,11,Chappa Flays,1
+436,23,Hako Gaming,Squeezi Boars,1,2,Hako Gaming,1,Ancient,16,7,Hako Gaming,1
+437,23,Desafinado Academy,Team Sudio,1,2,Desafinado Academy,1,Mirage,16,13,Desafinado Academy,1
+438,23,Cherizy eSports,WPG,0,2,Cherizy eSports,1,Dust2,9,16,WPG,0
+439,23,Kunzite Gaming,Rewice Gaming,1,2,Kunzite Gaming,1,Dust2,5,16,Rewice Gaming,0
+440,23,Marriz Gaming,Monarz Five,1,2,Marriz Gaming,1,Overpass,7,16,Monarz Five,0
+442,23,Team Priestly,Yowi Rising,0,2,Team Priestly,1,Inferno,12,16,Yowi Rising,0
+443,23,Lepido eSports,Wups Gaming,2,1,Lepido eSports,1,Mirage,16,14,Lepido eSports,1
+444,23,Tweezar Crusaders,Rozippe Gaming,0,2,Tweezar Crusaders,1,Inferno,8,16,Rozippe Gaming,0
+445,23,Leemaz Clan,Midnight Academy,1,2,Leemaz Clan,1,Mirage,16,9,Leemaz Clan,1
+446,23,Bowl eSports,Team Solitude,1,2,Bowl eSports,1,Nuke,16,12,Bowl eSports,1
+447,23,qK,Team Kayzze,2,1,qK,1,Mirage,6,16,Team Kayzze,0
+448,23,Hako Gaming,Team Sudio,2,1,Hako Gaming,1,Overpass,16,10,Hako Gaming,1
+449,23,Cherizy eSports,Team Shipin,2,0,Cherizy eSports,1,Inferno,16,7,Cherizy eSports,1
+450,23,Kunzite Gaming,Squeezi Boars,1,2,Kunzite Gaming,1,Inferno,16,12,Kunzite Gaming,1
+451,23,Marriz Gaming,WPG,1,2,arriz Gaming,0,Inferno,16,11,Marriz Gaming,1
+452,23,Team Orbis,Rewice Gaming,2,0,Team Orbis,1,Overpass,16,12,Team Orbis,1
+453,23,qK,Monarz Five,2,1,qK,1,Nuke,16,13,qK,1
+454,23,Tweezar Crusaders,Team Solitude,2,1,Tweezar Crusaders,1,Dust2,22,20,Tweezar Crusaders,1
+455,23,Leemaz Clan,Dixxi Riders,2,1,Leemaz Clan,1,Inferno,16,8,Leemaz Clan,1
+456,23,Team Priestly,Wups Gaming,1,2,Team Priestly,1,Overpass,10,16,Wups Gaming,0
+457,23,Bowl eSports,Team Kayzze,2,0,Bowl eSports,1,Mirage,16,14,Bowl eSports,1
+458,23,Lepido eSports,Midnight Academy,0,2,Lepido eSports,1,Mirage,15,19,Midnight Academy,0
+459,23,Rozippe Gaming,Yowi Rising,0,2,Rozippe Gaming,1,Overpass,4,16,Yowi Rising,0
+460,23,Rozippe Gaming,Team Priestly,2,1,Rozippe Gaming,1,Mirage,16,11,Rozippe Gaming,1
+461,23,Wups Gaming,Tweezar Crusaders,0,2,Wups Gaming,1,Vertigo,16,19,Tweezar Crusaders,0
+462,23,Midnight Academy,Bowl eSports,0,2,Midnight Academy,1,Inferno,17,19,Bowl eSports,0
+463,23,Team Kayzze,Leemaz Clan,2,0,Team Kayzze,1,Nuke,16,7,Team Kayzze,1
+464,23,Team Solitude,Lepido eSports,1,2,Team Solitude,1,Dust2,16,9,Team Solitude,1
+465,23,Dixxi Riders,qK,0,2,Dixxi Riders,1,Mirage,11,16,qK,0
+467,23,Rewice Gaming,Marriz Gaming,2,1,Rewice Gaming,1,Dust2,10,16,Marriz Gaming,0
+468,23,WPG,Kunzite Gaming,2,1,WPG,1,Mirage,16,8,WPG,1
+469,23,Squeezi Boars,Cherizy eSports,1,2,Squeezi Boars,1,Ancient,16,12,Squeezi Boars,1
+470,23,Team Mellif,Desafinado Academy,1,2,Team Mellif,1,Mirage,6,16,Desafinado Academy,0
+471,23,Yowi Rising,Rainbow Riders,2,0,Yowi Rising,1,Inferno,16,12,Yowi Rising,1
+472,23,Bandi Soilders,Team Crimbe,2,1,Bandi Soilders,1,Vertigo,13,16,Team Crimbe,0
+473,23,Team Sudio,Chappa Flays,1,2,Team Sudio,1,Overpass,6,16,Chappa Flays,0
+474,23,Team Shipin,Hako Gaming,0,2,Team Shipin,1,Dust2,11,16,Hako Gaming,0
+475,23,Wups Gaming,Rozippe Gaming,0,2,Wups Gaming,1,Mirage,11,16,Rozippe Gaming,0
+476,23,Team Solitude,Team Priestly,1,2,Team Solitude,1,Ancient,17,19,Team Priestly,0
+477,23,Team Kayzze,Lepido eSports,1,2,Team Kayzze,1,Vertigo,16,13,Team Kayzze,1
+478,23,Dixxi Riders,Bowl eSports,0,2,Dixxi Riders,1,Nuke,13,16,Bowl eSports,0
+479,23,Midnight Academy,Tweezar Crusaders,0,2,Midnight Academy,1,Mirage,9,16,Tweezar Crusaders,0
+480,23,Monarz Five,Leemaz Clan,2,0,Monarz Five,1,Overpass,16,14,Monarz Five,1
+481,23,Rewice Gaming,qK,0,2,Rewice Gaming,1,Dust2,11,16,qK,0
+482,23,WPG,Team Orbis,2,1,WPG,1,Vertigo,7,16,Team Orbis,0
+483,23,Squeezi Boars,Marriz Gaming,2,0,Squeezi Boars,1,Overpass,16,10,Squeezi Boars,1
+484,23,Team Shipin,Kunzite Gaming,2,0,Team Shipin,1,Ancient,16,13,Team Shipin,1
+485,23,Yowi Rising,Team Crimbe,1,2,Yowi Rising,1,Nuke,16,6,Yowi Rising,1
+486,23,Team Sudio,Cherizy eSports,1,2,Team Sudio,1,Mirage,16,13,Team Sudio,1
+487,23,Rainbow Riders,Desafinado Academy,2,0,Rainbow Riders,1,Dust2,19,17,Rainbow Riders,1
+488,23,Bandi Soilders,Chappa Flays,2,1,Bandi Soilders,1,Mirage,16,3,Bandi Soilders,1
+489,23,Team Mellif,Hako Gaming,2,1,Team Mellif,1,Mirage,16,11,Team Mellif,1
+490,23,Team Solitude,Wups Gaming,0,2,Team Solitude,1,Dust2,8,16,Wups Gaming,0
+491,23,Midnight Academy,Rozippe Gaming,2,1,Midnight Academy,1,Vertigo,16,10,Midnight Academy,1
+492,23,Dixxi Riders,Tweezar Crusaders,1,2,Dixxi Riders,1,Mirage,16,12,Dixxi Riders,1
+493,23,Monarz Five,Lepido eSports,0,2,Monarz Five,1,Mirage,8,16,Lepido eSports,0
+494,23,Team Kayzze,Team Priestly,1,2,Team Kayzze,1,Overpass,14,16,Team Priestly,0
+495,23,Rewice Gaming,Bowl eSports,1,2,Rewice Gaming,1,Nuke,9,16,Bowl eSports,0
+496,23,WPG,Leemaz Clan,2,0,WPG,1,Mirage,16,13,WPG,1
+497,23,Squeezi Boars,qK,1,2,Squeezi Boars,1,Inferno,12,16,qK,0
+499,23,Team Sudio,Marriz Gaming,2,0,Team Sudio,1,Dust2,16,11,Team Sudio,1
+500,23,Rainbow Riders,Hako Gaming,2,1,Rainbow Riders,1,Dust2,14,16,Hako Gaming,0
+501,23,Team Mellif,Kunzite Gaming,0,2,Team Mellif,1,Ancient,11,16,Kunzite Gaming,0
+502,23,Team Crimbe,Chappa Flays,1,2,Team Crimbe,1,Inferno,10,16,Chappa Flays,0
+503,23,Yowi Rising,Desafinado Academy,0,2,Yowi Rising,1,Nuke,14,16,Desafinado Academy,0
+504,23,Bandi Soilders,Cherizy eSports,0,2,Bandi Soilders,1,Overpass,10,16,Cherizy eSports,0
+505,23,Hako Gaming,Bandi Soilders,0,2,ako Gaming,0,Nuke,9,16,Bandi Soilders,0
+506,23,Wups Gaming,Yowi Rising,0,2,Wups Gaming,1,Inferno,18,22,Yowi Rising,0
+507,23,Team Priestly,Midnight Academy,0,2,Team Priestly,1,Overpass,14,16,Midnight Academy,0
+508,23,qK,WPG,2,0,qK,1,Ancient,16,13,qK,1
+509,23,Tweezar Crusaders,Team Kayzze,1,2,Tweezar Crusaders,1,Mirage,11,16,Team Kayzze,0
+510,23,Rozippe Gaming,Team Solitude,1,2,Rozippe Gaming,1,Dust2,16,11,Rozippe Gaming,1
+511,22 playoffs,Grand-final- Team Melif,Team Sudio,1,3,eam Melif,0,Nuke,11,16,Team Sudio,0
+512,22 playoffs,Rainbow Riders,Team Sudio,0,2,Rainbow Riders,1,Mirage,8,16,Team Sudio,0
+513,22 playoffs,Rainbow Riders,Bowl eSports,2,0,Rainbow Riders,1,Nuke,16,7,Rainbow Riders,1
+514,22 playoffs,Team Orbis,Rainbow Riders,0,2,Team Orbis,1,Mirage,5,16,Rainbow Riders,0
+516,22 playoffs,Bowl eSports,Leemaz Clan,2,0,Bowl eSports,1,Dust2,16,11,Bowl eSports,1
+519,22 playoffs,Leemaz Clan,Team Sudio,0,2,Leemaz Clan,1,Vertigo,7,16,Team Sudio,0
+520,22 playoffs,Lepido eSports,Team Orbis,1,2,epido eSports,0,Dust2,16,6,Lepido eSports,1
+521,22 playoffs,Team Mellif,Team Orbis,2,0,eam Mellif,0,Mirage,16,9,Team Mellif,1
+522,22 playoffs,Team Sudio,Bowl eSports,2,1,Team Sudio,1,Mirage,6,16,Bowl eSports,0
+523,22 playoffs,Chappa Flays,Leemaz Clan,1,2,Chappa Flays,1,Vertigo,16,14,Chappa Flays,1
+524,22 playoffs,Rainbow Riders,Lepido eSports,2,1,Rainbow Riders,1,Ancient,8,16,Lepido eSports,0
+525,22,Kunzite Gaming,Mioriz Eminor,2,0,Kunzite Gaming,1,Dust2,16,11,Kunzite Gaming,1
+526,22,Yowi Rising,Midnight Academy,2,0,Yowi Rising,1,Ancient,16,13,Yowi Rising,1
+527,22,Leemaz Clan,Marriz Gaming,0,2,Leemaz Clan,1,Dust2,6,16,Marriz Gaming,0
+528,22,Bandi Soilders,Bowl eSports,1,2,Bandi Soilders,1,Mirage,12,16,Bowl eSports,0
+529,22,Lepido eSports,Rainbow Riders,1,2,Lepido eSports,1,Nuke,16,13,Lepido eSports,1
+530,22,Rewice Gaming,Team Mellif,1,2,Rewice Gaming,1,Inferno,16,6,Rewice Gaming,1
+531,22,Dixxi Riders,Bandi Soilders,2,0,Dixxi Riders,1,Dust2,16,6,Dixxi Riders,1
+532,22,Tweezar Crusaders,LynxCompany,0,2,Tweezar Crusaders,1,Dust2,17,19,LynxCompany,0
+533,22,Evil Sharks,Team Sudio,1,2,Evil Sharks,1,Mirage,16,5,Evil Sharks,1
+534,22,Bowl eSports,Team Orbis,1,2,Bowl eSports,1,Overpass,16,6,Bowl eSports,1
+535,22,Team Crimbe,Desafinado Academy,1,2,eam Crimbe,0,Dust2,11,16,Desafinado Academy,0
+536,22,Team Sudio,Chappa Flays,2,0,eam Sudio,0,Mirage,19,15,Team Sudio,1
+537,22,Rainbow Riders,Team Inpiration,2,1,Rainbow Riders,1,Inferno,16,12,Rainbow Riders,1
+538,22,Lepido eSports,Leemaz Clan,0,2,Lepido eSports,1,Vertigo,12,16,Leemaz Clan,0
+539,22,LynxCompany,Monarz Five,2,1,LynxCompany,1,Inferno,19,17,LynxCompany,1
+540,22,Tweezar Crusaders,Duck eSports,2,1,Tweezar Crusaders,1,Overpass,16,11,Tweezar Crusaders,1
+541,22,Evil Sharks,Kunzite Gaming,2,0,Evil Sharks,1,Dust2,16,11,Evil Sharks,1
+542,22,Yowi Rising,Mioriz Eminor,1,2,Yowi Rising,1,Inferno,12,16,Mioriz Eminor,0
+543,22,Squeezi Boars,Team Solitude,2,0,Squeezi Boars,1,Mirage,16,12,Squeezi Boars,1
+544,22,Mint Flames,Marriz Gaming,2,1,Mint Flames,1,Vertigo,13,16,Marriz Gaming,0
+545,22,Team Orbis,Dixxi Riders,2,1,Team Orbis,1,Dust2,16,8,Team Orbis,1
+546,22,Midnight Academy,Team Mellif,0,2,Midnight Academy,1,Inferno,5,16,Team Mellif,0
+547,22,Team Shipin,Cherizy eSports,2,0,Team Shipin,1,Overpass,16,5,Team Shipin,1
+548,22,Bandi Soilders,Rewice Gaming,2,1,Bandi Soilders,1,Mirage,16,6,Bandi Soilders,1
+549,22,Wups Gaming,Bowl eSports,2,0,Wups Gaming,1,Mirage,16,8,Wups Gaming,1
+550,22,Cherizy eSports,Wups Gaming,1,2,Cherizy eSports,1,Overpass,16,9,Cherizy eSports,1
+551,22,Marriz Gaming,Team Shipin,1,2,Marriz Gaming,1,Inferno,16,9,Marriz Gaming,1
+552,22,Team Solitude,Mint Flames,0,2,Team Solitude,1,Nuke,11,16,Mint Flames,0
+553,22,Mioriz Eminor,Squeezi Boars,2,0,Mioriz Eminor,1,Inferno,16,14,Mioriz Eminor,1
+554,22,Kunzite Gaming,Yowi Rising,2,1,Kunzite Gaming,1,Ancient,9,16,Yowi Rising,0
+555,22,Duck eSports,Evil Sharks,1,2,uck eSports,0,Inferno,16,5,Duck eSports,1
+556,22,Leemaz Clan,Tweezar Crusaders,0,2,Leemaz Clan,1,Mirage,8,16,Tweezar Crusaders,0
+557,22,Team Crimbe,Midnight Academy,0,2,Team Crimbe,1,Mirage,8,16,Midnight Academy,0
+558,22,Team Inpiration,Lepido eSports,2,1,Team Inpiration,1,Inferno,16,12,Team Inpiration,1
+559,22,Desafinado Academy,Team Sudio,1,2,Desafinado Academy,1,Inferno,16,5,Desafinado Academy,1
+560,22,Chappa Flays,LynxCompany,2,0,Chappa Flays,1,Mirage,16,14,Chappa Flays,1
+561,22,Monarz Five,Rainbow Riders,2,1,Monarz Five,1,Mirage,19,16,Monarz Five,1
+562,22,Team Sudio,Team Crimbe,2,0,Team Sudio,1,Mirage,16,10,Team Sudio,1
+563,22,LynxCompany,Desafinado Academy,0,2,LynxCompany,1,Inferno,10,16,Desafinado Academy,0
+564,22,Lepido eSports,Monarz Five,2,1,Lepido eSports,1,Nuke,12,16,Monarz Five,0
+565,22,Tweezar Crusaders,Team Inpiration,0,2,Tweezar Crusaders,1,Vertigo,6,16,Team Inpiration,0
+566,22,Rainbow Riders,Chappa Flays,0,2,Rainbow Riders,1,Mirage,17,19,Chappa Flays,0
+567,22,Yowi Rising,Duck eSports,0,2,Yowi Rising,1,Mirage,3,16,Duck eSports,0
+568,22,Evil Sharks,Leemaz Clan,2,0,Evil Sharks,1,Ancient,16,11,Evil Sharks,1
+569,22,Squeezi Boars,Kunzite Gaming,1,2,Squeezi Boars,1,Inferno,16,11,Squeezi Boars,1
+570,22,Mint Flames,Mioriz Eminor,0,2,Mint Flames,1,Mirage,14,16,Mioriz Eminor,0
+571,22,Team Shipin,Team Solitude,0,2,Team Shipin,1,Dust2,12,16,Team Solitude,0
+572,22,Wups Gaming,Marriz Gaming,2,0,Wups Gaming,1,Ancient,16,9,Wups Gaming,1
+573,22,Team Mellif,Dixxi Riders,2,0,Team Mellif,1,Vertigo,16,0,Team Mellif,1
+574,22,Midnight Academy,Rewice Gaming,2,0,Midnight Academy,1,Nuke,16,13,Midnight Academy,1
+575,22,Team Orbis,Cherizy eSports,2,0,Team Orbis,1,Overpass,16,10,Team Orbis,1
+576,22,Dixxi Riders,Rewice Gaming,2,0,Dixxi Riders,1,Dust2,16,13,Dixxi Riders,1
+577,22,Bowl eSports,Team Mellif,0,2,Bowl eSports,1,Overpass,11,16,Team Mellif,0
+578,22,Marriz Gaming,Team Orbis,2,1,Marriz Gaming,1,Nuke,16,11,Marriz Gaming,1
+579,22,Team Solitude,Wups Gaming,2,1,Team Solitude,1,Inferno,12,16,Wups Gaming,0
+580,22,Cherizy eSports,Bandi Soilders,1,2,Cherizy eSports,1,Dust2,16,5,Cherizy eSports,1
+581,22,Mioriz Eminor,Team Shipin,2,0,Mioriz Eminor,1,Vertigo,16,14,Mioriz Eminor,1
+582,22,Kunzite Gaming,Mint Flames,2,0,Kunzite Gaming,1,Dust2,16,6,Kunzite Gaming,1
+583,22,Duck eSports,Squeezi Boars,1,2,Duck eSports,1,Overpass,16,12,Duck eSports,1
+584,22,Leemaz Clan,Yowi Rising,0,2,Leemaz Clan,1,Inferno,12,16,Yowi Rising,0
+585,22,Team Inpiration,Evil Sharks,0,2,Team Inpiration,1,Inferno,15,19,Evil Sharks,0
+586,22,Desafinado Academy,Rainbow Riders,1,2,Desafinado Academy,1,Mirage,16,5,Desafinado Academy,1
+587,22,Team Sudio,Midnight Academy,0,2,Team Sudio,1,Mirage,14,16,Midnight Academy,0
+588,22,Team Crimbe,LynxCompany,2,1,Team Crimbe,1,Inferno,16,13,Team Crimbe,1
+589,22,Monarz Five,Tweezar Crusaders,2,0,Monarz Five,1,Mirage,16,11,Monarz Five,1
+590,22,Chappa Flays,Lepido eSports,2,1,Chappa Flays,1,Inferno,16,3,Chappa Flays,1
+591,22,LynxCompany,Team Sudio,2,0,LynxCompany,1,Mirage,16,6,LynxCompany,1
+592,22,Rainbow Riders,Team Crimbe,2,1,Rainbow Riders,1,Vertigo,9,16,Team Crimbe,0
+593,22,Tweezar Crusaders,Chappa Flays,2,1,Tweezar Crusaders,1,Overpass,10,16,Chappa Flays,0
+594,22,Evil Sharks,Monarz Five,0,2,Evil Sharks,1,Dust2,13,16,Monarz Five,0
+595,22,Lepido eSports,Desafinado Academy,2,1,Lepido eSports,1,Dust2,16,13,Lepido eSports,1
+596,22,Yowi Rising,Team Inpiration,0,2,Yowi Rising,1,Mirage,14,16,Team Inpiration,0
+597,22,Squeezi Boars,Leemaz Clan,0,2,Squeezi Boars,1,Mirage,17,19,Leemaz Clan,0
+598,22,Mint Flames,Duck eSports,2,0,Mint Flames,1,Vertigo,16,14,Mint Flames,1
+599,22,Team Shipin,Kunzite Gaming,1,2,Team Shipin,1,Dust2,16,14,Team Shipin,1
+600,22,Team Mellif,Cherizy eSports,2,1,Team Mellif,1,Dust2,6,16,Cherizy eSports,0
+601,22,Midnight Academy,Dixxi Riders,1,2,Midnight Academy,1,Overpass,16,9,Midnight Academy,1
+602,22,Rewice Gaming,Bowl eSports,1,2,Rewice Gaming,1,Overpass,16,6,Rewice Gaming,1
+603,22,Team Orbis,Team Solitude,2,1,Team Orbis,1,Vertigo,12,16,Team Solitude,0
+604,22,Bandi Soilders,Marriz Gaming,2,0,Bandi Soilders,1,Ancient,16,13,Bandi Soilders,1
+605,22,Wups Gaming,Mioriz Eminor,2,1,Wups Gaming,1,Mirage,9,16,Mioriz Eminor,0
+606,22,Bowl eSports,Dixxi Riders,0,2,Bowl eSports,1,Mirage,12,16,Dixxi Riders,0
+607,22,Cherizy eSports,Rewice Gaming,2,1,Cherizy eSports,1,Ancient,16,13,Cherizy eSports,1
+608,22,Team Solitude,Bandi Soilders,2,1,Team Solitude,1,Inferno,13,16,Bandi Soilders,0
+609,22,Mioriz Eminor,Team Orbis,2,0,Mioriz Eminor,1,Ancient,16,14,Mioriz Eminor,1
+610,22,Marriz Gaming,Team Mellif,2,0,Marriz Gaming,1,Mirage,16,13,Marriz Gaming,1
+611,22,Kunzite Gaming,Wups Gaming,2,0,Kunzite Gaming,1,Mirage,16,12,Kunzite Gaming,1
+612,22,Duck eSports,Team Shipin,1,2,Duck eSports,1,Nuke,9,16,Team Shipin,0
+613,22,Leemaz Clan,Mint Flames,2,1,Leemaz Clan,1,Dust2,9,16,Mint Flames,0
+614,22,LynxCompany,Midnight Academy,0,2,LynxCompany,1,Mirage,4,16,Midnight Academy,0
+615,22,Team Crimbe,Lepido eSports,1,2,Team Crimbe,1,Mirage,16,7,Team Crimbe,1
+616,22,Monarz Five,Yowi Rising,2,0,Monarz Five,1,Mirage,16,12,Monarz Five,1
+617,22,Team Sudio,Rainbow Riders,2,0,Team Sudio,1,Vertigo,16,9,Team Sudio,1
+618,22,Chappa Flays,Evil Sharks,2,0,Chappa Flays,1,Dust2,16,5,Chappa Flays,1
+619,22,Desafinado Academy,Tweezar Crusaders,2,1,Desafinado Academy,1,Vertigo,16,7,Desafinado Academy,1
+620,22,Team Inpiration,Squeezi Boars,2,1,Team Inpiration,1,Dust2,19,15,Team Inpiration,1
+621,22,Rainbow Riders,LynxCompany,2,0,Rainbow Riders,1,Dust2,16,4,Rainbow Riders,1
+622,22,Lepido eSports,Team Sudio,1,2,Lepido eSports,1,Vertigo,16,6,Lepido eSports,1
+623,22,Evil Sharks,Desafinado Academy,2,1,Evil Sharks,1,Ancient,11,16,Desafinado Academy,0
+624,22,Yowi Rising,Chappa Flays,2,0,Yowi Rising,1,Nuke,16,13,Yowi Rising,1
+625,22,Tweezar Crusaders,Team Crimbe,2,1,Tweezar Crusaders,1,Overpass,17,19,Team Crimbe,0
+626,22,Squeezi Boars,Monarz Five,2,1,Squeezi Boars,1,Vertigo,10,16,Monarz Five,0
+627,22,Mint Flames,Team Inpiration,2,1,Mint Flames,1,Dust2,6,16,Team Inpiration,0
+628,22,Midnight Academy,Bowl eSports,0,2,Midnight Academy,1,Vertigo,17,19,Bowl eSports,0
+629,22,Wups Gaming,Duck eSports,2,0,Wups Gaming,1,Overpass,16,13,Wups Gaming,1
+630,22,Team Orbis,Kunzite Gaming,1,2,Team Orbis,1,Inferno,16,8,Team Orbis,1
+631,22,Rewice Gaming,Marriz Gaming,2,1,Rewice Gaming,1,Nuke,16,5,Rewice Gaming,1
+632,22,Dixxi Riders,Cherizy eSports,2,0,Dixxi Riders,1,Dust2,16,9,Dixxi Riders,1
+633,22,Bandi Soilders,Mioriz Eminor,0,2,Bandi Soilders,1,Dust2,11,16,Mioriz Eminor,0
+634,22,Team Shipin,Leemaz Clan,,,Team Shipin,1,Mirage,16,9,Team Shipin,1
+635,22,Team Mellif,Team Solitude,2,0,Team Mellif,1,Overpass,16,3,Team Mellif,1
+636,22,Cherizy eSports,Bowl eSports,2,0,Cherizy eSports,1,Mirage,19,17,Cherizy eSports,1
+637,22,Mioriz Eminor,Team Mellif,0,2,Mioriz Eminor,1,Vertigo,13,16,Team Mellif,0
+638,22,Marriz Gaming,Dixxi Riders,2,0,Marriz Gaming,1,Inferno,16,13,Marriz Gaming,1
+639,22,Kunzite Gaming,Bandi Soilders,0,2,Kunzite Gaming,1,Overpass,13,16,Bandi Soilders,0
+640,22,Team Solitude,Rewice Gaming,2,0,Team Solitude,1,Mirage,16,13,Team Solitude,1
+641,22,Duck eSports,Team Orbis,2,1,Duck eSports,1,Dust2,16,10,Duck eSports,1
+642,22,Rainbow Riders,Midnight Academy,0,2,Rainbow Riders,1,Mirage,12,16,Midnight Academy,0
+643,22,Team Inpiration,Team Shipin,0,2,Team Inpiration,1,Inferno,9,16,Team Shipin,0
+644,22,Monarz Five,Mint Flames,1,2,Monarz Five,1,Mirage,12,16,Mint Flames,0
+645,22,Team Sudio,Tweezar Crusaders,2,1,Team Sudio,1,Dust2,16,10,Team Sudio,1
+646,22,Chappa Flays,Squeezi Boars,0,2,Chappa Flays,1,Vertigo,15,19,Squeezi Boars,0
+647,22,LynxCompany,Lepido eSports,0,2,LynxCompany,1,Inferno,9,16,Lepido eSports,0
+648,22,Desafinado Academy,Yowi Rising,2,0,Desafinado Academy,1,Overpass,25,22,Desafinado Academy,1
+649,22,Leemaz Clan,Wups Gaming,2,1,Leemaz Clan,1,Mirage,16,9,Leemaz Clan,1
+650,22,Team Crimbe,Evil Sharks,0,2,Team Crimbe,1,Mirage,6,16,Evil Sharks,0
+651,22,Yowi Rising,Team Crimbe,1,2,Yowi Rising,1,Nuke,6,16,Team Crimbe,0
+652,22,Squeezi Boars,Desafinado Academy,1,2,Squeezi Boars,1,Inferno,16,13,Squeezi Boars,1
+653,22,Midnight Academy,Cherizy eSports,,,Midnight Academy,1,Overpass,11,16,Cherizy eSports,0
+654,22,Team Shipin,Monarz Five,2,1,Team Shipin,1,Inferno,16,5,Team Shipin,1
+655,22,Wups Gaming,Team Inpiration,2,0,Wups Gaming,1,Ancient,19,15,Wups Gaming,1
+656,22,Team Orbis,Leemaz Clan,1,2,eam Orbis,0,Inferno,16,14,Team Orbis,1
+657,22,Bandi Soilders,Duck eSports,2,1,Bandi Soilders,1,Dust2,12,16,Duck eSports,0
+658,22,Dixxi Riders,Team Solitude,1,2,Dixxi Riders,1,Mirage,16,6,Dixxi Riders,1
+659,22,Team Mellif,Kunzite Gaming,1,2,Team Mellif,1,Inferno,16,7,Team Mellif,1
+660,22,Bowl eSports,Marriz Gaming,1,2,Bowl eSports,1,Inferno,16,11,Bowl eSports,1
+661,22,Rewice Gaming,Mioriz Eminor,2,1,Rewice Gaming,1,Overpass,16,14,Rewice Gaming,1
+662,22,Mint Flames,Chappa Flays,0,2,Mint Flames,1,Mirage,12,16,Chappa Flays,0
+663,22,Marriz Gaming,Cherizy eSports,0,2,Marriz Gaming,1,Mirage,12,16,Cherizy eSports,0
+664,22,Team Solitude,Bowl eSports,0,2,Team Solitude,1,Inferno,16,19,Bowl eSports,0
+665,22,Kunzite Gaming,Rewice Gaming,0,2,Kunzite Gaming,1,Vertigo,13,16,Rewice Gaming,0
+666,22,Mioriz Eminor,Dixxi Riders,2,1,Mioriz Eminor,1,Mirage,9,16,Dixxi Riders,0
+667,22,Lepido eSports,Midnight Academy,2,1,Lepido eSports,1,Mirage,16,9,Lepido eSports,1
+668,22,Leemaz Clan,Bandi Soilders,0,2,Leemaz Clan,1,Nuke,13,16,Bandi Soilders,0
+669,22,Team Inpiration,Team Orbis,2,1,Team Inpiration,1,Mirage,16,10,Team Inpiration,1
+670,22,Monarz Five,Wups Gaming,2,1,Monarz Five,1,Inferno,16,12,Monarz Five,1
+671,22,Chappa Flays,Team Shipin,0,2,Chappa Flays,1,Mirage,9,16,Team Shipin,0
+672,22,Desafinado Academy,Mint Flames,1,2,Desafinado Academy,1,Dust2,16,7,Desafinado Academy,1
+673,22,LynxCompany,Evil Sharks,1,2,LynxCompany,1,Dust2,10,16,Evil Sharks,0
+674,22,Team Crimbe,Squeezi Boars,2,1,Team Crimbe,1,Mirage,13,16,Squeezi Boars,0
+675,22,Rainbow Riders,Tweezar Crusaders,2,0,Rainbow Riders,1,Vertigo,22,19,Rainbow Riders,1
+676,22,Duck eSports,Team Mellif,0,2,Duck eSports,1,Overpass,10,16,Team Mellif,0
+677,22,Team Sudio,Yowi Rising,0,2,Team Sudio,1,Dust2,12,16,Yowi Rising,0
+678,22,Tweezar Crusaders,Lepido eSports,2,0,Tweezar Crusaders,1,Dust2,19,17,Tweezar Crusaders,1
+679,22,Evil Sharks,Rainbow Riders,0,2,Evil Sharks,1,Overpass,9,16,Rainbow Riders,0
+680,22,Midnight Academy,Marriz Gaming,1,2,Midnight Academy,1,Mirage,10,16,Marriz Gaming,0
+681,22,Mint Flames,Team Crimbe,2,0,Mint Flames,1,Ancient,16,8,Mint Flames,1
+682,22,Yowi Rising,LynxCompany,2,1,Yowi Rising,1,Dust2,8,16,LynxCompany,0
+683,22,Team Shipin,Desafinado Academy,1,2,Team Shipin,1,Nuke,6,16,Desafinado Academy,0
+684,22,Wups Gaming,Chappa Flays,2,0,Wups Gaming,1,Dust2,16,13,Wups Gaming,1
+685,22,Team Orbis,Monarz Five,2,0,Team Orbis,1,Overpass,16,4,Team Orbis,1
+686,22,Bandi Soilders,Team Inpiration,2,1,Bandi Soilders,1,Dust2,16,5,Bandi Soilders,1
+687,22,Team Mellif,Leemaz Clan,2,0,Team Mellif,1,Dust2,16,12,Team Mellif,1
+688,22,Bowl eSports,Mioriz Eminor,2,1,Bowl eSports,1,Mirage,11,16,Mioriz Eminor,0
+689,22,Rewice Gaming,Duck eSports,2,0,Rewice Gaming,1,Mirage,16,13,Rewice Gaming,1
+690,22,Cherizy eSports,Team Solitude,0,2,Cherizy eSports,1,Inferno,9,16,Team Solitude,0
+691,22,Dixxi Riders,Kunzite Gaming,2,0,Dixxi Riders,1,Overpass,16,6,Dixxi Riders,1
+692,22,Squeezi Boars,Team Sudio,0,2,Squeezi Boars,1,Mirage,7,16,Team Sudio,0
+693,22,Team Solitude,Marriz Gaming,2,0,Team Solitude,1,Mirage,19,17,Team Solitude,1
+694,23,Chappa Flays,Team Mellif,2,1,Team Mellif,0,Vertigo,16,12,Chappa Flays,1
+696,23,Bowl eSports,Monarz Five,2,1,Monarz Five,0,Nuke,19,17,Bowl eSports,1
+697,23,Desafinado Academy,Bandi Soilders,2,1,Bandi Soilders,0,Mirage,16,9,Desafinado Academy,1
+698,23,Team Crimbe,Rainbow Riders,1,2,Rainbow Riders,0,Inferno,11,16,Rainbow Riders,0
+699,23,Cherizy eSports,Team Mellif,1,2,Team Mellif,0,Overpass,13,16,Team Mellif,0
+701,23,Desafinado Academy,Team Crimbe,1,2,Team Crimbe,0,Dust2,13,16,Team Crimbe,0
+702,23,Team Orbis,Squeezi Boars,1,2,Squeezi Boars,0,Dust2,10,16,Squeezi Boars,0
+703,23,Marriz Gaming,Team Shipin,1,2,Team Shipin,0,Dust2,10,16,Team Shipin,0
+704,23,Kunzite Gaming,Team Sudio,2,1,Team Sudio,0,Inferno,16,11,Kunzite Gaming,1
+708,23,Team Priestly,qK,2,1,qK,0,Overpass,19,17,Team Priestly,1
+712,23,Team Kayzze,Hako Gaming,2,1,Hako Gaming,0,Dust2,16,13,Team Kayzze,1
+713,23,Dixxi Riders,Chappa Flays,1,2,Chappa Flays,0,Nuke,13,16,Chappa Flays,0
+715,23,Squeezi Boars,Bandi Soilders,2,1,Bandi Soilders,0,Mirage,16,6,Squeezi Boars,1
+717,23,Rewice Gaming,Team Crimbe,2,1,Team Crimbe,0,Inferno,16,8,Rewice Gaming,1
+721,23,Bandi Soilders,Team Shipin,1,2,Team Shipin,0,Dust2,6,16,Team Shipin,0
+723,23,Desafinado Academy,Rewice Gaming,1,2,Rewice Gaming,0,Overpass,12,16,Rewice Gaming,0
+724,23,Rainbow Riders,Squeezi Boars,2,1,Squeezi Boars,0,Nuke,16,10,Rainbow Riders,1
+729,23,Marriz Gaming,Team Solitude,1,2,Team Solitude,0,Dust2,12,16,Team Solitude,0
+730,23,Leemaz Clan,Team Priestly,2,1,Team Priestly,0,Inferno,19,15,Leemaz Clan,1
+733,23,Chappa Flays,Monarz Five,1,2,Monarz Five,0,Ancient,9,16,Monarz Five,0
+735,23,Tweezar Crusaders,Lepido eSports,2,1,Lepido eSports,0,Dust2,16,14,Tweezar Crusaders,1
+739,23,Team Solitude,Team Orbis,1,2,Team Orbis,0,Dust2,9,16,Team Orbis,0
+742,23,Dixxi Riders,Cherizy eSports,2,1,Cherizy eSports,0,Inferno,16,7,Dixxi Riders,1
+743,23,Monarz Five,Hako Gaming,2,1,Hako Gaming,0,Overpass,16,13,Monarz Five,1
+744,23,Rewice Gaming,Chappa Flays,1,2,Chappa Flays,0,Overpass,17,19,Chappa Flays,0
+745,23,Team Shipin,Rainbow Riders,1,2,Rainbow Riders,0,Overpass,6,16,Rainbow Riders,0
+747,23,WPG,Desafinado Academy,1,2,Desafinado Academy,0,Vertigo,3,16,Desafinado Academy,0
+749,23,Team Kayzze,Kunzite Gaming,2,1,Kunzite Gaming,0,Dust2,16,4,Team Kayzze,1
+751,23,Desafinado Academy,Squeezi Boars,2,1,Squeezi Boars,0,Inferno,16,13,Desafinado Academy,1
+755,23,Hako Gaming,Rewice Gaming,1,2,Rewice Gaming,0,Dust2,11,16,Rewice Gaming,0
+756,23,Cherizy eSports,Monarz Five,1,2,Monarz Five,0,Inferno,5,16,Monarz Five,0
+758,23,Marriz Gaming,Team Kayzze,1,2,Team Kayzze,0,Ancient,9,16,Team Kayzze,0
+759,23,Team Orbis,Midnight Academy,2,1,Midnight Academy,0,Overpass,16,14,Team Orbis,1
+760,23,Bowl eSports,Rozippe Gaming,1,2,Rozippe Gaming,0,Overpass,9,16,Rozippe Gaming,0
+763,23,Leemaz Clan,Wups Gaming,1,2,Wups Gaming,0,Dust2,4,16,Wups Gaming,0
+764,23,Kunzite Gaming,Dixxi Riders,2,1,Dixxi Riders,0,Dust2,16,13,Kunzite Gaming,1
+767,23,Rozippe Gaming,Lepido eSports,1,2,Lepido eSports,0,Nuke,10,16,Lepido eSports,0
+768,23,Midnight Academy,qK,1,2,qK,0,Overpass,9,16,qK,0
+770,23,Team Kayzze,Team Orbis,2,1,Team Orbis,0,Ancient,16,14,Team Kayzze,1
+771,23,Dixxi Riders,Marriz Gaming,2,1,Marriz Gaming,0,Vertigo,16,6,Dixxi Riders,1
+772,23,Monarz Five,Kunzite Gaming,1,2,Kunzite Gaming,0,Vertigo,5,16,Kunzite Gaming,0
+774,23,WPG,Hako Gaming,1,2,Hako Gaming,0,Overpass,11,16,Hako Gaming,0
+775,23,Team Sudio,Team Crimbe,2,1,Team Crimbe,0,Inferno,19,17,Team Sudio,1
+779,23,Rewice Gaming,Cherizy eSports,2,1,Cherizy eSports,0,Ancient,16,9,Rewice Gaming,1
+781,23,Team Crimbe,Team Mellif,2,1,Team Mellif,0,Vertigo,16,7,Team Crimbe,1
+782,23,Chappa Flays,Team Shipin,1,2,Team Shipin,0,Mirage,14,16,Team Shipin,0
+783,23,Hako Gaming,Squeezi Boars,1,2,Squeezi Boars,0,Mirage,12,16,Squeezi Boars,0
+784,23,Desafinado Academy,Team Sudio,1,2,Team Sudio,0,Ancient,9,16,Team Sudio,0
+786,23,Kunzite Gaming,Rewice Gaming,1,2,Rewice Gaming,0,Inferno,10,16,Rewice Gaming,0
+787,23,Marriz Gaming,Monarz Five,1,2,Monarz Five,0,Inferno,11,16,Monarz Five,0
+790,23,Lepido eSports,Wups Gaming,2,1,Wups Gaming,0,Overpass,16,10,Lepido eSports,1
+792,23,Leemaz Clan,Midnight Academy,1,2,Midnight Academy,0,Ancient,7,16,Midnight Academy,0
+793,23,Bowl eSports,Team Solitude,1,2,Team Solitude,0,Dust2,14,16,Team Solitude,0
+794,23,qK,Team Kayzze,2,1,Team Kayzze,0,Ancient,19,17,qK,1
+795,23,Hako Gaming,Team Sudio,2,1,Team Sudio,0,Ancient,16,9,Hako Gaming,1
+797,23,Kunzite Gaming,Squeezi Boars,1,2,Squeezi Boars,0,Dust2,8,16,Squeezi Boars,0
+798,23,Marriz Gaming,WPG,1,2,WPG,0,Dust2,8,16,WPG,0
+800,23,qK,Monarz Five,2,1,Monarz Five,0,Dust2,16,9,qK,1
+801,23,Tweezar Crusaders,Team Solitude,2,1,Team Solitude,0,Inferno,16,9,Tweezar Crusaders,1
+802,23,Leemaz Clan,Dixxi Riders,2,1,Dixxi Riders,0,Nuke,16,9,Leemaz Clan,1
+803,23,Team Priestly,Wups Gaming,1,2,Wups Gaming,0,Inferno,16,19,Wups Gaming,0
+807,23,Rozippe Gaming,Team Priestly,2,1,Team Priestly,0,Dust2,16,9,Rozippe Gaming,1
+811,23,Team Solitude,Lepido eSports,1,2,Lepido eSports,0,Mirage,15,19,Lepido eSports,0
+814,23,Rewice Gaming,Marriz Gaming,2,1,Marriz Gaming,0,Inferno,16,14,Rewice Gaming,1
+815,23,WPG,Kunzite Gaming,2,1,Kunzite Gaming,0,Overpass,16,10,WPG,1
+816,23,Squeezi Boars,Cherizy eSports,1,2,Cherizy eSports,0,Inferno,5,16,Cherizy eSports,0
+817,23,Team Mellif,Desafinado Academy,1,2,Desafinado Academy,0,Dust2,8,16,Desafinado Academy,0
+819,23,Bandi Soilders,Team Crimbe,2,1,Team Crimbe,0,Nuke,16,8,Bandi Soilders,1
+820,23,Team Sudio,Chappa Flays,1,2,Chappa Flays,0,Mirage,3,16,Chappa Flays,0
+823,23,Team Solitude,Team Priestly,1,2,Team Priestly,0,Nuke,9,16,Team Priestly,0
+824,23,Team Kayzze,Lepido eSports,1,2,Lepido eSports,0,Overpass,13,16,Lepido eSports,0
+829,23,WPG,Team Orbis,2,1,Team Orbis,0,Nuke,16,5,WPG,1
+832,23,Yowi Rising,Team Crimbe,1,2,Team Crimbe,0,Inferno,5,16,Team Crimbe,0
+833,23,Team Sudio,Cherizy eSports,1,2,Cherizy eSports,0,Overpass,11,16,Cherizy eSports,0
+835,23,Bandi Soilders,Chappa Flays,2,1,Chappa Flays,0,Overpass,16,8,Bandi Soilders,1
+836,23,Team Mellif,Hako Gaming,2,1,Hako Gaming,0,Ancient,16,12,Team Mellif,1
+838,23,Midnight Academy,Rozippe Gaming,2,1,Rozippe Gaming,0,Nuke,16,8,Midnight Academy,1
+839,23,Dixxi Riders,Tweezar Crusaders,1,2,Tweezar Crusaders,0,Nuke,8,16,Tweezar Crusaders,0
+841,23,Team Kayzze,Team Priestly,1,2,Team Priestly,0,Ancient,8,16,Team Priestly,0
+842,23,Rewice Gaming,Bowl eSports,1,2,Bowl eSports,0,Overpass,13,16,Bowl eSports,0
+844,23,Squeezi Boars,qK,1,2,qK,0,Vertigo,10,16,qK,0
+847,23,Rainbow Riders,Hako Gaming,2,1,Hako Gaming,0,Vertigo,16,5,Rainbow Riders,1
+849,23,Team Crimbe,Chappa Flays,1,2,Chappa Flays,0,Vertigo,5,16,Chappa Flays,0
+856,23,Tweezar Crusaders,Team Kayzze,1,2,Team Kayzze,0,Dust2,7,16,Team Kayzze,0
+857,23,Rozippe Gaming,Team Solitude,1,2,Team Solitude,0,Mirage,12,16,Team Solitude,0
+858,22 playoffs,Grand-final- Team Melif,Team Sudio,1,3,eam Sudio,0,eam Sudio pick Inferno,16,5,Grand-final- Team Melif,1
+862,22 playoffs,Team Sudio,Team Melif,1,2,eam Melif,0,ertigo,7,16,Team Melif,0
+867,22 playoffs,Lepido eSports,Team Orbis,1,2,eam Orbis,0,Inferno,7,16,Team Orbis,0
+869,22 playoffs,Team Sudio,Bowl eSports,2,1,Bowl eSports,0,Dust2,16,7,Team Sudio,1
+870,22 playoffs,Chappa Flays,Leemaz Clan,1,2,Leemaz Clan,0,Inferno,13,16,Leemaz Clan,0
+871,22 playoffs,Rainbow Riders,Lepido eSports,2,1,Lepido eSports,0,Dust2,16,7,Rainbow Riders,1
+875,22,Bandi Soilders,Bowl eSports,1,2,Bowl eSports,0,Overpass,13,16,Bowl eSports,0
+876,22,Lepido eSports,Rainbow Riders,1,2,Rainbow Riders,0,Inferno,7,16,Rainbow Riders,0
+877,22,Rewice Gaming,Team Mellif,1,2,Team Mellif,0,Mirage,11,16,Team Mellif,0
+880,22,Evil Sharks,Team Sudio,1,2,Team Sudio,0,Overpass,11,16,Team Sudio,0
+881,22,Bowl eSports,Team Orbis,1,2,Team Orbis,0,Mirage,14,16,Team Orbis,0
+882,22,Team Crimbe,Desafinado Academy,1,2,esafinado Academy,0,Inferno,5,16,Desafinado Academy,0
+884,22,Rainbow Riders,Team Inpiration,2,1,Team Inpiration,0,Nuke,16,14,Rainbow Riders,1
+886,22,LynxCompany,Monarz Five,2,1,Monarz Five,0,Dust2,16,11,LynxCompany,1
+887,22,Tweezar Crusaders,Duck eSports,2,1,Duck eSports,0,Nuke,16,14,Tweezar Crusaders,1
+889,22,Yowi Rising,Mioriz Eminor,1,2,Mioriz Eminor,0,Vertigo,5,16,Mioriz Eminor,0
+891,22,Mint Flames,Marriz Gaming,2,1,Marriz Gaming,0,Dust2,22,19,Mint Flames,1
+892,22,Team Orbis,Dixxi Riders,2,1,Dixxi Riders,0,Vertigo,16,8,Team Orbis,1
+895,22,Bandi Soilders,Rewice Gaming,2,1,Rewice Gaming,0,Inferno,16,9,Bandi Soilders,1
+897,22,Cherizy eSports,Wups Gaming,1,2,Wups Gaming,0,Ancient,11,16,Wups Gaming,0
+898,22,Marriz Gaming,Team Shipin,1,2,Team Shipin,0,Dust2,11,16,Team Shipin,0
+901,22,Kunzite Gaming,Yowi Rising,2,1,Yowi Rising,0,Mirage,16,11,Kunzite Gaming,1
+902,22,Duck eSports,Evil Sharks,1,2,Evil Sharks,0,Dust2,8,16,Evil Sharks,0
+905,22,Team Inpiration,Lepido eSports,2,1,Lepido eSports,0,Vertigo,16,12,Team Inpiration,1
+906,22,Desafinado Academy,Team Sudio,1,2,Team Sudio,0,Vertigo,13,16,Team Sudio,0
+908,22,Monarz Five,Rainbow Riders,2,1,Rainbow Riders,0,Dust2,16,3,Monarz Five,1
+911,22,Lepido eSports,Monarz Five,2,1,Monarz Five,0,Dust2,16,6,Lepido eSports,1
+916,22,Squeezi Boars,Kunzite Gaming,1,2,Kunzite Gaming,0,Vertigo,14,16,Kunzite Gaming,0
+925,22,Marriz Gaming,Team Orbis,2,1,Team Orbis,0,Inferno,16,8,Marriz Gaming,1
+926,22,Team Solitude,Wups Gaming,2,1,Wups Gaming,0,Dust2,16,12,Team Solitude,1
+927,22,Cherizy eSports,Bandi Soilders,1,2,Bandi Soilders,0,Nuke,11,16,Bandi Soilders,0
+930,22,Duck eSports,Squeezi Boars,1,2,Squeezi Boars,0,Dust2,13,16,Squeezi Boars,0
+933,22,Desafinado Academy,Rainbow Riders,1,2,Rainbow Riders,0,Overpass,11,16,Rainbow Riders,0
+935,22,Team Crimbe,LynxCompany,2,1,LynxCompany,0,Vertigo,16,11,Team Crimbe,1
+937,22,Chappa Flays,Lepido eSports,2,1,Lepido eSports,0,Ancient,16,7,Chappa Flays,1
+939,22,Rainbow Riders,Team Crimbe,2,1,Team Crimbe,0,Nuke,16,14,Rainbow Riders,1
+940,22,Tweezar Crusaders,Chappa Flays,2,1,Chappa Flays,0,Dust2,16,11,Tweezar Crusaders,1
+942,22,Lepido eSports,Desafinado Academy,2,1,Desafinado Academy,0,Mirage,16,13,Lepido eSports,1
+946,22,Team Shipin,Kunzite Gaming,1,2,Kunzite Gaming,0,Mirage,7,16,Kunzite Gaming,0
+947,22,Team Mellif,Cherizy eSports,2,1,Cherizy eSports,0,Inferno,16,13,Team Mellif,1
+948,22,Midnight Academy,Dixxi Riders,1,2,Dixxi Riders,0,Dust2,11,16,Dixxi Riders,0
+949,22,Rewice Gaming,Bowl eSports,1,2,Bowl eSports,0,Inferno,11,16,Bowl eSports,0
+950,22,Team Orbis,Team Solitude,2,1,Team Solitude,0,Inferno,16,14,Team Orbis,1
+952,22,Wups Gaming,Mioriz Eminor,2,1,Mioriz Eminor,0,Dust2,16,10,Wups Gaming,1
+954,22,Cherizy eSports,Rewice Gaming,2,1,Rewice Gaming,0,Nuke,16,9,Cherizy eSports,1
+955,22,Team Solitude,Bandi Soilders,2,1,Bandi Soilders,0,Mirage,16,14,Team Solitude,1
+959,22,Duck eSports,Team Shipin,1,2,Team Shipin,0,Mirage,6,16,Team Shipin,0
+960,22,Leemaz Clan,Mint Flames,2,1,Mint Flames,0,Inferno,16,12,Leemaz Clan,1
+962,22,Team Crimbe,Lepido eSports,1,2,Lepido eSports,0,Dust2,8,16,Lepido eSports,0
+966,22,Desafinado Academy,Tweezar Crusaders,2,1,Tweezar Crusaders,0,Ancient,16,11,Desafinado Academy,1
+967,22,Team Inpiration,Squeezi Boars,2,1,Squeezi Boars,0,Mirage,16,14,Team Inpiration,1
+969,22,Lepido eSports,Team Sudio,1,2,Team Sudio,0,Nuke,11,16,Team Sudio,0
+970,22,Evil Sharks,Desafinado Academy,2,1,Desafinado Academy,0,Dust2,16,9,Evil Sharks,1
+972,22,Tweezar Crusaders,Team Crimbe,2,1,Team Crimbe,0,Ancient,16,5,Tweezar Crusaders,1
+973,22,Squeezi Boars,Monarz Five,2,1,Monarz Five,0,Dust2,16,9,Squeezi Boars,1
+974,22,Mint Flames,Team Inpiration,2,1,Team Inpiration,0,Inferno,16,13,Mint Flames,1
+977,22,Team Orbis,Kunzite Gaming,1,2,Kunzite Gaming,0,Mirage,10,16,Kunzite Gaming,0
+978,22,Rewice Gaming,Marriz Gaming,2,1,Marriz Gaming,0,Inferno,16,4,Rewice Gaming,1
+981,22,Team Shipin,Leemaz Clan,,,Leemaz Clan,0,Overpass,7,16,Leemaz Clan,0
+988,22,Duck eSports,Team Orbis,2,1,Team Orbis,0,Nuke,16,8,Duck eSports,1
+991,22,Monarz Five,Mint Flames,1,2,Mint Flames,0,Dust2,13,16,Mint Flames,0
+992,22,Team Sudio,Tweezar Crusaders,2,1,Tweezar Crusaders,0,Vertigo,16,8,Team Sudio,1
+996,22,Leemaz Clan,Wups Gaming,2,1,Wups Gaming,0,Inferno,16,12,Leemaz Clan,1
+998,22,Yowi Rising,Team Crimbe,1,2,Team Crimbe,0,Dust2,11,16,Team Crimbe,0
+999,22,Squeezi Boars,Desafinado Academy,1,2,Desafinado Academy,0,Dust2,9,16,Desafinado Academy,0
+1000,22,Midnight Academy,Cherizy eSports,,,Cherizy eSports,0,Ancient,16,9,Midnight Academy,1
+1001,22,Team Shipin,Monarz Five,2,1,Monarz Five,0,Dust2,16,14,Team Shipin,1
+1003,22,Team Orbis,Leemaz Clan,1,2,Leemaz Clan,0,Dust2,9,16,Leemaz Clan,0
+1004,22,Bandi Soilders,Duck eSports,2,1,Duck eSports,0,Inferno,16,14,Bandi Soilders,1
+1005,22,Dixxi Riders,Team Solitude,1,2,Team Solitude,0,Overpass,8,16,Team Solitude,0
+1006,22,Team Mellif,Kunzite Gaming,1,2,Kunzite Gaming,0,Ancient,7,16,Kunzite Gaming,0
+1007,22,Bowl eSports,Marriz Gaming,1,2,Marriz Gaming,0,Vertigo,15,19,Marriz Gaming,0
+1008,22,Rewice Gaming,Mioriz Eminor,2,1,Mioriz Eminor,0,Ancient,19,17,Rewice Gaming,1
+1013,22,Mioriz Eminor,Dixxi Riders,2,1,Dixxi Riders,0,Ancient,16,10,Mioriz Eminor,1
+1014,22,Lepido eSports,Midnight Academy,2,1,Midnight Academy,0,Overpass,16,14,Lepido eSports,1
+1016,22,Team Inpiration,Team Orbis,2,1,Team Orbis,0,Dust2,16,6,Team Inpiration,1
+1017,22,Monarz Five,Wups Gaming,2,1,Wups Gaming,0,Vertigo,16,10,Monarz Five,1
+1019,22,Desafinado Academy,Mint Flames,1,2,Mint Flames,0,Nuke,9,16,Mint Flames,0
+1020,22,LynxCompany,Evil Sharks,1,2,Evil Sharks,0,Inferno,9,16,Evil Sharks,0
+1021,22,Team Crimbe,Squeezi Boars,2,1,Squeezi Boars,0,Nuke,16,12,Team Crimbe,1
+1027,22,Midnight Academy,Marriz Gaming,1,2,Marriz Gaming,0,Overpass,12,16,Marriz Gaming,0
+1029,22,Yowi Rising,LynxCompany,2,1,LynxCompany,0,Nuke,16,13,Yowi Rising,1
+1030,22,Team Shipin,Desafinado Academy,1,2,Desafinado Academy,0,Overpass,6,16,Desafinado Academy,0
+1033,22,Bandi Soilders,Team Inpiration,2,1,Team Inpiration,0,Nuke,16,14,Bandi Soilders,1
+1035,22,Bowl eSports,Mioriz Eminor,2,1,Mioriz Eminor,0,Overpass,22,18,Bowl eSports,1
+1041,23,Team Mellif,Chappa Flays,1,2,Team Mellif,1,Inferno,8,16,Chappa Flays,0
+1042,23,Dixxi Riders,Lepido eSports,2,0,Dixxi Riders,1,Inferno,16,8,Dixxi Riders,1
+1043,23,Monarz Five,Bowl eSports,1,2,Monarz Five,1,Overpass,19,17,Monarz Five,1
+1044,23,Bandi Soilders,Desafinado Academy,1,2,Bandi Soilders,1,Dust2,16,7,Bandi Soilders,1
+1045,23,Rainbow Riders,Team Crimbe,2,1,Rainbow Riders,1,Overpass,16,11,Rainbow Riders,1
+1046,23,Team Mellif,Cherizy eSports,2,1,Team Mellif,1,Dust2,11,16,Cherizy eSports,0
+1047,23,Rainbow Riders,Chappa Flays,0,2,Rainbow Riders,1,Nuke,7,16,Chappa Flays,0
+1048,23,Team Crimbe,Desafinado Academy,2,1,Team Crimbe,1,Mirage,12,16,Desafinado Academy,0
+1049,23,Squeezi Boars,Team Orbis,2,1,Squeezi Boars,1,Overpass,16,13,Squeezi Boars,1
+1050,23,Team Shipin,Marriz Gaming,2,1,Team Shipin,1,Mirage,16,11,Team Shipin,1
+1051,23,Team Sudio,Kunzite Gaming,1,2,Team Sudio,1,Overpass,16,9,Team Sudio,1
+1052,23,Bowl eSports,Lepido eSports,2,0,Bowl eSports,1,Ancient,16,8,Bowl eSports,1
+1053,23,Leemaz Clan,Tweezar Crusaders,2,0,Leemaz Clan,1,Nuke,16,9,Leemaz Clan,1
+1054,23,Team Orbis,Rozippe Gaming,0,2,Team Orbis,1,Vertigo,12,16,Rozippe Gaming,0
+1055,23,qK,Team Priestly,1,2,qK,1,Vertigo,16,10,qK,1
+1056,23,Team Sudio,Yowi Rising,0,2,Team Sudio,1,Inferno,9,16,Yowi Rising,0
+1057,23,Cherizy eSports,Midnight Academy,0,2,Cherizy eSports,1,Nuke,11,16,Midnight Academy,0
+1058,23,Kunzite Gaming,Team Solitude,0,2,Kunzite Gaming,1,Ancient,9,16,Team Solitude,0
+1059,23,Hako Gaming,Team Kayzze,1,2,Hako Gaming,1,Mirage,16,6,Hako Gaming,1
+1060,23,Chappa Flays,Dixxi Riders,2,1,Chappa Flays,1,Ancient,9,16,Dixxi Riders,0
+1061,23,Desafinado Academy,Monarz Five,2,0,Desafinado Academy,1,Mirage,16,6,Desafinado Academy,1
+1062,23,Bandi Soilders,Squeezi Boars,1,2,Bandi Soilders,1,Ancient,11,16,Squeezi Boars,0
+1063,23,Team Shipin,Team Mellif,2,0,Team Shipin,1,Vertigo,16,9,Team Shipin,1
+1064,23,Team Crimbe,Rewice Gaming,1,2,Team Crimbe,1,Ancient,16,7,Team Crimbe,1
+1065,23,Marriz Gaming,Wups Gaming,2,0,Marriz Gaming,1,Dust2,16,9,Marriz Gaming,1
+1066,23,Rainbow Riders,WPG,2,0,Rainbow Riders,1,Dust2,16,13,Rainbow Riders,1
+1067,23,Team Sudio,Team Mellif,0,2,Team Sudio,1,Nuke,9,16,Team Mellif,0
+1068,23,Team Shipin,Bandi Soilders,2,1,Team Shipin,1,Mirage,7,16,Bandi Soilders,0
+1069,23,WPG,Team Crimbe,0,2,WPG,1,Overpass,14,16,Team Crimbe,0
+1070,23,Rewice Gaming,Desafinado Academy,2,1,Rewice Gaming,1,Vertigo,14,16,Desafinado Academy,0
+1071,23,Squeezi Boars,Rainbow Riders,1,2,Squeezi Boars,1,Ancient,12,16,Rainbow Riders,0
+1072,23,Yowi Rising,Lepido eSports,2,0,Yowi Rising,1,Ancient,16,11,Yowi Rising,1
+1073,23,Dixxi Riders,Hako Gaming,0,2,Dixxi Riders,1,Vertigo,12,16,Hako Gaming,0
+1074,23,Team Kayzze,Cherizy eSports,0,2,Team Kayzze,1,Overpass,10,16,Cherizy eSports,0
+1075,23,Midnight Academy,Kunzite Gaming,0,2,Midnight Academy,1,Inferno,10,16,Kunzite Gaming,0
+1076,23,Team Solitude,Marriz Gaming,2,1,Team Solitude,1,Mirage,16,4,Team Solitude,1
+1077,23,Team Priestly,Leemaz Clan,1,2,Team Priestly,1,Overpass,17,19,Leemaz Clan,0
+1078,23,Tweezar Crusaders,Bowl eSports,2,0,Tweezar Crusaders,1,Dust2,16,8,Tweezar Crusaders,1
+1079,23,Wups Gaming,Team Orbis,2,0,Wups Gaming,1,Ancient,16,10,Wups Gaming,1
+1080,23,Monarz Five,Chappa Flays,2,1,Monarz Five,1,Mirage,14,16,Chappa Flays,0
+1081,23,Rozippe Gaming,qK,2,0,Rozippe Gaming,1,Dust2,16,6,Rozippe Gaming,1
+1082,23,Lepido eSports,Tweezar Crusaders,1,2,Lepido eSports,1,Inferno,16,7,Lepido eSports,1
+1083,23,qK,Wups Gaming,0,2,qK,1,Ancient,13,16,Wups Gaming,0
+1084,23,Bowl eSports,Team Priestly,0,2,Bowl eSports,1,Overpass,6,16,Team Priestly,0
+1085,23,Leemaz Clan,Rozippe Gaming,2,0,Leemaz Clan,1,Inferno,16,7,Leemaz Clan,1
+1086,23,Team Orbis,Team Solitude,2,1,Team Orbis,1,Inferno,12,16,Team Solitude,0
+1087,23,Marriz Gaming,Midnight Academy,2,0,Marriz Gaming,1,Dust2,16,12,Marriz Gaming,1
+1088,23,Team Mellif,Yowi Rising,0,2,Team Mellif,1,Ancient,14,16,Yowi Rising,0
+1089,23,Cherizy eSports,Dixxi Riders,1,2,Cherizy eSports,1,Vertigo,11,16,Dixxi Riders,0
+1090,23,Hako Gaming,Monarz Five,1,2,Hako Gaming,1,Dust2,16,14,Hako Gaming,1
+1091,23,Chappa Flays,Rewice Gaming,2,1,Chappa Flays,1,Dust2,16,5,Chappa Flays,1
+1092,23,Rainbow Riders,Team Shipin,2,1,Rainbow Riders,1,Dust2,16,7,Rainbow Riders,1
+1093,23,Bandi Soilders,Team Sudio,2,0,Bandi Soilders,1,Nuke,16,11,Bandi Soilders,1
+1094,23,Desafinado Academy,WPG,2,1,Desafinado Academy,1,Nuke,16,19,WPG,0
+1095,23,Team Crimbe,Squeezi Boars,2,0,Team Crimbe,1,Ancient,16,3,Team Crimbe,1
+1096,23,Kunzite Gaming,Team Kayzze,1,2,Kunzite Gaming,1,Ancient,16,14,Kunzite Gaming,1
+1097,23,Team Mellif,Bandi Soilders,2,0,Team Mellif,1,Ancient,16,13,Team Mellif,1
+1098,23,Squeezi Boars,Desafinado Academy,1,2,Squeezi Boars,1,Dust2,16,13,Squeezi Boars,1
+1099,23,Team Sudio,Rainbow Riders,0,2,Team Sudio,1,Vertigo,7,16,Rainbow Riders,0
+1100,23,WPG,Chappa Flays,0,2,WPG,1,Overpass,11,16,Chappa Flays,0
+1101,23,Team Shipin,Team Crimbe,0,2,Team Shipin,1,Dust2,15,19,Team Crimbe,0
+1102,23,Rewice Gaming,Hako Gaming,2,1,Rewice Gaming,1,Inferno,16,14,Rewice Gaming,1
+1103,23,Monarz Five,Cherizy eSports,2,1,Monarz Five,1,Overpass,13,16,Cherizy eSports,0
+1104,23,Yowi Rising,Tweezar Crusaders,0,2,Yowi Rising,1,Dust2,10,16,Tweezar Crusaders,0
+1105,23,Team Kayzze,Marriz Gaming,2,1,Team Kayzze,1,Mirage,12,16,Marriz Gaming,0
+1106,23,Midnight Academy,Team Orbis,1,2,Midnight Academy,1,Dust2,16,11,Midnight Academy,1
+1107,23,Rozippe Gaming,Bowl eSports,2,1,Rozippe Gaming,1,Dust2,16,10,Rozippe Gaming,1
+1108,23,Team Priestly,Lepido eSports,2,0,Team Priestly,1,Nuke,16,14,Team Priestly,1
+1109,23,Team Solitude,qK,2,0,Team Solitude,1,Nuke,16,12,Team Solitude,1
+1110,23,Wups Gaming,Leemaz Clan,2,1,Wups Gaming,1,Ancient,16,7,Wups Gaming,1
+1111,23,Dixxi Riders,Kunzite Gaming,1,2,Dixxi Riders,1,Ancient,16,11,Dixxi Riders,1
+1112,23,Tweezar Crusaders,Team Priestly,2,0,Tweezar Crusaders,1,Overpass,19,16,Tweezar Crusaders,1
+1113,23,Leemaz Clan,Team Solitude,2,0,Leemaz Clan,1,Mirage,16,14,Leemaz Clan,1
+1114,23,Lepido eSports,Rozippe Gaming,2,1,Lepido eSports,1,Dust2,13,16,Rozippe Gaming,0
+1115,23,qK,Midnight Academy,2,1,qK,1,Dust2,16,7,qK,1
+1116,23,Bowl eSports,Wups Gaming,2,0,Bowl eSports,1,Mirage,16,7,Bowl eSports,1
+1117,23,Team Orbis,Team Kayzze,1,2,Team Orbis,1,Overpass,16,14,Team Orbis,1
+1118,23,Marriz Gaming,Dixxi Riders,1,2,Marriz Gaming,1,Nuke,10,16,Dixxi Riders,0
+1119,23,Kunzite Gaming,Monarz Five,2,1,Kunzite Gaming,1,Nuke,16,14,Kunzite Gaming,1
+1120,23,Bandi Soilders,Yowi Rising,2,0,Bandi Soilders,1,Dust2,16,10,Bandi Soilders,1
+1121,23,Hako Gaming,WPG,2,1,Hako Gaming,1,Dust2,16,4,Hako Gaming,1
+1122,23,Team Crimbe,Team Sudio,1,2,Team Crimbe,1,Overpass,16,13,Team Crimbe,1
+1123,23,Rainbow Riders,Team Mellif,0,2,Rainbow Riders,1,Dust2,14,16,Team Mellif,0
+1124,23,Chappa Flays,Squeezi Boars,2,0,Chappa Flays,1,Ancient,16,7,Chappa Flays,1
+1125,23,Desafinado Academy,Team Shipin,0,2,Desafinado Academy,1,Dust2,13,16,Team Shipin,0
+1126,23,Cherizy eSports,Rewice Gaming,1,2,Cherizy eSports,1,Mirage,12,16,Rewice Gaming,0
+1127,23,Bandi Soilders,Rainbow Riders,2,0,Bandi Soilders,1,Dust2,16,9,Bandi Soilders,1
+1128,23,Team Mellif,Team Crimbe,1,2,Team Mellif,1,Nuke,7,16,Team Crimbe,0
+1129,23,Team Shipin,Chappa Flays,2,1,Team Shipin,1,Vertigo,16,14,Team Shipin,1
+1130,23,Squeezi Boars,Hako Gaming,2,1,Squeezi Boars,1,Nuke,16,7,Squeezi Boars,1
+1131,23,Team Sudio,Desafinado Academy,2,1,Team Sudio,1,Dust2,16,6,Team Sudio,1
+1132,23,WPG,Cherizy eSports,2,0,WPG,1,Inferno,16,11,WPG,1
+1133,23,Rewice Gaming,Kunzite Gaming,2,1,Rewice Gaming,1,Nuke,10,16,Kunzite Gaming,0
+1134,23,Monarz Five,Marriz Gaming,2,1,Monarz Five,1,Mirage,11,16,Marriz Gaming,0
+1135,23,Dixxi Riders,Team Orbis,,,Dixxi Riders,1,Vertigo,16,5,Dixxi Riders,1
+1136,23,Yowi Rising,Team Priestly,2,0,Yowi Rising,1,Dust2,16,7,Yowi Rising,1
+1137,23,Wups Gaming,Lepido eSports,1,2,Wups Gaming,1,Dust2,16,14,Wups Gaming,1
+1138,23,Rozippe Gaming,Tweezar Crusaders,2,0,Rozippe Gaming,1,Nuke,16,8,Rozippe Gaming,1
+1139,23,Midnight Academy,Leemaz Clan,2,1,Midnight Academy,1,Overpass,16,3,Midnight Academy,1
+1140,23,Team Solitude,Bowl eSports,2,1,Team Solitude,1,Mirage,16,6,Team Solitude,1
+1141,23,Team Kayzze,qK,1,2,Team Kayzze,1,Dust2,10,16,qK,0
+1142,23,Team Sudio,Hako Gaming,1,2,Team Sudio,1,Dust2,16,11,Team Sudio,1
+1144,23,Squeezi Boars,Kunzite Gaming,2,1,Squeezi Boars,1,Overpass,16,7,Squeezi Boars,1
+1145,23,WPG,Marriz Gaming,2,1,WPG,1,Mirage,16,12,WPG,1
+1146,23,Rewice Gaming,Team Orbis,0,2,Rewice Gaming,1,Dust2,8,16,Team Orbis,0
+1147,23,Monarz Five,qK,1,2,Monarz Five,1,Vertigo,16,11,Monarz Five,1
+1148,23,Team Solitude,Tweezar Crusaders,1,2,Team Solitude,1,Nuke,16,6,Team Solitude,1
+1149,23,Dixxi Riders,Leemaz Clan,1,2,Dixxi Riders,1,Ancient,16,13,Dixxi Riders,1
+1150,23,Wups Gaming,Team Priestly,2,1,Wups Gaming,1,Mirage,12,16,Team Priestly,0
+1151,23,Team Kayzze,Bowl eSports,0,2,Team Kayzze,1,Dust2,13,16,Bowl eSports,0
+1152,23,Midnight Academy,Lepido eSports,2,0,Midnight Academy,1,Ancient,16,10,Midnight Academy,1
+1153,23,Yowi Rising,Rozippe Gaming,2,0,Yowi Rising,1,Vertigo,19,15,Yowi Rising,1
+1154,23,Team Priestly,Rozippe Gaming,1,2,Team Priestly,1,Ancient,16,7,Team Priestly,1
+1155,23,Tweezar Crusaders,Wups Gaming,2,0,Tweezar Crusaders,1,Overpass,16,7,Tweezar Crusaders,1
+1156,23,Bowl eSports,Midnight Academy,2,0,Bowl eSports,1,Ancient,16,14,Bowl eSports,1
+1157,23,Leemaz Clan,Team Kayzze,0,2,Leemaz Clan,1,Inferno,13,16,Team Kayzze,0
+1158,23,Lepido eSports,Team Solitude,2,1,Lepido eSports,1,Inferno,16,6,Lepido eSports,1
+1159,23,qK,Dixxi Riders,2,0,qK,1,Dust2,16,8,qK,1
+1160,23,Team Orbis,Monarz Five,,,Team Orbis,1,Dust2,9,16,Monarz Five,0
+1161,23,Marriz Gaming,Rewice Gaming,1,2,Marriz Gaming,1,Vertigo,12,16,Rewice Gaming,0
+1162,23,Kunzite Gaming,WPG,1,2,Kunzite Gaming,1,Ancient,16,12,Kunzite Gaming,1
+1163,23,Cherizy eSports,Squeezi Boars,2,1,Cherizy eSports,1,Dust2,16,9,Cherizy eSports,1
+1164,23,Desafinado Academy,Team Mellif,2,1,Desafinado Academy,1,Nuke,7,16,Team Mellif,0
+1165,23,Rainbow Riders,Yowi Rising,0,2,Rainbow Riders,1,Vertigo,13,16,Yowi Rising,0
+1166,23,Team Crimbe,Bandi Soilders,1,2,Team Crimbe,1,Overpass,8,16,Bandi Soilders,0
+1167,23,Chappa Flays,Team Sudio,2,1,Chappa Flays,1,Dust2,8,16,Team Sudio,0
+1168,23,Hako Gaming,Team Shipin,2,0,Hako Gaming,1,Inferno,16,10,Hako Gaming,1
+1169,23,Rozippe Gaming,Wups Gaming,2,0,Rozippe Gaming,1,Dust2,16,5,Rozippe Gaming,1
+1170,23,Team Priestly,Team Solitude,2,1,Team Priestly,1,Dust2,13,16,Team Solitude,0
+1171,23,Lepido eSports,Team Kayzze,2,1,Lepido eSports,1,Dust2,16,6,Lepido eSports,1
+1172,23,Bowl eSports,Dixxi Riders,2,0,Bowl eSports,1,Ancient,16,10,Bowl eSports,1
+1173,23,Tweezar Crusaders,Midnight Academy,2,0,Tweezar Crusaders,1,Inferno,16,10,Tweezar Crusaders,1
+1174,23,Leemaz Clan,Monarz Five,0,2,Leemaz Clan,1,Inferno,14,16,Monarz Five,0
+1175,23,qK,Rewice Gaming,2,0,qK,1,Overpass,16,12,qK,1
+1176,23,Team Orbis,WPG,1,2,Team Orbis,1,Dust2,14,16,WPG,0
+1177,23,Marriz Gaming,Squeezi Boars,0,2,Marriz Gaming,1,Mirage,8,16,Squeezi Boars,0
+1178,23,Kunzite Gaming,Team Shipin,0,2,Kunzite Gaming,1,Dust2,12,16,Team Shipin,0
+1179,23,Team Crimbe,Yowi Rising,2,1,Team Crimbe,1,Dust2,16,11,Team Crimbe,1
+1180,23,Cherizy eSports,Team Sudio,2,1,Cherizy eSports,1,Nuke,16,12,Cherizy eSports,1
+1181,23,Desafinado Academy,Rainbow Riders,0,2,Desafinado Academy,1,Vertigo,9,16,Rainbow Riders,0
+1182,23,Chappa Flays,Bandi Soilders,1,2,Chappa Flays,1,Ancient,16,11,Chappa Flays,1
+1183,23,Hako Gaming,Team Mellif,1,2,Hako Gaming,1,Inferno,16,5,Hako Gaming,1
+1184,23,Wups Gaming,Team Solitude,2,0,Wups Gaming,1,Overpass,16,10,Wups Gaming,1
+1185,23,Rozippe Gaming,Midnight Academy,1,2,Rozippe Gaming,1,Dust2,16,7,Rozippe Gaming,1
+1186,23,Tweezar Crusaders,Dixxi Riders,2,1,Tweezar Crusaders,1,Dust2,16,14,Tweezar Crusaders,1
+1187,23,Lepido eSports,Monarz Five,2,0,Lepido eSports,1,Inferno,16,9,Lepido eSports,1
+1188,23,Team Priestly,Team Kayzze,2,1,Team Priestly,1,Mirage,11,16,Team Kayzze,0
+1189,23,Bowl eSports,Rewice Gaming,2,1,Bowl eSports,1,Vertigo,5,16,Rewice Gaming,0
+1190,23,Leemaz Clan,WPG,0,2,Leemaz Clan,1,Dust2,10,16,WPG,0
+1191,23,qK,Squeezi Boars,2,1,qK,1,Nuke,10,16,Squeezi Boars,0
+1192,23,Team Orbis,Team Shipin,2,0,Team Orbis,1,Ancient,16,14,Team Orbis,1
+1193,23,Marriz Gaming,Team Sudio,0,2,Marriz Gaming,1,Mirage,14,16,Team Sudio,0
+1194,23,Hako Gaming,Rainbow Riders,1,2,Hako Gaming,1,Inferno,13,16,Rainbow Riders,0
+1195,23,Kunzite Gaming,Team Mellif,2,0,Kunzite Gaming,1,Inferno,16,12,Kunzite Gaming,1
+1196,23,Chappa Flays,Team Crimbe,2,1,Chappa Flays,1,Nuke,12,16,Team Crimbe,0
+1197,23,Desafinado Academy,Yowi Rising,2,0,Desafinado Academy,1,Dust2,16,10,Desafinado Academy,1
+1198,23,Cherizy eSports,Bandi Soilders,2,0,Cherizy eSports,1,Vertigo,16,6,Cherizy eSports,1
+1199,23,Bandi Soilders,Hako Gaming,2,0,andi Soilders,0,Dust2,16,14,Bandi Soilders,1
+1200,23,Yowi Rising,Wups Gaming,2,0,Yowi Rising,1,Nuke,16,14,Yowi Rising,1
+1201,23,Midnight Academy,Team Priestly,2,0,Midnight Academy,1,Mirage,16,13,Midnight Academy,1
+1202,23,WPG,qK,0,2,WPG,1,Vertigo,14,16,qK,0
+1203,23,Team Kayzze,Tweezar Crusaders,2,1,Team Kayzze,1,Ancient,19,16,Team Kayzze,1
+1204,23,Team Solitude,Rozippe Gaming,2,1,Team Solitude,1,Inferno,16,12,Team Solitude,1
+1205,22 playoffs,Team Sudio,Rainbow Riders,2,0,Team Sudio,1,Inferno,16,13,Team Sudio,1
+1206,22 playoffs,Bowl eSports,Rainbow Riders,0,2,Bowl eSports,1,Dust2,12,16,Rainbow Riders,0
+1207,22 playoffs,Rainbow Riders,Team Orbis,2,0,Rainbow Riders,1,Inferno,16,6,Rainbow Riders,1
+1209,22 playoffs,Leemaz Clan,Bowl eSports,0,2,Leemaz Clan,1,Overpass,8,16,Bowl eSports,0
+1212,22 playoffs,Team Sudio,Leemaz Clan,2,0,Team Sudio,1,Inferno,19,16,Team Sudio,1
+1213,22 playoffs,Team Orbis,Lepido eSports,2,1,eam Orbis,0,Ancient,16,11,Team Orbis,1
+1214,22 playoffs,Team Orbis,Team Mellif,0,2,eam Orbis,0,Nuke,6,16,Team Mellif,0
+1215,22 playoffs,Bowl eSports,Team Sudio,1,2,Bowl eSports,1,Overpass,13,16,Team Sudio,0
+1216,22 playoffs,Leemaz Clan,Chappa Flays,2,1,Leemaz Clan,1,Nuke,16,13,Leemaz Clan,1
+1217,22 playoffs,Lepido eSports,Rainbow Riders,1,2,Lepido eSports,1,Inferno,11,16,Rainbow Riders,0
+1218,22,Mioriz Eminor,Kunzite Gaming,0,2,Mioriz Eminor,1,Ancient,14,16,Kunzite Gaming,0
+1219,22,Midnight Academy,Yowi Rising,0,2,Midnight Academy,1,Inferno,6,16,Yowi Rising,0
+1220,22,Marriz Gaming,Leemaz Clan,2,0,Marriz Gaming,1,Vertigo,16,8,Marriz Gaming,1
+1221,22,Bowl eSports,Bandi Soilders,2,1,Bowl eSports,1,Ancient,11,16,Bandi Soilders,0
+1222,22,Rainbow Riders,Lepido eSports,2,1,Rainbow Riders,1,Dust2,16,12,Rainbow Riders,1
+1223,22,Team Mellif,Rewice Gaming,2,1,Team Mellif,1,Vertigo,16,12,Team Mellif,1
+1224,22,Bandi Soilders,Dixxi Riders,0,2,Bandi Soilders,1,Ancient,4,16,Dixxi Riders,0
+1225,22,LynxCompany,Tweezar Crusaders,2,0,LynxCompany,1,Vertigo,16,14,LynxCompany,1
+1226,22,Team Sudio,Evil Sharks,2,1,Team Sudio,1,Ancient,16,6,Team Sudio,1
+1227,22,Team Orbis,Bowl eSports,2,1,Team Orbis,1,Dust2,16,13,Team Orbis,1
+1228,22,Desafinado Academy,Team Crimbe,2,1,esafinado Academy,0,Ancient,7,16,Team Crimbe,0
+1229,22,Chappa Flays,Team Sudio,0,2,Chappa Flays,1,Nuke,8,16,Team Sudio,0
+1230,22,Team Inpiration,Rainbow Riders,1,2,Team Inpiration,1,Ancient,16,11,Team Inpiration,1
+1231,22,Leemaz Clan,Lepido eSports,2,0,Leemaz Clan,1,Dust2,16,11,Leemaz Clan,1
+1232,22,Monarz Five,LynxCompany,1,2,Monarz Five,1,Ancient,16,7,Monarz Five,1
+1233,22,Duck eSports,Tweezar Crusaders,1,2,Duck eSports,1,Mirage,16,13,Duck eSports,1
+1234,22,Kunzite Gaming,Evil Sharks,0,2,Kunzite Gaming,1,Inferno,13,16,Evil Sharks,0
+1235,22,Mioriz Eminor,Yowi Rising,2,1,Mioriz Eminor,1,Nuke,6,16,Yowi Rising,0
+1236,22,Team Solitude,Squeezi Boars,0,2,Team Solitude,1,Ancient,5,16,Squeezi Boars,0
+1237,22,Marriz Gaming,Mint Flames,1,2,Marriz Gaming,1,Mirage,3,16,Mint Flames,0
+1238,22,Dixxi Riders,Team Orbis,1,2,Dixxi Riders,1,Inferno,19,17,Dixxi Riders,1
+1239,22,Team Mellif,Midnight Academy,2,0,Team Mellif,1,Nuke,16,9,Team Mellif,1
+1240,22,Cherizy eSports,Team Shipin,0,2,Cherizy eSports,1,Ancient,17,19,Team Shipin,0
+1241,22,Rewice Gaming,Bandi Soilders,1,2,Rewice Gaming,1,Dust2,16,11,Rewice Gaming,1
+1242,22,Bowl eSports,Wups Gaming,0,2,Bowl eSports,1,Dust2,12,16,Wups Gaming,0
+1243,22,Wups Gaming,Cherizy eSports,2,1,Wups Gaming,1,Dust2,16,10,Wups Gaming,1
+1244,22,Team Shipin,Marriz Gaming,2,1,Team Shipin,1,Mirage,16,9,Team Shipin,1
+1245,22,Mint Flames,Team Solitude,2,0,Mint Flames,1,Vertigo,16,7,Mint Flames,1
+1246,22,Squeezi Boars,Mioriz Eminor,0,2,Squeezi Boars,1,Overpass,7,16,Mioriz Eminor,0
+1247,22,Yowi Rising,Kunzite Gaming,1,2,Yowi Rising,1,Vertigo,8,16,Kunzite Gaming,0
+1248,22,Evil Sharks,Duck eSports,2,1,Evil Sharks,1,Mirage,16,9,Evil Sharks,1
+1249,22,Tweezar Crusaders,Leemaz Clan,2,0,Tweezar Crusaders,1,Dust2,16,5,Tweezar Crusaders,1
+1250,22,Midnight Academy,Team Crimbe,2,0,Midnight Academy,1,Dust2,16,6,Midnight Academy,1
+1251,22,Lepido eSports,Team Inpiration,1,2,Lepido eSports,1,Nuke,16,13,Lepido eSports,1
+1252,22,Team Sudio,Desafinado Academy,2,1,Team Sudio,1,Nuke,19,16,Team Sudio,1
+1253,22,LynxCompany,Chappa Flays,0,2,LynxCompany,1,Ancient,5,16,Chappa Flays,0
+1254,22,Rainbow Riders,Monarz Five,1,2,Rainbow Riders,1,Ancient,16,11,Rainbow Riders,1
+1255,22,Team Crimbe,Team Sudio,0,2,Team Crimbe,1,Dust2,17,19,Team Sudio,0
+1256,22,Desafinado Academy,LynxCompany,2,0,Desafinado Academy,1,Nuke,16,9,Desafinado Academy,1
+1257,22,Monarz Five,Lepido eSports,1,2,Monarz Five,1,Inferno,8,16,Lepido eSports,0
+1258,22,Team Inpiration,Tweezar Crusaders,2,0,Team Inpiration,1,Dust2,16,7,Team Inpiration,1
+1259,22,Chappa Flays,Rainbow Riders,2,0,Chappa Flays,1,Dust2,16,8,Chappa Flays,1
+1260,22,Duck eSports,Yowi Rising,2,0,Duck eSports,1,Ancient,16,5,Duck eSports,1
+1261,22,Leemaz Clan,Evil Sharks,0,2,Leemaz Clan,1,Mirage,14,16,Evil Sharks,0
+1262,22,Kunzite Gaming,Squeezi Boars,2,1,Kunzite Gaming,1,Nuke,16,9,Kunzite Gaming,1
+1263,22,Mioriz Eminor,Mint Flames,2,0,Mioriz Eminor,1,Vertigo,16,11,Mioriz Eminor,1
+1264,22,Team Solitude,Team Shipin,2,0,Team Solitude,1,Overpass,16,11,Team Solitude,1
+1265,22,Marriz Gaming,Wups Gaming,0,2,Marriz Gaming,1,Dust2,12,16,Wups Gaming,0
+1266,22,Dixxi Riders,Team Mellif,0,2,Dixxi Riders,1,Dust2,13,16,Team Mellif,0
+1267,22,Rewice Gaming,Midnight Academy,0,2,Rewice Gaming,1,Inferno,9,16,Midnight Academy,0
+1268,22,Cherizy eSports,Team Orbis,0,2,Cherizy eSports,1,Mirage,8,16,Team Orbis,0
+1269,22,Rewice Gaming,Dixxi Riders,0,2,Rewice Gaming,1,Nuke,8,16,Dixxi Riders,0
+1270,22,Team Mellif,Bowl eSports,2,0,Team Mellif,1,Mirage,16,7,Team Mellif,1
+1271,22,Team Orbis,Marriz Gaming,1,2,Team Orbis,1,Overpass,16,14,Team Orbis,1
+1272,22,Wups Gaming,Team Solitude,1,2,Wups Gaming,1,Mirage,13,16,Team Solitude,0
+1273,22,Bandi Soilders,Cherizy eSports,2,1,Bandi Soilders,1,Vertigo,16,11,Bandi Soilders,1
+1274,22,Team Shipin,Mioriz Eminor,0,2,Team Shipin,1,Dust2,12,16,Mioriz Eminor,0
+1275,22,Mint Flames,Kunzite Gaming,0,2,Mint Flames,1,Nuke,13,16,Kunzite Gaming,0
+1276,22,Squeezi Boars,Duck eSports,2,1,Squeezi Boars,1,Mirage,16,9,Squeezi Boars,1
+1277,22,Yowi Rising,Leemaz Clan,2,0,Yowi Rising,1,Ancient,16,4,Yowi Rising,1
+1278,22,Evil Sharks,Team Inpiration,2,0,Evil Sharks,1,Dust2,16,11,Evil Sharks,1
+1279,22,Rainbow Riders,Desafinado Academy,2,1,Rainbow Riders,1,Dust2,16,7,Rainbow Riders,1
+1280,22,Midnight Academy,Team Sudio,2,0,Midnight Academy,1,Nuke,16,4,Midnight Academy,1
+1281,22,LynxCompany,Team Crimbe,1,2,LynxCompany,1,Nuke,16,10,LynxCompany,1
+1282,22,Tweezar Crusaders,Monarz Five,0,2,Tweezar Crusaders,1,Dust2,11,16,Monarz Five,0
+1283,22,Lepido eSports,Chappa Flays,1,2,Lepido eSports,1,Overpass,16,14,Lepido eSports,1
+1284,22,Team Sudio,LynxCompany,0,2,Team Sudio,1,Ancient,6,16,LynxCompany,0
+1285,22,Team Crimbe,Rainbow Riders,1,2,Team Crimbe,1,Overpass,8,16,Rainbow Riders,0
+1286,22,Chappa Flays,Tweezar Crusaders,1,2,Chappa Flays,1,Ancient,11,16,Tweezar Crusaders,0
+1287,22,Monarz Five,Evil Sharks,2,0,Monarz Five,1,Overpass,16,13,Monarz Five,1
+1288,22,Desafinado Academy,Lepido eSports,1,2,Desafinado Academy,1,Inferno,16,11,Desafinado Academy,1
+1289,22,Team Inpiration,Yowi Rising,2,0,Team Inpiration,1,Nuke,16,8,Team Inpiration,1
+1290,22,Leemaz Clan,Squeezi Boars,2,0,Leemaz Clan,1,Vertigo,16,9,Leemaz Clan,1
+1291,22,Duck eSports,Mint Flames,0,2,Duck eSports,1,Overpass,17,19,Mint Flames,0
+1292,22,Kunzite Gaming,Team Shipin,2,1,Kunzite Gaming,1,Inferno,16,13,Kunzite Gaming,1
+1293,22,Cherizy eSports,Team Mellif,1,2,Cherizy eSports,1,Nuke,11,16,Team Mellif,0
+1294,22,Dixxi Riders,Midnight Academy,2,1,Dixxi Riders,1,Nuke,19,16,Dixxi Riders,1
+1295,22,Bowl eSports,Rewice Gaming,2,1,Bowl eSports,1,Mirage,16,9,Bowl eSports,1
+1296,22,Team Solitude,Team Orbis,1,2,Team Solitude,1,Mirage,13,16,Team Orbis,0
+1297,22,Marriz Gaming,Bandi Soilders,0,2,Marriz Gaming,1,Dust2,7,16,Bandi Soilders,0
+1298,22,Mioriz Eminor,Wups Gaming,1,2,Mioriz Eminor,1,Ancient,15,19,Wups Gaming,0
+1299,22,Dixxi Riders,Bowl eSports,2,0,Dixxi Riders,1,Dust2,16,14,Dixxi Riders,1
+1300,22,Rewice Gaming,Cherizy eSports,1,2,Rewice Gaming,1,Dust2,16,12,Rewice Gaming,1
+1301,22,Bandi Soilders,Team Solitude,1,2,Bandi Soilders,1,Vertigo,10,16,Team Solitude,0
+1302,22,Team Orbis,Mioriz Eminor,0,2,Team Orbis,1,Dust2,12,16,Mioriz Eminor,0
+1303,22,Team Mellif,Marriz Gaming,0,2,Team Mellif,1,Inferno,10,16,Marriz Gaming,0
+1304,22,Wups Gaming,Kunzite Gaming,0,2,Wups Gaming,1,Overpass,8,16,Kunzite Gaming,0
+1305,22,Team Shipin,Duck eSports,2,1,Team Shipin,1,Ancient,8,16,Duck eSports,0
+1306,22,Mint Flames,Leemaz Clan,1,2,Mint Flames,1,Vertigo,8,16,Leemaz Clan,0
+1307,22,Midnight Academy,LynxCompany,2,0,Midnight Academy,1,Dust2,16,13,Midnight Academy,1
+1308,22,Lepido eSports,Team Crimbe,2,1,Lepido eSports,1,Nuke,16,14,Lepido eSports,1
+1309,22,Yowi Rising,Monarz Five,0,2,Yowi Rising,1,Inferno,5,16,Monarz Five,0
+1310,22,Rainbow Riders,Team Sudio,0,2,Rainbow Riders,1,Overpass,11,16,Team Sudio,0
+1311,22,Evil Sharks,Chappa Flays,0,2,Evil Sharks,1,Overpass,12,16,Chappa Flays,0
+1312,22,Tweezar Crusaders,Desafinado Academy,1,2,Tweezar Crusaders,1,Inferno,16,12,Tweezar Crusaders,1
+1313,22,Squeezi Boars,Team Inpiration,1,2,Squeezi Boars,1,Inferno,16,11,Squeezi Boars,1
+1314,22,LynxCompany,Rainbow Riders,0,2,LynxCompany,1,Overpass,13,16,Rainbow Riders,0
+1315,22,Team Sudio,Lepido eSports,2,1,Team Sudio,1,Dust2,16,8,Team Sudio,1
+1316,22,Desafinado Academy,Evil Sharks,1,2,Desafinado Academy,1,Inferno,12,16,Evil Sharks,0
+1317,22,Chappa Flays,Yowi Rising,0,2,Chappa Flays,1,Overpass,8,16,Yowi Rising,0
+1318,22,Team Crimbe,Tweezar Crusaders,1,2,Team Crimbe,1,Mirage,11,16,Tweezar Crusaders,0
+1319,22,Monarz Five,Squeezi Boars,1,2,Monarz Five,1,Mirage,13,16,Squeezi Boars,0
+1320,22,Team Inpiration,Mint Flames,1,2,Team Inpiration,1,Overpass,10,16,Mint Flames,0
+1321,22,Bowl eSports,Midnight Academy,2,0,Bowl eSports,1,Dust2,16,6,Bowl eSports,1
+1322,22,Duck eSports,Wups Gaming,0,2,Duck eSports,1,Mirage,9,16,Wups Gaming,0
+1323,22,Kunzite Gaming,Team Orbis,2,1,Kunzite Gaming,1,Vertigo,16,5,Kunzite Gaming,1
+1324,22,Marriz Gaming,Rewice Gaming,1,2,Marriz Gaming,1,Dust2,19,15,Marriz Gaming,1
+1325,22,Cherizy eSports,Dixxi Riders,0,2,Cherizy eSports,1,Vertigo,14,16,Dixxi Riders,0
+1326,22,Mioriz Eminor,Bandi Soilders,2,0,Mioriz Eminor,1,Ancient,16,12,Mioriz Eminor,1
+1327,22,Leemaz Clan,Team Shipin,,,Leemaz Clan,1,Ancient,16,10,Leemaz Clan,1
+1328,22,Team Solitude,Team Mellif,0,2,Team Solitude,1,Dust2,13,16,Team Mellif,0
+1329,22,Bowl eSports,Cherizy eSports,0,2,Bowl eSports,1,Dust2,14,16,Cherizy eSports,0
+1330,22,Team Mellif,Mioriz Eminor,2,0,Team Mellif,1,Ancient,16,12,Team Mellif,1
+1331,22,Dixxi Riders,Marriz Gaming,0,2,Dixxi Riders,1,Nuke,13,16,Marriz Gaming,0
+1332,22,Bandi Soilders,Kunzite Gaming,2,0,Bandi Soilders,1,Mirage,16,10,Bandi Soilders,1
+1333,22,Rewice Gaming,Team Solitude,0,2,Rewice Gaming,1,Ancient,8,16,Team Solitude,0
+1334,22,Team Orbis,Duck eSports,1,2,Team Orbis,1,Inferno,16,13,Team Orbis,1
+1335,22,Midnight Academy,Rainbow Riders,2,0,Midnight Academy,1,Dust2,16,10,Midnight Academy,1
+1336,22,Team Shipin,Team Inpiration,2,0,Team Shipin,1,Nuke,16,8,Team Shipin,1
+1337,22,Mint Flames,Monarz Five,2,1,Mint Flames,1,Ancient,11,16,Monarz Five,0
+1338,22,Tweezar Crusaders,Team Sudio,1,2,Tweezar Crusaders,1,Inferno,16,9,Tweezar Crusaders,1
+1339,22,Squeezi Boars,Chappa Flays,2,0,Squeezi Boars,1,Mirage,16,13,Squeezi Boars,1
+1340,22,Lepido eSports,LynxCompany,2,0,Lepido eSports,1,Nuke,16,14,Lepido eSports,1
+1341,22,Yowi Rising,Desafinado Academy,0,2,Yowi Rising,1,Ancient,11,16,Desafinado Academy,0
+1342,22,Wups Gaming,Leemaz Clan,1,2,Wups Gaming,1,Dust2,16,10,Wups Gaming,1
+1343,22,Evil Sharks,Team Crimbe,2,0,Evil Sharks,1,Dust2,16,14,Evil Sharks,1
+1344,22,Team Crimbe,Yowi Rising,2,1,Team Crimbe,1,Vertigo,9,16,Yowi Rising,0
+1345,22,Desafinado Academy,Squeezi Boars,2,1,Desafinado Academy,1,Mirage,16,9,Desafinado Academy,1
+1346,22,Cherizy eSports,Midnight Academy,,,Cherizy eSports,1,Dust2,10,16,Midnight Academy,0
+1347,22,Monarz Five,Team Shipin,1,2,Monarz Five,1,Overpass,16,13,Monarz Five,1
+1348,22,Team Inpiration,Wups Gaming,0,2,Team Inpiration,1,Vertigo,12,16,Wups Gaming,0
+1349,22,Leemaz Clan,Team Orbis,2,1,Leemaz Clan,1,Mirage,16,10,Leemaz Clan,1
+1350,22,Duck eSports,Bandi Soilders,1,2,Duck eSports,1,Vertigo,11,16,Bandi Soilders,0
+1351,22,Team Solitude,Dixxi Riders,2,1,Team Solitude,1,Dust2,16,13,Team Solitude,1
+1352,22,Kunzite Gaming,Team Mellif,2,1,Kunzite Gaming,1,Mirage,16,5,Kunzite Gaming,1
+1353,22,Marriz Gaming,Bowl eSports,2,1,Marriz Gaming,1,Nuke,16,8,Marriz Gaming,1
+1354,22,Mioriz Eminor,Rewice Gaming,1,2,Mioriz Eminor,1,Dust2,16,8,Mioriz Eminor,1
+1355,22,Chappa Flays,Mint Flames,2,0,Chappa Flays,1,Ancient,16,13,Chappa Flays,1
+1356,22,Cherizy eSports,Marriz Gaming,2,0,Cherizy eSports,1,Dust2,16,11,Cherizy eSports,1
+1357,22,Bowl eSports,Team Solitude,2,0,Bowl eSports,1,Nuke,16,6,Bowl eSports,1
+1358,22,Rewice Gaming,Kunzite Gaming,2,0,Rewice Gaming,1,Ancient,16,13,Rewice Gaming,1
+1359,22,Dixxi Riders,Mioriz Eminor,1,2,Dixxi Riders,1,Dust2,7,16,Mioriz Eminor,0
+1360,22,Midnight Academy,Lepido eSports,1,2,Midnight Academy,1,Dust2,16,6,Midnight Academy,1
+1361,22,Bandi Soilders,Leemaz Clan,2,0,Bandi Soilders,1,Inferno,16,9,Bandi Soilders,1
+1362,22,Team Orbis,Team Inpiration,1,2,Team Orbis,1,Ancient,16,11,Team Orbis,1
+1363,22,Wups Gaming,Monarz Five,1,2,Wups Gaming,1,Nuke,16,10,Wups Gaming,1
+1364,22,Team Shipin,Chappa Flays,2,0,Team Shipin,1,Dust2,16,13,Team Shipin,1
+1365,22,Mint Flames,Desafinado Academy,2,1,Mint Flames,1,Inferno,16,7,Mint Flames,1
+1366,22,Evil Sharks,LynxCompany,2,1,Evil Sharks,1,Overpass,5,16,LynxCompany,0
+1367,22,Squeezi Boars,Team Crimbe,1,2,Squeezi Boars,1,Ancient,12,16,Team Crimbe,0
+1368,22,Tweezar Crusaders,Rainbow Riders,0,2,Tweezar Crusaders,1,Dust2,10,16,Rainbow Riders,0
+1369,22,Team Mellif,Duck eSports,2,0,Team Mellif,1,Mirage,16,8,Team Mellif,1
+1370,22,Yowi Rising,Team Sudio,2,0,Yowi Rising,1,Nuke,16,14,Yowi Rising,1
+1371,22,Lepido eSports,Tweezar Crusaders,0,2,Lepido eSports,1,Nuke,8,16,Tweezar Crusaders,0
+1372,22,Rainbow Riders,Evil Sharks,2,0,Rainbow Riders,1,Mirage,16,9,Rainbow Riders,1
+1373,22,Marriz Gaming,Midnight Academy,2,1,Marriz Gaming,1,Inferno,14,16,Midnight Academy,0
+1374,22,Team Crimbe,Mint Flames,0,2,Team Crimbe,1,Vertigo,12,16,Mint Flames,0
+1375,22,LynxCompany,Yowi Rising,1,2,LynxCompany,1,Vertigo,9,16,Yowi Rising,0
+1376,22,Desafinado Academy,Team Shipin,2,1,Desafinado Academy,1,Dust2,6,16,Team Shipin,0
+1377,22,Chappa Flays,Wups Gaming,0,2,Chappa Flays,1,Nuke,7,16,Wups Gaming,0
+1378,22,Monarz Five,Team Orbis,0,2,Monarz Five,1,Mirage,7,16,Team Orbis,0
+1379,22,Team Inpiration,Bandi Soilders,1,2,Team Inpiration,1,Vertigo,16,6,Team Inpiration,1
+1380,22,Leemaz Clan,Team Mellif,0,2,Leemaz Clan,1,Ancient,14,16,Team Mellif,0
+1381,22,Mioriz Eminor,Bowl eSports,1,2,Mioriz Eminor,1,Dust2,8,16,Bowl eSports,0
+1382,22,Duck eSports,Rewice Gaming,0,2,Duck eSports,1,Inferno,10,16,Rewice Gaming,0
+1383,22,Team Solitude,Cherizy eSports,2,0,Team Solitude,1,Nuke,16,12,Team Solitude,1
+1384,22,Kunzite Gaming,Dixxi Riders,0,2,Kunzite Gaming,1,Dust2,11,16,Dixxi Riders,0
+1385,22,Team Sudio,Squeezi Boars,2,0,Team Sudio,1,Dust2,16,8,Team Sudio,1
+1386,22,Marriz Gaming,Team Solitude,0,2,Marriz Gaming,1,Ancient,12,16,Team Solitude,0
+1387,23,Team Mellif,Chappa Flays,1,2,Chappa Flays,0,Nuke,19,16,Team Mellif,1
+1388,23,Dixxi Riders,Lepido eSports,2,0,Lepido eSports,0,Dust2,16,7,Dixxi Riders,1
+1389,23,Monarz Five,Bowl eSports,1,2,Bowl eSports,0,Vertigo,8,16,Bowl eSports,0
+1390,23,Bandi Soilders,Desafinado Academy,1,2,Desafinado Academy,0,Ancient,10,16,Desafinado Academy,0
+1391,23,Rainbow Riders,Team Crimbe,2,1,Team Crimbe,0,Dust2,16,19,Team Crimbe,0
+1392,23,Team Mellif,Cherizy eSports,2,1,Cherizy eSports,0,Mirage,16,5,Team Mellif,1
+1393,23,Rainbow Riders,Chappa Flays,0,2,Chappa Flays,0,Inferno,8,16,Chappa Flays,0
+1394,23,Team Crimbe,Desafinado Academy,2,1,Desafinado Academy,0,Inferno,16,10,Team Crimbe,1
+1395,23,Squeezi Boars,Team Orbis,2,1,Team Orbis,0,Inferno,9,16,Team Orbis,0
+1396,23,Team Shipin,Marriz Gaming,2,1,Marriz Gaming,0,Inferno,9,16,Marriz Gaming,0
+1397,23,Team Sudio,Kunzite Gaming,1,2,Kunzite Gaming,0,Dust2,5,16,Kunzite Gaming,0
+1398,23,Bowl eSports,Lepido eSports,2,0,Lepido eSports,0,Mirage,16,10,Bowl eSports,1
+1399,23,Leemaz Clan,Tweezar Crusaders,2,0,Tweezar Crusaders,0,Inferno,16,8,Leemaz Clan,1
+1400,23,Team Orbis,Rozippe Gaming,0,2,Rozippe Gaming,0,Overpass,14,16,Rozippe Gaming,0
+1401,23,qK,Team Priestly,1,2,Team Priestly,0,Mirage,8,16,Team Priestly,0
+1402,23,Team Sudio,Yowi Rising,0,2,Yowi Rising,0,Mirage,13,16,Yowi Rising,0
+1403,23,Cherizy eSports,Midnight Academy,0,2,Midnight Academy,0,Dust2,9,16,Midnight Academy,0
+1404,23,Kunzite Gaming,Team Solitude,0,2,Team Solitude,0,Nuke,10,16,Team Solitude,0
+1405,23,Hako Gaming,Team Kayzze,1,2,Team Kayzze,0,Overpass,11,16,Team Kayzze,0
+1406,23,Chappa Flays,Dixxi Riders,2,1,Dixxi Riders,0,Inferno,16,14,Chappa Flays,1
+1407,23,Desafinado Academy,Monarz Five,2,0,Monarz Five,0,Vertigo,16,14,Desafinado Academy,1
+1408,23,Bandi Soilders,Squeezi Boars,1,2,Squeezi Boars,0,Nuke,16,7,Bandi Soilders,1
+1409,23,Team Shipin,Team Mellif,2,0,Team Mellif,0,Dust2,19,16,Team Shipin,1
+1410,23,Team Crimbe,Rewice Gaming,1,2,Rewice Gaming,0,Overpass,5,16,Rewice Gaming,0
+1411,23,Marriz Gaming,Wups Gaming,2,0,Wups Gaming,0,Mirage,16,12,Marriz Gaming,1
+1412,23,Rainbow Riders,WPG,2,0,WPG,0,Mirage,16,8,Rainbow Riders,1
+1413,23,Team Sudio,Team Mellif,0,2,Team Mellif,0,Dust2,13,16,Team Mellif,0
+1414,23,Team Shipin,Bandi Soilders,2,1,Bandi Soilders,0,Overpass,16,11,Team Shipin,1
+1415,23,WPG,Team Crimbe,0,2,Team Crimbe,0,Inferno,14,16,Team Crimbe,0
+1416,23,Rewice Gaming,Desafinado Academy,2,1,Desafinado Academy,0,Nuke,16,6,Rewice Gaming,1
+1417,23,Squeezi Boars,Rainbow Riders,1,2,Rainbow Riders,0,Inferno,16,9,Squeezi Boars,1
+1418,23,Yowi Rising,Lepido eSports,2,0,Lepido eSports,0,Mirage,16,8,Yowi Rising,1
+1419,23,Dixxi Riders,Hako Gaming,0,2,Hako Gaming,0,Mirage,17,19,Hako Gaming,0
+1420,23,Team Kayzze,Cherizy eSports,0,2,Cherizy eSports,0,Vertigo,12,16,Cherizy eSports,0
+1421,23,Midnight Academy,Kunzite Gaming,0,2,Kunzite Gaming,0,Dust2,8,16,Kunzite Gaming,0
+1422,23,Team Solitude,Marriz Gaming,2,1,Marriz Gaming,0,Vertigo,12,16,Marriz Gaming,0
+1423,23,Team Priestly,Leemaz Clan,1,2,Leemaz Clan,0,Dust2,16,7,Team Priestly,1
+1424,23,Tweezar Crusaders,Bowl eSports,2,0,Bowl eSports,0,Vertigo,16,7,Tweezar Crusaders,1
+1425,23,Wups Gaming,Team Orbis,2,0,Team Orbis,0,Overpass,22,19,Wups Gaming,1
+1426,23,Monarz Five,Chappa Flays,2,1,Chappa Flays,0,Overpass,16,11,Monarz Five,1
+1427,23,Rozippe Gaming,qK,2,0,qK,0,Mirage,16,13,Rozippe Gaming,1
+1428,23,Lepido eSports,Tweezar Crusaders,1,2,Tweezar Crusaders,0,Mirage,7,16,Tweezar Crusaders,0
+1429,23,qK,Wups Gaming,0,2,Wups Gaming,0,Overpass,12,16,Wups Gaming,0
+1430,23,Bowl eSports,Team Priestly,0,2,Team Priestly,0,Vertigo,17,19,Team Priestly,0
+1431,23,Leemaz Clan,Rozippe Gaming,2,0,Rozippe Gaming,0,Dust2,16,14,Leemaz Clan,1
+1432,23,Team Orbis,Team Solitude,2,1,Team Solitude,0,Mirage,16,7,Team Orbis,1
+1433,23,Marriz Gaming,Midnight Academy,2,0,Midnight Academy,0,Vertigo,16,7,Marriz Gaming,1
+1434,23,Team Mellif,Yowi Rising,0,2,Yowi Rising,0,Nuke,13,16,Yowi Rising,0
+1435,23,Cherizy eSports,Dixxi Riders,1,2,Dixxi Riders,0,Dust2,16,10,Cherizy eSports,1
+1436,23,Hako Gaming,Monarz Five,1,2,Monarz Five,0,Mirage,9,16,Monarz Five,0
+1437,23,Chappa Flays,Rewice Gaming,2,1,Rewice Gaming,0,Mirage,13,16,Rewice Gaming,0
+1438,23,Rainbow Riders,Team Shipin,2,1,Team Shipin,0,Mirage,10,16,Team Shipin,0
+1439,23,Bandi Soilders,Team Sudio,2,0,Team Sudio,0,Inferno,19,16,Bandi Soilders,1
+1440,23,Desafinado Academy,WPG,2,1,WPG,0,Inferno,16,4,Desafinado Academy,1
+1441,23,Team Crimbe,Squeezi Boars,2,0,Squeezi Boars,0,Mirage,16,14,Team Crimbe,1
+1442,23,Kunzite Gaming,Team Kayzze,1,2,Team Kayzze,0,Mirage,6,16,Team Kayzze,0
+1443,23,Team Mellif,Bandi Soilders,2,0,Bandi Soilders,0,Nuke,16,14,Team Mellif,1
+1444,23,Squeezi Boars,Desafinado Academy,1,2,Desafinado Academy,0,Ancient,10,16,Desafinado Academy,0
+1445,23,Team Sudio,Rainbow Riders,0,2,Rainbow Riders,0,Dust2,15,19,Rainbow Riders,0
+1446,23,WPG,Chappa Flays,0,2,Chappa Flays,0,Nuke,11,16,Chappa Flays,0
+1447,23,Team Shipin,Team Crimbe,0,2,Team Crimbe,0,Mirage,5,16,Team Crimbe,0
+1448,23,Rewice Gaming,Hako Gaming,2,1,Hako Gaming,0,Mirage,11,16,Hako Gaming,0
+1449,23,Monarz Five,Cherizy eSports,2,1,Cherizy eSports,0,Dust2,16,9,Monarz Five,1
+1450,23,Yowi Rising,Tweezar Crusaders,0,2,Tweezar Crusaders,0,Vertigo,8,16,Tweezar Crusaders,0
+1451,23,Team Kayzze,Marriz Gaming,2,1,Marriz Gaming,0,Overpass,16,10,Team Kayzze,1
+1452,23,Midnight Academy,Team Orbis,1,2,Team Orbis,0,Mirage,13,16,Team Orbis,0
+1453,23,Rozippe Gaming,Bowl eSports,2,1,Bowl eSports,0,Mirage,16,19,Bowl eSports,0
+1454,23,Team Priestly,Lepido eSports,2,0,Lepido eSports,0,Inferno,16,8,Team Priestly,1
+1455,23,Team Solitude,qK,2,0,qK,0,Inferno,19,15,Team Solitude,1
+1456,23,Wups Gaming,Leemaz Clan,2,1,Leemaz Clan,0,Mirage,9,16,Leemaz Clan,0
+1457,23,Dixxi Riders,Kunzite Gaming,1,2,Kunzite Gaming,0,Mirage,11,16,Kunzite Gaming,0
+1458,23,Tweezar Crusaders,Team Priestly,2,0,Team Priestly,0,Dust2,19,17,Tweezar Crusaders,1
+1459,23,Leemaz Clan,Team Solitude,2,0,Team Solitude,0,Inferno,16,13,Leemaz Clan,1
+1460,23,Lepido eSports,Rozippe Gaming,2,1,Rozippe Gaming,0,Vertigo,16,9,Lepido eSports,1
+1461,23,qK,Midnight Academy,2,1,Midnight Academy,0,Nuke,3,16,Midnight Academy,0
+1462,23,Bowl eSports,Wups Gaming,2,0,Wups Gaming,0,Overpass,16,9,Bowl eSports,1
+1463,23,Team Orbis,Team Kayzze,1,2,Team Kayzze,0,Mirage,11,16,Team Kayzze,0
+1464,23,Marriz Gaming,Dixxi Riders,1,2,Dixxi Riders,0,Inferno,16,10,Marriz Gaming,1
+1465,23,Kunzite Gaming,Monarz Five,2,1,Monarz Five,0,Inferno,6,16,Monarz Five,0
+1466,23,Bandi Soilders,Yowi Rising,2,0,Yowi Rising,0,Mirage,16,10,Bandi Soilders,1
+1467,23,Hako Gaming,WPG,2,1,WPG,0,Mirage,11,16,WPG,0
+1468,23,Team Crimbe,Team Sudio,1,2,Team Sudio,0,Dust2,12,16,Team Sudio,0
+1469,23,Rainbow Riders,Team Mellif,0,2,Team Mellif,0,Vertigo,12,16,Team Mellif,0
+1470,23,Chappa Flays,Squeezi Boars,2,0,Squeezi Boars,0,Vertigo,16,13,Chappa Flays,1
+1471,23,Desafinado Academy,Team Shipin,0,2,Team Shipin,0,Mirage,17,19,Team Shipin,0
+1472,23,Cherizy eSports,Rewice Gaming,1,2,Rewice Gaming,0,Overpass,16,8,Cherizy eSports,1
+1473,23,Bandi Soilders,Rainbow Riders,2,0,Rainbow Riders,0,Mirage,16,6,Bandi Soilders,1
+1474,23,Team Mellif,Team Crimbe,1,2,Team Crimbe,0,Inferno,16,11,Team Mellif,1
+1475,23,Team Shipin,Chappa Flays,2,1,Chappa Flays,0,Overpass,11,16,Chappa Flays,0
+1476,23,Squeezi Boars,Hako Gaming,2,1,Hako Gaming,0,Ancient,7,16,Hako Gaming,0
+1477,23,Team Sudio,Desafinado Academy,2,1,Desafinado Academy,0,Mirage,13,16,Desafinado Academy,0
+1478,23,WPG,Cherizy eSports,2,0,Cherizy eSports,0,Dust2,16,9,WPG,1
+1479,23,Rewice Gaming,Kunzite Gaming,2,1,Kunzite Gaming,0,Dust2,16,5,Rewice Gaming,1
+1480,23,Monarz Five,Marriz Gaming,2,1,Marriz Gaming,0,Overpass,16,7,Monarz Five,1
+1482,23,Yowi Rising,Team Priestly,2,0,Team Priestly,0,Inferno,16,12,Yowi Rising,1
+1483,23,Wups Gaming,Lepido eSports,1,2,Lepido eSports,0,Mirage,14,16,Lepido eSports,0
+1484,23,Rozippe Gaming,Tweezar Crusaders,2,0,Tweezar Crusaders,0,Inferno,16,8,Rozippe Gaming,1
+1485,23,Midnight Academy,Leemaz Clan,2,1,Leemaz Clan,0,Mirage,9,16,Leemaz Clan,0
+1486,23,Team Solitude,Bowl eSports,2,1,Bowl eSports,0,Nuke,12,16,Bowl eSports,0
+1487,23,Team Kayzze,qK,1,2,qK,0,Mirage,16,6,Team Kayzze,1
+1488,23,Team Sudio,Hako Gaming,1,2,Hako Gaming,0,Overpass,10,16,Hako Gaming,0
+1489,23,Team Shipin,Cherizy eSports,0,2,Cherizy eSports,0,Inferno,7,16,Cherizy eSports,0
+1490,23,Squeezi Boars,Kunzite Gaming,2,1,Kunzite Gaming,0,Inferno,12,16,Kunzite Gaming,0
+1491,23,WPG,Marriz Gaming,2,1,arriz Gaming,0,Inferno,11,16,Marriz Gaming,0
+1492,23,Rewice Gaming,Team Orbis,0,2,Team Orbis,0,Overpass,12,16,Team Orbis,0
+1493,23,Monarz Five,qK,1,2,qK,0,Nuke,13,16,qK,0
+1494,23,Team Solitude,Tweezar Crusaders,1,2,Tweezar Crusaders,0,Dust2,20,22,Tweezar Crusaders,0
+1495,23,Dixxi Riders,Leemaz Clan,1,2,Leemaz Clan,0,Inferno,8,16,Leemaz Clan,0
+1496,23,Wups Gaming,Team Priestly,2,1,Team Priestly,0,Overpass,16,10,Wups Gaming,1
+1497,23,Team Kayzze,Bowl eSports,0,2,Bowl eSports,0,Mirage,14,16,Bowl eSports,0
+1498,23,Midnight Academy,Lepido eSports,2,0,Lepido eSports,0,Mirage,19,15,Midnight Academy,1
+1499,23,Yowi Rising,Rozippe Gaming,2,0,Rozippe Gaming,0,Overpass,16,4,Yowi Rising,1
+1500,23,Team Priestly,Rozippe Gaming,1,2,Rozippe Gaming,0,Mirage,11,16,Rozippe Gaming,0
+1501,23,Tweezar Crusaders,Wups Gaming,2,0,Wups Gaming,0,Vertigo,19,16,Tweezar Crusaders,1
+1502,23,Bowl eSports,Midnight Academy,2,0,Midnight Academy,0,Inferno,19,17,Bowl eSports,1
+1503,23,Leemaz Clan,Team Kayzze,0,2,Team Kayzze,0,Nuke,7,16,Team Kayzze,0
+1504,23,Lepido eSports,Team Solitude,2,1,Team Solitude,0,Dust2,9,16,Team Solitude,0
+1505,23,qK,Dixxi Riders,2,0,Dixxi Riders,0,Mirage,16,11,qK,1
+1507,23,Marriz Gaming,Rewice Gaming,1,2,Rewice Gaming,0,Dust2,16,10,Marriz Gaming,1
+1508,23,Kunzite Gaming,WPG,1,2,WPG,0,Mirage,8,16,WPG,0
+1509,23,Cherizy eSports,Squeezi Boars,2,1,Squeezi Boars,0,Ancient,12,16,Squeezi Boars,0
+1510,23,Desafinado Academy,Team Mellif,2,1,Team Mellif,0,Mirage,16,6,Desafinado Academy,1
+1511,23,Rainbow Riders,Yowi Rising,0,2,Yowi Rising,0,Inferno,12,16,Yowi Rising,0
+1512,23,Team Crimbe,Bandi Soilders,1,2,Bandi Soilders,0,Vertigo,16,13,Team Crimbe,1
+1513,23,Chappa Flays,Team Sudio,2,1,Team Sudio,0,Overpass,16,6,Chappa Flays,1
+1514,23,Hako Gaming,Team Shipin,2,0,Team Shipin,0,Dust2,16,11,Hako Gaming,1
+1515,23,Rozippe Gaming,Wups Gaming,2,0,Wups Gaming,0,Mirage,16,11,Rozippe Gaming,1
+1516,23,Team Priestly,Team Solitude,2,1,Team Solitude,0,Ancient,19,17,Team Priestly,1
+1517,23,Lepido eSports,Team Kayzze,2,1,Team Kayzze,0,Vertigo,13,16,Team Kayzze,0
+1518,23,Bowl eSports,Dixxi Riders,2,0,Dixxi Riders,0,Nuke,16,13,Bowl eSports,1
+1519,23,Tweezar Crusaders,Midnight Academy,2,0,Midnight Academy,0,Mirage,16,9,Tweezar Crusaders,1
+1520,23,Leemaz Clan,Monarz Five,0,2,Monarz Five,0,Overpass,14,16,Monarz Five,0
+1521,23,qK,Rewice Gaming,2,0,Rewice Gaming,0,Dust2,16,11,qK,1
+1522,23,Team Orbis,WPG,1,2,WPG,0,Vertigo,16,7,Team Orbis,1
+1523,23,Marriz Gaming,Squeezi Boars,0,2,Squeezi Boars,0,Overpass,10,16,Squeezi Boars,0
+1524,23,Kunzite Gaming,Team Shipin,0,2,Team Shipin,0,Ancient,13,16,Team Shipin,0
+1525,23,Team Crimbe,Yowi Rising,2,1,Yowi Rising,0,Nuke,6,16,Yowi Rising,0
+1526,23,Cherizy eSports,Team Sudio,2,1,Team Sudio,0,Mirage,13,16,Team Sudio,0
+1527,23,Desafinado Academy,Rainbow Riders,0,2,Rainbow Riders,0,Dust2,17,19,Rainbow Riders,0
+1528,23,Chappa Flays,Bandi Soilders,1,2,Bandi Soilders,0,Mirage,3,16,Bandi Soilders,0
+1529,23,Hako Gaming,Team Mellif,1,2,Team Mellif,0,Mirage,11,16,Team Mellif,0
+1530,23,Wups Gaming,Team Solitude,2,0,Team Solitude,0,Dust2,16,8,Wups Gaming,1
+1531,23,Rozippe Gaming,Midnight Academy,1,2,Midnight Academy,0,Vertigo,10,16,Midnight Academy,0
+1532,23,Tweezar Crusaders,Dixxi Riders,2,1,Dixxi Riders,0,Mirage,12,16,Dixxi Riders,0
+1533,23,Lepido eSports,Monarz Five,2,0,Monarz Five,0,Mirage,16,8,Lepido eSports,1
+1534,23,Team Priestly,Team Kayzze,2,1,Team Kayzze,0,Overpass,16,14,Team Priestly,1
+1535,23,Bowl eSports,Rewice Gaming,2,1,Rewice Gaming,0,Nuke,16,9,Bowl eSports,1
+1536,23,Leemaz Clan,WPG,0,2,WPG,0,Mirage,13,16,WPG,0
+1537,23,qK,Squeezi Boars,2,1,Squeezi Boars,0,Inferno,16,12,qK,1
+1539,23,Marriz Gaming,Team Sudio,0,2,Team Sudio,0,Dust2,11,16,Team Sudio,0
+1540,23,Hako Gaming,Rainbow Riders,1,2,Rainbow Riders,0,Dust2,16,14,Hako Gaming,1
+1541,23,Kunzite Gaming,Team Mellif,2,0,Team Mellif,0,Ancient,16,11,Kunzite Gaming,1
+1542,23,Chappa Flays,Team Crimbe,2,1,Team Crimbe,0,Inferno,16,10,Chappa Flays,1
+1543,23,Desafinado Academy,Yowi Rising,2,0,Yowi Rising,0,Nuke,16,14,Desafinado Academy,1
+1544,23,Cherizy eSports,Bandi Soilders,2,0,Bandi Soilders,0,Overpass,16,10,Cherizy eSports,1
+1545,23,Bandi Soilders,Hako Gaming,2,0,ako Gaming,0,Nuke,16,9,Bandi Soilders,1
+1546,23,Yowi Rising,Wups Gaming,2,0,Wups Gaming,0,Inferno,22,18,Yowi Rising,1
+1547,23,Midnight Academy,Team Priestly,2,0,Team Priestly,0,Overpass,16,14,Midnight Academy,1
+1548,23,WPG,qK,0,2,qK,0,Ancient,13,16,qK,0
+1549,23,Team Kayzze,Tweezar Crusaders,2,1,Tweezar Crusaders,0,Mirage,16,11,Team Kayzze,1
+1550,23,Team Solitude,Rozippe Gaming,2,1,Rozippe Gaming,0,Dust2,11,16,Rozippe Gaming,0
+1551,22 playoffs,Team Sudio,Grand-final- Team Melif,3,1,eam Melif,0,Nuke,16,11,Team Sudio,1
+1552,22 playoffs,Team Sudio,Rainbow Riders,2,0,Rainbow Riders,0,Mirage,16,8,Team Sudio,1
+1553,22 playoffs,Bowl eSports,Rainbow Riders,0,2,Rainbow Riders,0,Nuke,7,16,Rainbow Riders,0
+1554,22 playoffs,Rainbow Riders,Team Orbis,2,0,Team Orbis,0,Mirage,16,5,Rainbow Riders,1
+1556,22 playoffs,Leemaz Clan,Bowl eSports,0,2,Bowl eSports,0,Dust2,11,16,Bowl eSports,0
+1559,22 playoffs,Team Sudio,Leemaz Clan,2,0,Leemaz Clan,0,Vertigo,16,7,Team Sudio,1
+1560,22 playoffs,Team Orbis,Lepido eSports,2,1,epido eSports,0,Dust2,6,16,Lepido eSports,0
+1561,22 playoffs,Team Orbis,Team Mellif,0,2,eam Mellif,0,Mirage,9,16,Team Mellif,0
+1562,22 playoffs,Bowl eSports,Team Sudio,1,2,Team Sudio,0,Mirage,16,6,Bowl eSports,1
+1563,22 playoffs,Leemaz Clan,Chappa Flays,2,1,Chappa Flays,0,Vertigo,14,16,Chappa Flays,0
+1564,22 playoffs,Lepido eSports,Rainbow Riders,1,2,Rainbow Riders,0,Ancient,16,8,Lepido eSports,1
+1565,22,Mioriz Eminor,Kunzite Gaming,0,2,Kunzite Gaming,0,Dust2,11,16,Kunzite Gaming,0
+1566,22,Midnight Academy,Yowi Rising,0,2,Yowi Rising,0,Ancient,13,16,Yowi Rising,0
+1567,22,Marriz Gaming,Leemaz Clan,2,0,Leemaz Clan,0,Dust2,16,6,Marriz Gaming,1
+1568,22,Bowl eSports,Bandi Soilders,2,1,Bandi Soilders,0,Mirage,16,12,Bowl eSports,1
+1569,22,Rainbow Riders,Lepido eSports,2,1,Lepido eSports,0,Nuke,13,16,Lepido eSports,0
+1570,22,Team Mellif,Rewice Gaming,2,1,Rewice Gaming,0,Inferno,6,16,Rewice Gaming,0
+1571,22,Bandi Soilders,Dixxi Riders,0,2,Dixxi Riders,0,Dust2,6,16,Dixxi Riders,0
+1572,22,LynxCompany,Tweezar Crusaders,2,0,Tweezar Crusaders,0,Dust2,19,17,LynxCompany,1
+1573,22,Team Sudio,Evil Sharks,2,1,Evil Sharks,0,Mirage,5,16,Evil Sharks,0
+1574,22,Team Orbis,Bowl eSports,2,1,Bowl eSports,0,Overpass,6,16,Bowl eSports,0
+1575,22,Desafinado Academy,Team Crimbe,2,1,eam Crimbe,0,Dust2,16,11,Desafinado Academy,1
+1576,22,Chappa Flays,Team Sudio,0,2,eam Sudio,0,Mirage,15,19,Team Sudio,0
+1577,22,Team Inpiration,Rainbow Riders,1,2,Rainbow Riders,0,Inferno,12,16,Rainbow Riders,0
+1578,22,Leemaz Clan,Lepido eSports,2,0,Lepido eSports,0,Vertigo,16,12,Leemaz Clan,1
+1579,22,Monarz Five,LynxCompany,1,2,LynxCompany,0,Inferno,17,19,LynxCompany,0
+1580,22,Duck eSports,Tweezar Crusaders,1,2,Tweezar Crusaders,0,Overpass,11,16,Tweezar Crusaders,0
+1581,22,Kunzite Gaming,Evil Sharks,0,2,Evil Sharks,0,Dust2,11,16,Evil Sharks,0
+1582,22,Mioriz Eminor,Yowi Rising,2,1,Yowi Rising,0,Inferno,16,12,Mioriz Eminor,1
+1583,22,Team Solitude,Squeezi Boars,0,2,Squeezi Boars,0,Mirage,12,16,Squeezi Boars,0
+1584,22,Marriz Gaming,Mint Flames,1,2,Mint Flames,0,Vertigo,16,13,Marriz Gaming,1
+1585,22,Dixxi Riders,Team Orbis,1,2,Team Orbis,0,Dust2,8,16,Team Orbis,0
+1586,22,Team Mellif,Midnight Academy,2,0,Midnight Academy,0,Inferno,16,5,Team Mellif,1
+1587,22,Cherizy eSports,Team Shipin,0,2,Team Shipin,0,Overpass,5,16,Team Shipin,0
+1588,22,Rewice Gaming,Bandi Soilders,1,2,Bandi Soilders,0,Mirage,6,16,Bandi Soilders,0
+1589,22,Bowl eSports,Wups Gaming,0,2,Wups Gaming,0,Mirage,8,16,Wups Gaming,0
+1590,22,Wups Gaming,Cherizy eSports,2,1,Cherizy eSports,0,Overpass,9,16,Cherizy eSports,0
+1591,22,Team Shipin,Marriz Gaming,2,1,Marriz Gaming,0,Inferno,9,16,Marriz Gaming,0
+1592,22,Mint Flames,Team Solitude,2,0,Team Solitude,0,Nuke,16,11,Mint Flames,1
+1593,22,Squeezi Boars,Mioriz Eminor,0,2,Mioriz Eminor,0,Inferno,14,16,Mioriz Eminor,0
+1594,22,Yowi Rising,Kunzite Gaming,1,2,Kunzite Gaming,0,Ancient,16,9,Yowi Rising,1
+1595,22,Evil Sharks,Duck eSports,2,1,uck eSports,0,Inferno,5,16,Duck eSports,0
+1596,22,Tweezar Crusaders,Leemaz Clan,2,0,Leemaz Clan,0,Mirage,16,8,Tweezar Crusaders,1
+1597,22,Midnight Academy,Team Crimbe,2,0,Team Crimbe,0,Mirage,16,8,Midnight Academy,1
+1598,22,Lepido eSports,Team Inpiration,1,2,Team Inpiration,0,Inferno,12,16,Team Inpiration,0
+1599,22,Team Sudio,Desafinado Academy,2,1,Desafinado Academy,0,Inferno,5,16,Desafinado Academy,0
+1600,22,LynxCompany,Chappa Flays,0,2,Chappa Flays,0,Mirage,14,16,Chappa Flays,0
+1601,22,Rainbow Riders,Monarz Five,1,2,Monarz Five,0,Mirage,16,19,Monarz Five,0
+1602,22,Team Crimbe,Team Sudio,0,2,Team Sudio,0,Mirage,10,16,Team Sudio,0
+1603,22,Desafinado Academy,LynxCompany,2,0,LynxCompany,0,Inferno,16,10,Desafinado Academy,1
+1604,22,Monarz Five,Lepido eSports,1,2,Lepido eSports,0,Nuke,16,12,Monarz Five,1
+1605,22,Team Inpiration,Tweezar Crusaders,2,0,Tweezar Crusaders,0,Vertigo,16,6,Team Inpiration,1
+1606,22,Chappa Flays,Rainbow Riders,2,0,Rainbow Riders,0,Mirage,19,17,Chappa Flays,1
+1607,22,Duck eSports,Yowi Rising,2,0,Yowi Rising,0,Mirage,16,3,Duck eSports,1
+1608,22,Leemaz Clan,Evil Sharks,0,2,Evil Sharks,0,Ancient,11,16,Evil Sharks,0
+1609,22,Kunzite Gaming,Squeezi Boars,2,1,Squeezi Boars,0,Inferno,11,16,Squeezi Boars,0
+1610,22,Mioriz Eminor,Mint Flames,2,0,Mint Flames,0,Mirage,16,14,Mioriz Eminor,1
+1611,22,Team Solitude,Team Shipin,2,0,Team Shipin,0,Dust2,16,12,Team Solitude,1
+1612,22,Marriz Gaming,Wups Gaming,0,2,Wups Gaming,0,Ancient,9,16,Wups Gaming,0
+1613,22,Dixxi Riders,Team Mellif,0,2,Team Mellif,0,Vertigo,0,16,Team Mellif,0
+1614,22,Rewice Gaming,Midnight Academy,0,2,Midnight Academy,0,Nuke,13,16,Midnight Academy,0
+1615,22,Cherizy eSports,Team Orbis,0,2,Team Orbis,0,Overpass,10,16,Team Orbis,0
+1616,22,Rewice Gaming,Dixxi Riders,0,2,Dixxi Riders,0,Dust2,13,16,Dixxi Riders,0
+1617,22,Team Mellif,Bowl eSports,2,0,Bowl eSports,0,Overpass,16,11,Team Mellif,1
+1618,22,Team Orbis,Marriz Gaming,1,2,Marriz Gaming,0,Nuke,11,16,Marriz Gaming,0
+1619,22,Wups Gaming,Team Solitude,1,2,Team Solitude,0,Inferno,16,12,Wups Gaming,1
+1620,22,Bandi Soilders,Cherizy eSports,2,1,Cherizy eSports,0,Dust2,5,16,Cherizy eSports,0
+1621,22,Team Shipin,Mioriz Eminor,0,2,Mioriz Eminor,0,Vertigo,14,16,Mioriz Eminor,0
+1622,22,Mint Flames,Kunzite Gaming,0,2,Kunzite Gaming,0,Dust2,6,16,Kunzite Gaming,0
+1623,22,Squeezi Boars,Duck eSports,2,1,Duck eSports,0,Overpass,12,16,Duck eSports,0
+1624,22,Yowi Rising,Leemaz Clan,2,0,Leemaz Clan,0,Inferno,16,12,Yowi Rising,1
+1625,22,Evil Sharks,Team Inpiration,2,0,Team Inpiration,0,Inferno,19,15,Evil Sharks,1
+1626,22,Rainbow Riders,Desafinado Academy,2,1,Desafinado Academy,0,Mirage,5,16,Desafinado Academy,0
+1627,22,Midnight Academy,Team Sudio,2,0,Team Sudio,0,Mirage,16,14,Midnight Academy,1
+1628,22,LynxCompany,Team Crimbe,1,2,Team Crimbe,0,Inferno,13,16,Team Crimbe,0
+1629,22,Tweezar Crusaders,Monarz Five,0,2,Monarz Five,0,Mirage,11,16,Monarz Five,0
+1630,22,Lepido eSports,Chappa Flays,1,2,Chappa Flays,0,Inferno,3,16,Chappa Flays,0
+1631,22,Team Sudio,LynxCompany,0,2,LynxCompany,0,Mirage,6,16,LynxCompany,0
+1632,22,Team Crimbe,Rainbow Riders,1,2,Rainbow Riders,0,Vertigo,16,9,Team Crimbe,1
+1633,22,Chappa Flays,Tweezar Crusaders,1,2,Tweezar Crusaders,0,Overpass,16,10,Chappa Flays,1
+1634,22,Monarz Five,Evil Sharks,2,0,Evil Sharks,0,Dust2,16,13,Monarz Five,1
+1635,22,Desafinado Academy,Lepido eSports,1,2,Lepido eSports,0,Dust2,13,16,Lepido eSports,0
+1636,22,Team Inpiration,Yowi Rising,2,0,Yowi Rising,0,Mirage,16,14,Team Inpiration,1
+1637,22,Leemaz Clan,Squeezi Boars,2,0,Squeezi Boars,0,Mirage,19,17,Leemaz Clan,1
+1638,22,Duck eSports,Mint Flames,0,2,Mint Flames,0,Vertigo,14,16,Mint Flames,0
+1639,22,Kunzite Gaming,Team Shipin,2,1,Team Shipin,0,Dust2,14,16,Team Shipin,0
+1640,22,Cherizy eSports,Team Mellif,1,2,Team Mellif,0,Dust2,16,6,Cherizy eSports,1
+1641,22,Dixxi Riders,Midnight Academy,2,1,Midnight Academy,0,Overpass,9,16,Midnight Academy,0
+1642,22,Bowl eSports,Rewice Gaming,2,1,Rewice Gaming,0,Overpass,6,16,Rewice Gaming,0
+1643,22,Team Solitude,Team Orbis,1,2,Team Orbis,0,Vertigo,16,12,Team Solitude,1
+1644,22,Marriz Gaming,Bandi Soilders,0,2,Bandi Soilders,0,Ancient,13,16,Bandi Soilders,0
+1645,22,Mioriz Eminor,Wups Gaming,1,2,Wups Gaming,0,Mirage,16,9,Mioriz Eminor,1
+1646,22,Dixxi Riders,Bowl eSports,2,0,Bowl eSports,0,Mirage,16,12,Dixxi Riders,1
+1647,22,Rewice Gaming,Cherizy eSports,1,2,Cherizy eSports,0,Ancient,13,16,Cherizy eSports,0
+1648,22,Bandi Soilders,Team Solitude,1,2,Team Solitude,0,Inferno,16,13,Bandi Soilders,1
+1649,22,Team Orbis,Mioriz Eminor,0,2,Mioriz Eminor,0,Ancient,14,16,Mioriz Eminor,0
+1650,22,Team Mellif,Marriz Gaming,0,2,Marriz Gaming,0,Mirage,13,16,Marriz Gaming,0
+1651,22,Wups Gaming,Kunzite Gaming,0,2,Kunzite Gaming,0,Mirage,12,16,Kunzite Gaming,0
+1652,22,Team Shipin,Duck eSports,2,1,Duck eSports,0,Nuke,16,9,Team Shipin,1
+1653,22,Mint Flames,Leemaz Clan,1,2,Leemaz Clan,0,Dust2,16,9,Mint Flames,1
+1654,22,Midnight Academy,LynxCompany,2,0,LynxCompany,0,Mirage,16,4,Midnight Academy,1
+1655,22,Lepido eSports,Team Crimbe,2,1,Team Crimbe,0,Mirage,7,16,Team Crimbe,0
+1656,22,Yowi Rising,Monarz Five,0,2,Monarz Five,0,Mirage,12,16,Monarz Five,0
+1657,22,Rainbow Riders,Team Sudio,0,2,Team Sudio,0,Vertigo,9,16,Team Sudio,0
+1658,22,Evil Sharks,Chappa Flays,0,2,Chappa Flays,0,Dust2,5,16,Chappa Flays,0
+1659,22,Tweezar Crusaders,Desafinado Academy,1,2,Desafinado Academy,0,Vertigo,7,16,Desafinado Academy,0
+1660,22,Squeezi Boars,Team Inpiration,1,2,Team Inpiration,0,Dust2,15,19,Team Inpiration,0
+1661,22,LynxCompany,Rainbow Riders,0,2,Rainbow Riders,0,Dust2,4,16,Rainbow Riders,0
+1662,22,Team Sudio,Lepido eSports,2,1,Lepido eSports,0,Vertigo,6,16,Lepido eSports,0
+1663,22,Desafinado Academy,Evil Sharks,1,2,Evil Sharks,0,Ancient,16,11,Desafinado Academy,1
+1664,22,Chappa Flays,Yowi Rising,0,2,Yowi Rising,0,Nuke,13,16,Yowi Rising,0
+1665,22,Team Crimbe,Tweezar Crusaders,1,2,Tweezar Crusaders,0,Overpass,19,17,Team Crimbe,1
+1666,22,Monarz Five,Squeezi Boars,1,2,Squeezi Boars,0,Vertigo,16,10,Monarz Five,1
+1667,22,Team Inpiration,Mint Flames,1,2,Mint Flames,0,Dust2,16,6,Team Inpiration,1
+1668,22,Bowl eSports,Midnight Academy,2,0,Midnight Academy,0,Vertigo,19,17,Bowl eSports,1
+1669,22,Duck eSports,Wups Gaming,0,2,Wups Gaming,0,Overpass,13,16,Wups Gaming,0
+1670,22,Kunzite Gaming,Team Orbis,2,1,Team Orbis,0,Inferno,8,16,Team Orbis,0
+1671,22,Marriz Gaming,Rewice Gaming,1,2,Rewice Gaming,0,Nuke,5,16,Rewice Gaming,0
+1672,22,Cherizy eSports,Dixxi Riders,0,2,Dixxi Riders,0,Dust2,9,16,Dixxi Riders,0
+1673,22,Mioriz Eminor,Bandi Soilders,2,0,Bandi Soilders,0,Dust2,16,11,Mioriz Eminor,1
+1674,22,Leemaz Clan,Team Shipin,,,Team Shipin,0,Mirage,9,16,Team Shipin,0
+1675,22,Team Solitude,Team Mellif,0,2,Team Mellif,0,Overpass,3,16,Team Mellif,0
+1676,22,Bowl eSports,Cherizy eSports,0,2,Cherizy eSports,0,Mirage,17,19,Cherizy eSports,0
+1677,22,Team Mellif,Mioriz Eminor,2,0,Mioriz Eminor,0,Vertigo,16,13,Team Mellif,1
+1678,22,Dixxi Riders,Marriz Gaming,0,2,Marriz Gaming,0,Inferno,13,16,Marriz Gaming,0
+1679,22,Bandi Soilders,Kunzite Gaming,2,0,Kunzite Gaming,0,Overpass,16,13,Bandi Soilders,1
+1680,22,Rewice Gaming,Team Solitude,0,2,Team Solitude,0,Mirage,13,16,Team Solitude,0
+1681,22,Team Orbis,Duck eSports,1,2,Duck eSports,0,Dust2,10,16,Duck eSports,0
+1682,22,Midnight Academy,Rainbow Riders,2,0,Rainbow Riders,0,Mirage,16,12,Midnight Academy,1
+1683,22,Team Shipin,Team Inpiration,2,0,Team Inpiration,0,Inferno,16,9,Team Shipin,1
+1684,22,Mint Flames,Monarz Five,2,1,Monarz Five,0,Mirage,16,12,Mint Flames,1
+1685,22,Tweezar Crusaders,Team Sudio,1,2,Team Sudio,0,Dust2,10,16,Team Sudio,0
+1686,22,Squeezi Boars,Chappa Flays,2,0,Chappa Flays,0,Vertigo,19,15,Squeezi Boars,1
+1687,22,Lepido eSports,LynxCompany,2,0,LynxCompany,0,Inferno,16,9,Lepido eSports,1
+1688,22,Yowi Rising,Desafinado Academy,0,2,Desafinado Academy,0,Overpass,22,25,Desafinado Academy,0
+1689,22,Wups Gaming,Leemaz Clan,1,2,Leemaz Clan,0,Mirage,9,16,Leemaz Clan,0
+1690,22,Evil Sharks,Team Crimbe,2,0,Team Crimbe,0,Mirage,16,6,Evil Sharks,1
+1691,22,Team Crimbe,Yowi Rising,2,1,Yowi Rising,0,Nuke,16,6,Team Crimbe,1
+1692,22,Desafinado Academy,Squeezi Boars,2,1,Squeezi Boars,0,Inferno,13,16,Squeezi Boars,0
+1693,22,Cherizy eSports,Midnight Academy,,,Midnight Academy,0,Overpass,16,11,Cherizy eSports,1
+1694,22,Monarz Five,Team Shipin,1,2,Team Shipin,0,Inferno,5,16,Team Shipin,0
+1695,22,Team Inpiration,Wups Gaming,0,2,Wups Gaming,0,Ancient,15,19,Wups Gaming,0
+1696,22,Leemaz Clan,Team Orbis,2,1,eam Orbis,0,Inferno,14,16,Team Orbis,0
+1697,22,Duck eSports,Bandi Soilders,1,2,Bandi Soilders,0,Dust2,16,12,Duck eSports,1
+1698,22,Team Solitude,Dixxi Riders,2,1,Dixxi Riders,0,Mirage,6,16,Dixxi Riders,0
+1699,22,Kunzite Gaming,Team Mellif,2,1,Team Mellif,0,Inferno,7,16,Team Mellif,0
+1700,22,Marriz Gaming,Bowl eSports,2,1,Bowl eSports,0,Inferno,11,16,Bowl eSports,0
+1701,22,Mioriz Eminor,Rewice Gaming,1,2,Rewice Gaming,0,Overpass,14,16,Rewice Gaming,0
+1702,22,Chappa Flays,Mint Flames,2,0,Mint Flames,0,Mirage,16,12,Chappa Flays,1
+1703,22,Cherizy eSports,Marriz Gaming,2,0,Marriz Gaming,0,Mirage,16,12,Cherizy eSports,1
+1704,22,Bowl eSports,Team Solitude,2,0,Team Solitude,0,Inferno,19,16,Bowl eSports,1
+1705,22,Rewice Gaming,Kunzite Gaming,2,0,Kunzite Gaming,0,Vertigo,16,13,Rewice Gaming,1
+1706,22,Dixxi Riders,Mioriz Eminor,1,2,Mioriz Eminor,0,Mirage,16,9,Dixxi Riders,1
+1707,22,Midnight Academy,Lepido eSports,1,2,Lepido eSports,0,Mirage,9,16,Lepido eSports,0
+1708,22,Bandi Soilders,Leemaz Clan,2,0,Leemaz Clan,0,Nuke,16,13,Bandi Soilders,1
+1709,22,Team Orbis,Team Inpiration,1,2,Team Inpiration,0,Mirage,10,16,Team Inpiration,0
+1710,22,Wups Gaming,Monarz Five,1,2,Monarz Five,0,Inferno,12,16,Monarz Five,0
+1711,22,Team Shipin,Chappa Flays,2,0,Chappa Flays,0,Mirage,16,9,Team Shipin,1
+1712,22,Mint Flames,Desafinado Academy,2,1,Desafinado Academy,0,Dust2,7,16,Desafinado Academy,0
+1713,22,Evil Sharks,LynxCompany,2,1,LynxCompany,0,Dust2,16,10,Evil Sharks,1
+1714,22,Squeezi Boars,Team Crimbe,1,2,Team Crimbe,0,Mirage,16,13,Squeezi Boars,1
+1715,22,Tweezar Crusaders,Rainbow Riders,0,2,Rainbow Riders,0,Vertigo,19,22,Rainbow Riders,0
+1716,22,Team Mellif,Duck eSports,2,0,Duck eSports,0,Overpass,16,10,Team Mellif,1
+1717,22,Yowi Rising,Team Sudio,2,0,Team Sudio,0,Dust2,16,12,Yowi Rising,1
+1718,22,Lepido eSports,Tweezar Crusaders,0,2,Tweezar Crusaders,0,Dust2,17,19,Tweezar Crusaders,0
+1719,22,Rainbow Riders,Evil Sharks,2,0,Evil Sharks,0,Overpass,16,9,Rainbow Riders,1
+1720,22,Marriz Gaming,Midnight Academy,2,1,Midnight Academy,0,Mirage,16,10,Marriz Gaming,1
+1721,22,Team Crimbe,Mint Flames,0,2,Mint Flames,0,Ancient,8,16,Mint Flames,0
+1722,22,LynxCompany,Yowi Rising,1,2,Yowi Rising,0,Dust2,16,8,LynxCompany,1
+1723,22,Desafinado Academy,Team Shipin,2,1,Team Shipin,0,Nuke,16,6,Desafinado Academy,1
+1724,22,Chappa Flays,Wups Gaming,0,2,Wups Gaming,0,Dust2,13,16,Wups Gaming,0
+1725,22,Monarz Five,Team Orbis,0,2,Team Orbis,0,Overpass,4,16,Team Orbis,0
+1726,22,Team Inpiration,Bandi Soilders,1,2,Bandi Soilders,0,Dust2,5,16,Bandi Soilders,0
+1727,22,Leemaz Clan,Team Mellif,0,2,Team Mellif,0,Dust2,12,16,Team Mellif,0
+1728,22,Mioriz Eminor,Bowl eSports,1,2,Bowl eSports,0,Mirage,16,11,Mioriz Eminor,1
+1729,22,Duck eSports,Rewice Gaming,0,2,Rewice Gaming,0,Mirage,13,16,Rewice Gaming,0
+1730,22,Team Solitude,Cherizy eSports,2,0,Cherizy eSports,0,Inferno,16,9,Team Solitude,1
+1731,22,Kunzite Gaming,Dixxi Riders,0,2,Dixxi Riders,0,Overpass,6,16,Dixxi Riders,0
+1732,22,Team Sudio,Squeezi Boars,2,0,Squeezi Boars,0,Mirage,16,7,Team Sudio,1
+1733,22,Marriz Gaming,Team Solitude,0,2,Team Solitude,0,Mirage,17,19,Team Solitude,0
+1734,23,Team Mellif,Chappa Flays,1,2,Team Mellif,1,Vertigo,12,16,Chappa Flays,0
+1736,23,Monarz Five,Bowl eSports,1,2,Monarz Five,1,Nuke,17,19,Bowl eSports,0
+1737,23,Bandi Soilders,Desafinado Academy,1,2,Bandi Soilders,1,Mirage,9,16,Desafinado Academy,0
+1738,23,Rainbow Riders,Team Crimbe,2,1,Rainbow Riders,1,Inferno,16,11,Rainbow Riders,1
+1739,23,Team Mellif,Cherizy eSports,2,1,Team Mellif,1,Overpass,16,13,Team Mellif,1
+1741,23,Team Crimbe,Desafinado Academy,2,1,Team Crimbe,1,Dust2,16,13,Team Crimbe,1
+1742,23,Squeezi Boars,Team Orbis,2,1,Squeezi Boars,1,Dust2,16,10,Squeezi Boars,1
+1743,23,Team Shipin,Marriz Gaming,2,1,Team Shipin,1,Dust2,16,10,Team Shipin,1
+1744,23,Team Sudio,Kunzite Gaming,1,2,Team Sudio,1,Inferno,11,16,Kunzite Gaming,0
+1748,23,qK,Team Priestly,1,2,qK,1,Overpass,17,19,Team Priestly,0
+1752,23,Hako Gaming,Team Kayzze,1,2,Hako Gaming,1,Dust2,13,16,Team Kayzze,0
+1753,23,Chappa Flays,Dixxi Riders,2,1,Chappa Flays,1,Nuke,16,13,Chappa Flays,1
+1755,23,Bandi Soilders,Squeezi Boars,1,2,Bandi Soilders,1,Mirage,6,16,Squeezi Boars,0
+1757,23,Team Crimbe,Rewice Gaming,1,2,Team Crimbe,1,Inferno,8,16,Rewice Gaming,0
+1761,23,Team Shipin,Bandi Soilders,2,1,Team Shipin,1,Dust2,16,6,Team Shipin,1
+1763,23,Rewice Gaming,Desafinado Academy,2,1,Rewice Gaming,1,Overpass,16,12,Rewice Gaming,1
+1764,23,Squeezi Boars,Rainbow Riders,1,2,Squeezi Boars,1,Nuke,10,16,Rainbow Riders,0
+1769,23,Team Solitude,Marriz Gaming,2,1,Team Solitude,1,Dust2,16,12,Team Solitude,1
+1770,23,Team Priestly,Leemaz Clan,1,2,Team Priestly,1,Inferno,15,19,Leemaz Clan,0
+1773,23,Monarz Five,Chappa Flays,2,1,Monarz Five,1,Ancient,16,9,Monarz Five,1
+1775,23,Lepido eSports,Tweezar Crusaders,1,2,Lepido eSports,1,Dust2,14,16,Tweezar Crusaders,0
+1779,23,Team Orbis,Team Solitude,2,1,Team Orbis,1,Dust2,16,9,Team Orbis,1
+1782,23,Cherizy eSports,Dixxi Riders,1,2,Cherizy eSports,1,Inferno,7,16,Dixxi Riders,0
+1783,23,Hako Gaming,Monarz Five,1,2,Hako Gaming,1,Overpass,13,16,Monarz Five,0
+1784,23,Chappa Flays,Rewice Gaming,2,1,Chappa Flays,1,Overpass,19,17,Chappa Flays,1
+1785,23,Rainbow Riders,Team Shipin,2,1,Rainbow Riders,1,Overpass,16,6,Rainbow Riders,1
+1787,23,Desafinado Academy,WPG,2,1,Desafinado Academy,1,Vertigo,16,3,Desafinado Academy,1
+1789,23,Kunzite Gaming,Team Kayzze,1,2,Kunzite Gaming,1,Dust2,4,16,Team Kayzze,0
+1791,23,Squeezi Boars,Desafinado Academy,1,2,Squeezi Boars,1,Inferno,13,16,Desafinado Academy,0
+1795,23,Rewice Gaming,Hako Gaming,2,1,Rewice Gaming,1,Dust2,16,11,Rewice Gaming,1
+1796,23,Monarz Five,Cherizy eSports,2,1,Monarz Five,1,Inferno,16,5,Monarz Five,1
+1798,23,Team Kayzze,Marriz Gaming,2,1,Team Kayzze,1,Ancient,16,9,Team Kayzze,1
+1799,23,Midnight Academy,Team Orbis,1,2,Midnight Academy,1,Overpass,14,16,Team Orbis,0
+1800,23,Rozippe Gaming,Bowl eSports,2,1,Rozippe Gaming,1,Overpass,16,9,Rozippe Gaming,1
+1803,23,Wups Gaming,Leemaz Clan,2,1,Wups Gaming,1,Dust2,16,4,Wups Gaming,1
+1804,23,Dixxi Riders,Kunzite Gaming,1,2,Dixxi Riders,1,Dust2,13,16,Kunzite Gaming,0
+1807,23,Lepido eSports,Rozippe Gaming,2,1,Lepido eSports,1,Nuke,16,10,Lepido eSports,1
+1808,23,qK,Midnight Academy,2,1,qK,1,Overpass,16,9,qK,1
+1810,23,Team Orbis,Team Kayzze,1,2,Team Orbis,1,Ancient,14,16,Team Kayzze,0
+1811,23,Marriz Gaming,Dixxi Riders,1,2,Marriz Gaming,1,Vertigo,6,16,Dixxi Riders,0
+1812,23,Kunzite Gaming,Monarz Five,2,1,Kunzite Gaming,1,Vertigo,16,5,Kunzite Gaming,1
+1814,23,Hako Gaming,WPG,2,1,Hako Gaming,1,Overpass,16,11,Hako Gaming,1
+1815,23,Team Crimbe,Team Sudio,1,2,Team Crimbe,1,Inferno,17,19,Team Sudio,0
+1819,23,Cherizy eSports,Rewice Gaming,1,2,Cherizy eSports,1,Ancient,9,16,Rewice Gaming,0
+1821,23,Team Mellif,Team Crimbe,1,2,Team Mellif,1,Vertigo,7,16,Team Crimbe,0
+1822,23,Team Shipin,Chappa Flays,2,1,Team Shipin,1,Mirage,16,14,Team Shipin,1
+1823,23,Squeezi Boars,Hako Gaming,2,1,Squeezi Boars,1,Mirage,16,12,Squeezi Boars,1
+1824,23,Team Sudio,Desafinado Academy,2,1,Team Sudio,1,Ancient,16,9,Team Sudio,1
+1826,23,Rewice Gaming,Kunzite Gaming,2,1,Rewice Gaming,1,Inferno,16,10,Rewice Gaming,1
+1827,23,Monarz Five,Marriz Gaming,2,1,Monarz Five,1,Inferno,16,11,Monarz Five,1
+1830,23,Wups Gaming,Lepido eSports,1,2,Wups Gaming,1,Overpass,10,16,Lepido eSports,0
+1832,23,Midnight Academy,Leemaz Clan,2,1,Midnight Academy,1,Ancient,16,7,Midnight Academy,1
+1833,23,Team Solitude,Bowl eSports,2,1,Team Solitude,1,Dust2,16,14,Team Solitude,1
+1834,23,Team Kayzze,qK,1,2,Team Kayzze,1,Ancient,17,19,qK,0
+1835,23,Team Sudio,Hako Gaming,1,2,Team Sudio,1,Ancient,9,16,Hako Gaming,0
+1837,23,Squeezi Boars,Kunzite Gaming,2,1,Squeezi Boars,1,Dust2,16,8,Squeezi Boars,1
+1838,23,WPG,Marriz Gaming,2,1,WPG,1,Dust2,16,8,WPG,1
+1840,23,Monarz Five,qK,1,2,Monarz Five,1,Dust2,9,16,qK,0
+1841,23,Team Solitude,Tweezar Crusaders,1,2,Team Solitude,1,Inferno,9,16,Tweezar Crusaders,0
+1842,23,Dixxi Riders,Leemaz Clan,1,2,Dixxi Riders,1,Nuke,9,16,Leemaz Clan,0
+1843,23,Wups Gaming,Team Priestly,2,1,Wups Gaming,1,Inferno,19,16,Wups Gaming,1
+1847,23,Team Priestly,Rozippe Gaming,1,2,Team Priestly,1,Dust2,9,16,Rozippe Gaming,0
+1851,23,Lepido eSports,Team Solitude,2,1,Lepido eSports,1,Mirage,19,15,Lepido eSports,1
+1854,23,Marriz Gaming,Rewice Gaming,1,2,Marriz Gaming,1,Inferno,14,16,Rewice Gaming,0
+1855,23,Kunzite Gaming,WPG,1,2,Kunzite Gaming,1,Overpass,10,16,WPG,0
+1856,23,Cherizy eSports,Squeezi Boars,2,1,Cherizy eSports,1,Inferno,16,5,Cherizy eSports,1
+1857,23,Desafinado Academy,Team Mellif,2,1,Desafinado Academy,1,Dust2,16,8,Desafinado Academy,1
+1859,23,Team Crimbe,Bandi Soilders,1,2,Team Crimbe,1,Nuke,8,16,Bandi Soilders,0
+1860,23,Chappa Flays,Team Sudio,2,1,Chappa Flays,1,Mirage,16,3,Chappa Flays,1
+1863,23,Team Priestly,Team Solitude,2,1,Team Priestly,1,Nuke,16,9,Team Priestly,1
+1864,23,Lepido eSports,Team Kayzze,2,1,Lepido eSports,1,Overpass,16,13,Lepido eSports,1
+1869,23,Team Orbis,WPG,1,2,Team Orbis,1,Nuke,5,16,WPG,0
+1872,23,Team Crimbe,Yowi Rising,2,1,Team Crimbe,1,Inferno,16,5,Team Crimbe,1
+1873,23,Cherizy eSports,Team Sudio,2,1,Cherizy eSports,1,Overpass,16,11,Cherizy eSports,1
+1875,23,Chappa Flays,Bandi Soilders,1,2,Chappa Flays,1,Overpass,8,16,Bandi Soilders,0
+1876,23,Hako Gaming,Team Mellif,1,2,Hako Gaming,1,Ancient,12,16,Team Mellif,0
+1878,23,Rozippe Gaming,Midnight Academy,1,2,Rozippe Gaming,1,Nuke,8,16,Midnight Academy,0
+1879,23,Tweezar Crusaders,Dixxi Riders,2,1,Tweezar Crusaders,1,Nuke,16,8,Tweezar Crusaders,1
+1881,23,Team Priestly,Team Kayzze,2,1,Team Priestly,1,Ancient,16,8,Team Priestly,1
+1882,23,Bowl eSports,Rewice Gaming,2,1,Bowl eSports,1,Overpass,16,13,Bowl eSports,1
+1884,23,qK,Squeezi Boars,2,1,qK,1,Vertigo,16,10,qK,1
+1887,23,Hako Gaming,Rainbow Riders,1,2,Hako Gaming,1,Vertigo,5,16,Rainbow Riders,0
+1889,23,Chappa Flays,Team Crimbe,2,1,Chappa Flays,1,Vertigo,16,5,Chappa Flays,1
+1896,23,Team Kayzze,Tweezar Crusaders,2,1,Team Kayzze,1,Dust2,16,7,Team Kayzze,1
+1897,23,Team Solitude,Rozippe Gaming,2,1,Team Solitude,1,Mirage,16,12,Team Solitude,1
+1898,22 playoffs,Team Sudio,Grand-final- Team Melif,3,1,eam Sudio,0,eam Sudio pick Inferno,5,16,Grand-final- Team Melif,0
+1902,22 playoffs,Team Melif,Team Sudio,2,1,eam Melif,0,ertigo,16,7,Team Melif,1
+1907,22 playoffs,Team Orbis,Lepido eSports,2,1,eam Orbis,0,Inferno,16,7,Team Orbis,1
+1909,22 playoffs,Bowl eSports,Team Sudio,1,2,Bowl eSports,1,Dust2,7,16,Team Sudio,0
+1910,22 playoffs,Leemaz Clan,Chappa Flays,2,1,Leemaz Clan,1,Inferno,16,13,Leemaz Clan,1
+1911,22 playoffs,Lepido eSports,Rainbow Riders,1,2,Lepido eSports,1,Dust2,7,16,Rainbow Riders,0
+1915,22,Bowl eSports,Bandi Soilders,2,1,Bowl eSports,1,Overpass,16,13,Bowl eSports,1
+1916,22,Rainbow Riders,Lepido eSports,2,1,Rainbow Riders,1,Inferno,16,7,Rainbow Riders,1
+1917,22,Team Mellif,Rewice Gaming,2,1,Team Mellif,1,Mirage,16,11,Team Mellif,1
+1920,22,Team Sudio,Evil Sharks,2,1,Team Sudio,1,Overpass,16,11,Team Sudio,1
+1921,22,Team Orbis,Bowl eSports,2,1,Team Orbis,1,Mirage,16,14,Team Orbis,1
+1922,22,Desafinado Academy,Team Crimbe,2,1,esafinado Academy,0,Inferno,16,5,Desafinado Academy,1
+1924,22,Team Inpiration,Rainbow Riders,1,2,Team Inpiration,1,Nuke,14,16,Rainbow Riders,0
+1926,22,Monarz Five,LynxCompany,1,2,Monarz Five,1,Dust2,11,16,LynxCompany,0
+1927,22,Duck eSports,Tweezar Crusaders,1,2,Duck eSports,1,Nuke,14,16,Tweezar Crusaders,0
+1929,22,Mioriz Eminor,Yowi Rising,2,1,Mioriz Eminor,1,Vertigo,16,5,Mioriz Eminor,1
+1931,22,Marriz Gaming,Mint Flames,1,2,Marriz Gaming,1,Dust2,19,22,Mint Flames,0
+1932,22,Dixxi Riders,Team Orbis,1,2,Dixxi Riders,1,Vertigo,8,16,Team Orbis,0
+1935,22,Rewice Gaming,Bandi Soilders,1,2,Rewice Gaming,1,Inferno,9,16,Bandi Soilders,0
+1937,22,Wups Gaming,Cherizy eSports,2,1,Wups Gaming,1,Ancient,16,11,Wups Gaming,1
+1938,22,Team Shipin,Marriz Gaming,2,1,Team Shipin,1,Dust2,16,11,Team Shipin,1
+1941,22,Yowi Rising,Kunzite Gaming,1,2,Yowi Rising,1,Mirage,11,16,Kunzite Gaming,0
+1942,22,Evil Sharks,Duck eSports,2,1,Evil Sharks,1,Dust2,16,8,Evil Sharks,1
+1945,22,Lepido eSports,Team Inpiration,1,2,Lepido eSports,1,Vertigo,12,16,Team Inpiration,0
+1946,22,Team Sudio,Desafinado Academy,2,1,Team Sudio,1,Vertigo,16,13,Team Sudio,1
+1948,22,Rainbow Riders,Monarz Five,1,2,Rainbow Riders,1,Dust2,3,16,Monarz Five,0
+1951,22,Monarz Five,Lepido eSports,1,2,Monarz Five,1,Dust2,6,16,Lepido eSports,0
+1956,22,Kunzite Gaming,Squeezi Boars,2,1,Kunzite Gaming,1,Vertigo,16,14,Kunzite Gaming,1
+1965,22,Team Orbis,Marriz Gaming,1,2,Team Orbis,1,Inferno,8,16,Marriz Gaming,0
+1966,22,Wups Gaming,Team Solitude,1,2,Wups Gaming,1,Dust2,12,16,Team Solitude,0
+1967,22,Bandi Soilders,Cherizy eSports,2,1,Bandi Soilders,1,Nuke,16,11,Bandi Soilders,1
+1970,22,Squeezi Boars,Duck eSports,2,1,Squeezi Boars,1,Dust2,16,13,Squeezi Boars,1
+1973,22,Rainbow Riders,Desafinado Academy,2,1,Rainbow Riders,1,Overpass,16,11,Rainbow Riders,1
+1975,22,LynxCompany,Team Crimbe,1,2,LynxCompany,1,Vertigo,11,16,Team Crimbe,0
+1977,22,Lepido eSports,Chappa Flays,1,2,Lepido eSports,1,Ancient,7,16,Chappa Flays,0
+1979,22,Team Crimbe,Rainbow Riders,1,2,Team Crimbe,1,Nuke,14,16,Rainbow Riders,0
+1980,22,Chappa Flays,Tweezar Crusaders,1,2,Chappa Flays,1,Dust2,11,16,Tweezar Crusaders,0
+1982,22,Desafinado Academy,Lepido eSports,1,2,Desafinado Academy,1,Mirage,13,16,Lepido eSports,0
+1986,22,Kunzite Gaming,Team Shipin,2,1,Kunzite Gaming,1,Mirage,16,7,Kunzite Gaming,1
+1987,22,Cherizy eSports,Team Mellif,1,2,Cherizy eSports,1,Inferno,13,16,Team Mellif,0
+1988,22,Dixxi Riders,Midnight Academy,2,1,Dixxi Riders,1,Dust2,16,11,Dixxi Riders,1
+1989,22,Bowl eSports,Rewice Gaming,2,1,Bowl eSports,1,Inferno,16,11,Bowl eSports,1
+1990,22,Team Solitude,Team Orbis,1,2,Team Solitude,1,Inferno,14,16,Team Orbis,0
+1992,22,Mioriz Eminor,Wups Gaming,1,2,Mioriz Eminor,1,Dust2,10,16,Wups Gaming,0
+1994,22,Rewice Gaming,Cherizy eSports,1,2,Rewice Gaming,1,Nuke,9,16,Cherizy eSports,0
+1995,22,Bandi Soilders,Team Solitude,1,2,Bandi Soilders,1,Mirage,14,16,Team Solitude,0
+1999,22,Team Shipin,Duck eSports,2,1,Team Shipin,1,Mirage,16,6,Team Shipin,1
+2000,22,Mint Flames,Leemaz Clan,1,2,Mint Flames,1,Inferno,12,16,Leemaz Clan,0
+2002,22,Lepido eSports,Team Crimbe,2,1,Lepido eSports,1,Dust2,16,8,Lepido eSports,1
+2006,22,Tweezar Crusaders,Desafinado Academy,1,2,Tweezar Crusaders,1,Ancient,11,16,Desafinado Academy,0
+2007,22,Squeezi Boars,Team Inpiration,1,2,Squeezi Boars,1,Mirage,14,16,Team Inpiration,0
+2009,22,Team Sudio,Lepido eSports,2,1,Team Sudio,1,Nuke,16,11,Team Sudio,1
+2010,22,Desafinado Academy,Evil Sharks,1,2,Desafinado Academy,1,Dust2,9,16,Evil Sharks,0
+2012,22,Team Crimbe,Tweezar Crusaders,1,2,Team Crimbe,1,Ancient,5,16,Tweezar Crusaders,0
+2013,22,Monarz Five,Squeezi Boars,1,2,Monarz Five,1,Dust2,9,16,Squeezi Boars,0
+2014,22,Team Inpiration,Mint Flames,1,2,Team Inpiration,1,Inferno,13,16,Mint Flames,0
+2017,22,Kunzite Gaming,Team Orbis,2,1,Kunzite Gaming,1,Mirage,16,10,Kunzite Gaming,1
+2018,22,Marriz Gaming,Rewice Gaming,1,2,Marriz Gaming,1,Inferno,4,16,Rewice Gaming,0
+2021,22,Leemaz Clan,Team Shipin,,,Leemaz Clan,1,Overpass,16,7,Leemaz Clan,1
+2028,22,Team Orbis,Duck eSports,1,2,Team Orbis,1,Nuke,8,16,Duck eSports,0
+2031,22,Mint Flames,Monarz Five,2,1,Mint Flames,1,Dust2,16,13,Mint Flames,1
+2032,22,Tweezar Crusaders,Team Sudio,1,2,Tweezar Crusaders,1,Vertigo,8,16,Team Sudio,0
+2036,22,Wups Gaming,Leemaz Clan,1,2,Wups Gaming,1,Inferno,12,16,Leemaz Clan,0
+2038,22,Team Crimbe,Yowi Rising,2,1,Team Crimbe,1,Dust2,16,11,Team Crimbe,1
+2039,22,Desafinado Academy,Squeezi Boars,2,1,Desafinado Academy,1,Dust2,16,9,Desafinado Academy,1
+2040,22,Cherizy eSports,Midnight Academy,,,Cherizy eSports,1,Ancient,9,16,Midnight Academy,0
+2041,22,Monarz Five,Team Shipin,1,2,Monarz Five,1,Dust2,14,16,Team Shipin,0
+2043,22,Leemaz Clan,Team Orbis,2,1,Leemaz Clan,1,Dust2,16,9,Leemaz Clan,1
+2044,22,Duck eSports,Bandi Soilders,1,2,Duck eSports,1,Inferno,14,16,Bandi Soilders,0
+2045,22,Team Solitude,Dixxi Riders,2,1,Team Solitude,1,Overpass,16,8,Team Solitude,1
+2046,22,Kunzite Gaming,Team Mellif,2,1,Kunzite Gaming,1,Ancient,16,7,Kunzite Gaming,1
+2047,22,Marriz Gaming,Bowl eSports,2,1,Marriz Gaming,1,Vertigo,19,15,Marriz Gaming,1
+2048,22,Mioriz Eminor,Rewice Gaming,1,2,Mioriz Eminor,1,Ancient,17,19,Rewice Gaming,0
+2053,22,Dixxi Riders,Mioriz Eminor,1,2,Dixxi Riders,1,Ancient,10,16,Mioriz Eminor,0
+2054,22,Midnight Academy,Lepido eSports,1,2,Midnight Academy,1,Overpass,14,16,Lepido eSports,0
+2056,22,Team Orbis,Team Inpiration,1,2,Team Orbis,1,Dust2,6,16,Team Inpiration,0
+2057,22,Wups Gaming,Monarz Five,1,2,Wups Gaming,1,Vertigo,10,16,Monarz Five,0
+2059,22,Mint Flames,Desafinado Academy,2,1,Mint Flames,1,Nuke,16,9,Mint Flames,1
+2060,22,Evil Sharks,LynxCompany,2,1,Evil Sharks,1,Inferno,16,9,Evil Sharks,1
+2061,22,Squeezi Boars,Team Crimbe,1,2,Squeezi Boars,1,Nuke,12,16,Team Crimbe,0
+2067,22,Marriz Gaming,Midnight Academy,2,1,Marriz Gaming,1,Overpass,16,12,Marriz Gaming,1
+2069,22,LynxCompany,Yowi Rising,1,2,LynxCompany,1,Nuke,13,16,Yowi Rising,0
+2070,22,Desafinado Academy,Team Shipin,2,1,Desafinado Academy,1,Overpass,16,6,Desafinado Academy,1
+2073,22,Team Inpiration,Bandi Soilders,1,2,Team Inpiration,1,Nuke,14,16,Bandi Soilders,0
+2075,22,Mioriz Eminor,Bowl eSports,1,2,Mioriz Eminor,1,Overpass,18,22,Bowl eSports,0
