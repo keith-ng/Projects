@@ -1,5 +1,3 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 4: West Nile Virus
-
 ### Project Objectives:
 
 Due to the recent epidemic of West Nile Virus in the Windy City, the Department of Public Health has set up a surveillance and control system in hope to learn something from the mosquito population. In order to curb the epidemic, pesticides will have to be deployed through the city. A more accurate method of predicting outbreaks of West Nile virus in mosquitos will help the City of Chicago and CPHD more efficiently and effectively allocate resources towards preventing transmission of this potentially deadly virus. 
