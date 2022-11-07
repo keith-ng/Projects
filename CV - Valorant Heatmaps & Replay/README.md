@@ -12,9 +12,9 @@
 ### Description:
 
 - As a veteran FPS gamer who currently plays Valorant, I find the current features offered by existing analytics & insights platforms lacking.
-- Project X seeks to bridge this gap and hopefully move this market segment towards a more exhaustive product offering by such platforms.
+- This project seeks to bridge this gap and hopefully move this market segment towards a more exhaustive product offering by such platforms.
 
-- This project uses video analysis to gain insights into the strategies and playstyles of professional Valorant teams. 
+- It uses video analysis to gain insights into the strategies and playstyles of professional Valorant teams. 
     - The scope of games will tentatively be limited to the Valorant Tournament: VCT Champions 2022 - Istanbul.
 - These insights can be interpreted through the display of movements, heatmaps, and a pseudo-replay system provided by this project.
     - The pseudo-replay system also provides an ability tracker that includes the abilities that were casted at the specified second including the past two seconds for reference.
