@@ -3,9 +3,9 @@
 ### Project Objectives
 This analysis seeks to derive insights into consumer behaviour within in-game or in-app purchases. Purchases in this game offer only aesthetic value and not any advantages.
 
-The scope of this project will be limited to identifying consumer behaviour within transactions as data is not exhaustive and conditional on making at least one purchase within the game.
+The scope of this project will be limited to identifying consumer behaviour within transactions as data is not exhaustive and conditional on making at least one purchase within the game. To avoid this, we analyse trends that are not subjected to such biases.
 
-Common business metrics such as AOV and ACV would inevitably be skewed, thus omitted in the scope of this project.
+Common business metrics such as AOV and ACV would inevitably be skewed, thus omitted in the scope of this project. 
 
 
 ### Dataset
