@@ -12,7 +12,7 @@ Game sales data have and always will be safely guarded information. The dataset 
 
 Sales Analysis
 - Approximately 80% of recorded transactions fall under the equivalent of US$40 which suggests a relative price-sensitive audience.
-- Approximately 40% of total transactions being multiple purchases in the same session. This could be a result of:
+- Approximately 40% of total transactions are multiple purchases in the same session. This could be a result of:
 	- Including different points packages to reach a specific amount of desired points
 	- Weapon bundle CTA with displayed discount led to additional purchase (for entire bundle)
 	- Consumers overcame initial purchase inertia, thus increasing willingness-to-pay
@@ -32,7 +32,7 @@ Sales
 - If the goal is to maximise revenue, there may be a potential to engage in more aggressive pricing for smaller points packages.
 
 Battle/Season Pass
-- If sales are inferior to competitors and distribution are significantly different, incentives or rewards can be adjusted accordingly to consumers' behaviour to entice and drive an increase in sales.
+- If sales are inferior to competitors and distribution (10 to 15%) are significantly different, incentives or rewards can be adjusted accordingly to consumers' behaviour to entice and drive an increase in sales.
 
 Weapon Bundles
 - Similarities between features and art of least popular bundles can be compared to avoid poor sales of future bundles if relevant. However, I believe the purpose of launching such bundles are used to juxtapose the difference in qualities for a 'good/hyped' bundle that is being planned to release in the future.
