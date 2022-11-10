@@ -5,6 +5,8 @@ This analysis seeks to derive insights into consumer behaviour within in-game or
 
 The scope of this project will be limited to identifying consumer behaviour within transactions as data is not exhaustive and conditional on making at least one purchase within the game.
 
+Common business metrics such as AOV and ACV would inevitably be skewed, thus omitted in the scope of this project.
+
 
 ### Dataset
 Game sales data have and always will be safely guarded information. The dataset consist of transaction data from over 110 unique players that was gathered through goodwill and publicly available sources.
@@ -13,7 +15,7 @@ Conversion to in-game currency was done through Excel's vlookup based on the amo
 ### Proxies/Assumptions
 Due to a lack of a robust dataset, certain proxies and assumptions were taken.
 - Time of purchase of in-game currency is accompanied with a subsequent purchase in the game itself.
-- 
+
 
 ### Takeaways
 
