@@ -32,7 +32,7 @@ Sales
 - If the goal is to maximise revenue, there may be a potential to engage in more aggressive pricing for smaller points packages.
 
 Battle/Season Pass
-- If sales are inferior to competitors and distribution are significantly different, incentives or rewards can be adjusted accordingly to entice and drive an increase in sales.
+- If sales are inferior to competitors and distribution are significantly different, incentives or rewards can be adjusted accordingly to consumers' behaviour to entice and drive an increase in sales.
 
 Weapon Bundles
 - Similarities between features and art of least popular bundles can be compared to avoid poor sales of future bundles if relevant. However, I believe the purpose of launching such bundles are used to juxtapose the difference in qualities for a 'good/hyped' bundle that is being planned to release in the future.
