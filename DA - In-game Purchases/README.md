@@ -13,7 +13,7 @@ Game sales data have and always will be safely guarded information. The dataset 
 Sales Analysis
 - Approximately 80% of recorded transactions fall under the equivalent of US$40 which suggests a relative price-sensitive audience.
 - Approximately 40% of total transactions being multiple purchases in the same session. This could be a result of:
-	- Including different points bundle to reach a specific amount of desired points
+	- Including different points packages to reach a specific amount of desired points
 	- Weapon bundle CTA with displayed discount led to additional purchase (for entire bundle)
 	- Consumers overcame initial purchase inertia, thus increasing willingness-to-pay
 
