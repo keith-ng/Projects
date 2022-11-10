@@ -40,11 +40,13 @@ Weapon Bundles Analysis
 ### Recommendations
 Sales
 - If the goal is to maximise revenue, there may be a potential to engage in more aggressive pricing for smaller points packages.
+- However, it is important to note that the action should be aligned with the overall company's strategic direction and image.
 
 Battle/Season Pass
 - If sales are inferior to competitors and distribution (10 to 15%) are significantly different, incentives or rewards can be adjusted accordingly to consumers' behaviour to entice and drive an increase in sales.
 
 Weapon Bundles
-- Similarities between features and art of least popular bundles can be compared to avoid poor sales of future bundles if relevant. However, I believe the purpose of launching such bundles are used to juxtapose the difference in qualities and further increase the appeal for a 'good/hyped' bundle that is being planned to release in the future.
+- Similarities between features and art of least popular bundles can be compared to avoid poor sales of future bundles if relevant. 
+- However, I believe the purpose of launching such bundles are used to juxtapose the difference in qualities and further increase the appeal for a 'good/hyped' bundle that is being planned to release in the future.
 - If the previous point true, stagger good bundles from new season dates as average order value (AOV) suggest a somewhat price-sensitive audience and a simultaneous purchase of a battle pass and a weapon bundle may reduce the ARPU.
 
