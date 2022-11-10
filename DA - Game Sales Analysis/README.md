@@ -1,7 +1,7 @@
 # In-game Purchases Analysis
 
-### Problem Statement
-This analysis seeks to derive insights into consumer behaviour within in-game or in-app purchases.
+### Project Objectives
+This analysis seeks to derive insights into consumer behaviour within in-game or in-app purchases. Purchases in this game offer only aesthetic value and not any advantages.
 
 
 ### Dataset
