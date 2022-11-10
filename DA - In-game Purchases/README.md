@@ -29,7 +29,7 @@ Weapon Bundles Analysis
 
 ### Recommendations
 Sales
-- If the goal is to maximise revenue, there may be a potential to engage in more aggressive pricing for smaller points bundle.
+- If the goal is to maximise revenue, there may be a potential to engage in more aggressive pricing for smaller points packages.
 
 Battle/Season Pass
 - If sales are inferior to competitors and distribution are significantly different, incentives or rewards can be adjusted accordingly to entice and drive an increase in sales.
