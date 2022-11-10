@@ -18,7 +18,7 @@ Sales Analysis
 	- Consumers overcame initial purchase inertia, thus increasing willingness-to-pay
 
 Battle/Season Pass Analysis
-- In comparison to a proportional average of a 90-day period of 1/12%
+- In comparison to a proportional average of a 90-day period of 1.12%, in this case 2 days of 2.24%:
 	- Sales from the first two days of the battle pass launched comprised of 14.12% of total transactions in its 90 days period.
 	- Number of transactions from the first two days of the battle pass launched comprised of 11.33% of total transactions in its 90 days period. 
 
