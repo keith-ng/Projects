@@ -1,4 +1,4 @@
-# GA Project 1 - Standardized Test Analysis
+# Standardized Test Analysis
 
 ### Problem Statement
 The ACT and SAT are both widely-recognised in the admission process. 
