@@ -25,7 +25,8 @@ Hosted on Streamlit: [Check it out here](https://keith-ng-vct-analysis-overview-
 
 - Let's compare the difference in roles for both teams' duelist through the heatmaps.
 
-Team Liquid - Raze
+**Team Liquid - Raze**
+![Alt text](assets/examples/liq_atk_raze.PNG?raw=true "Liquid Attack Raze")
 - Execution
     - Spends majority of time at Mid or towards A
     - Team's default is often include raze holding 'A Sewer' control
@@ -36,9 +37,9 @@ Team Liquid - Raze
     - A execute more often from 'A Sewer'
 - Post-plant
     - Holds from 'graffiti'(wall close to A Link)
-![Alt text](assets/examples/liq_atk_raze.PNG?raw=true "Liquid Attack Raze")
 
-Team Leviatán - Raze
+**Team Leviatán - Raze**
+![Alt text](assets/examples/lev_atk_raze.PNG?raw=true "Leviatán Attack Raze")
 - Execution
     - Spends majority of time at 'Mid'
     - Team's default include:
@@ -53,7 +54,7 @@ Team Leviatán - Raze
 - Post-plant
     - If A, 'Hell'
     - If B, Near 'A Link'
-![Alt text](assets/examples/lev_atk_raze.PNG?raw=true "Leviatán Attack Raze")
+
 
 ### Challenges:
 
