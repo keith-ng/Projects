@@ -21,6 +21,24 @@ Hosted on Streamlit: [Check it out here](https://keith-ng-vct-analysis-overview-
 - These insights can be interpreted through the display of movements, heatmaps, and a pseudo-replay system provided by this project.
     - The pseudo-replay system also provides an ability tracker that includes the abilities that were casted at the specified second including the past two seconds for reference.
 
+### Process:
+
+1. Verified pain points with industry experts such as (ex)professional coaches
+2. Gameplay videos were downloaded for analysis purposes
+3. Cropped portions of the video that will be analysed
+4. Used YOLOv7 for frame-by-frame object detection for object coordinates
+    - Annotated over 1400 images to train model
+    - Parameters: 100 Epochs, batch size of 16
+5. Used Tesseract OCR to extract time for frames
+    - Preprocessed images differently to increase OCR accuracy
+        - eg. greyscale, invert, adaptive thresholding
+6. Used computer vision to determine the count of circles per frame to track abilities
+7. Data Cleaning
+    - Extensive data cleaning as dropping all null values is not an option
+8. Launched an app as a proof of concept
+    - Streamlit
+
+
 ### A Simple Demonstration:
 
 - Let's compare the difference in roles for both teams' duelist through the heatmaps.
