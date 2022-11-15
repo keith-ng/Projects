@@ -36,7 +36,7 @@ Hosted on Streamlit: [Check it out here](https://keith-ng-vct-analysis-overview-
 7. Data Cleaning
     - Extensive data cleaning as dropping all null values is not an option
 8. Launched an app as a proof of concept
-    - Streamlit
+    - [Streamlit](https://keith-ng-vct-analysis-overview-gm5wxq.streamlit.app/replay_system)
 
 
 ### A Simple Demonstration:
