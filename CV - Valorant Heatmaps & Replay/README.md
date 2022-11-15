@@ -23,11 +23,37 @@ Hosted on Streamlit: [Check it out here](https://keith-ng-vct-analysis-overview-
 
 ### Demonstration:
 
-- Let's compare the difference in roles for both teams' duelist.
-- Team Liquid
-![Alt text](assets/examples/liq_atk_raze.PNG?raw=true "Process Description")
-- Team Leviatan
-![Alt text](assets/examples/lev_atk_raze.PNG?raw=true "Process Description")
+- Let's compare the difference in roles for both teams' duelist through the heatmaps.
+
+Team Liquid - Raze
+- Execution
+    - Spends majority of time at Mid or towards A
+    - Team's default is often include raze holding 'A Sewer' control
+        - Opponents should expect raze's boom bot into sewers often
+    - Common angles held as shown by dark red patches:
+        - Mid Window
+        - Deep A Lobby
+    - A execute more often from 'A Sewer'
+- Post-plant
+    - Holds from 'graffiti'(wall close to A Link)
+![Alt text](assets/examples/liq_atk_raze.PNG?raw=true "Liquid Attack Raze")
+
+Team Leviatán - Raze
+- Execution
+    - Spends majority of time at 'Mid'
+    - Team's default include:
+        - Raze holding 'C Garage' from 'Bottom Mid' (below mid door)
+        - Raze holding 'A Link' from 'B Door' (B site entrance)
+            - Opponents should be weary of Raze's utility at A Link based on position
+    - Common angles held as shown by dark red patches:
+        - Mid Window
+        - Deep A Lobby
+    - A execute often from 'A Long'
+    - B execute often from 'Mid Courtyard'
+- Post-plant
+    - If A, 'Hell'
+    - If B, Near 'A Link'
+![Alt text](assets/examples/lev_atk_raze.PNG?raw=true "Leviatán Attack Raze")
 
 ### Challenges:
 
@@ -64,10 +90,10 @@ Hosted on Streamlit: [Check it out here](https://keith-ng-vct-analysis-overview-
  
 ### Files used:
 
-- liq_lev_m1_md_final.csv -- Cleaned match data from Liquid vs Leviatan map 1.
-- liq_lev_m1_pl_final.csv -- Cleaned location data from Liquid vs Leviatan map 1.
-- liq_lev_m2_md_final.csv -- Cleaned match data from Liquid vs Leviatan map 2.
-- liq_lev_m2_pl_final.csv -- Cleaned location data from Liquid vs Leviatan map 2.
+- liq_lev_m1_md_final.csv -- Cleaned match data from Liquid vs Leviatán map 1.
+- liq_lev_m1_pl_final.csv -- Cleaned location data from Liquid vs Leviatán map 1.
+- liq_lev_m2_md_final.csv -- Cleaned match data from Liquid vs Leviatán map 2.
+- liq_lev_m2_pl_final.csv -- Cleaned location data from Liquid vs Leviatán map 2.
 
 ### License:
 
