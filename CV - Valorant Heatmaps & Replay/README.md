@@ -9,7 +9,7 @@ Hosted on Streamlit: [Check it out here](https://keith-ng-vct-analysis-overview-
 - Combined and cleaned both datasets before generating movement heatmaps using a density plot
 - Created a replay system with features that address current pain points verified by KOLs
 
-![Alt text](assets/example.PNG?raw=true "Optional Title")
+![Alt text](assets/examples/process.PNG?raw=true "Process Description")
 
 ### Description:
 
@@ -20,6 +20,14 @@ Hosted on Streamlit: [Check it out here](https://keith-ng-vct-analysis-overview-
     - The scope of games will tentatively be limited to the Valorant Tournament: VCT Champions 2022 - Istanbul.
 - These insights can be interpreted through the display of movements, heatmaps, and a pseudo-replay system provided by this project.
     - The pseudo-replay system also provides an ability tracker that includes the abilities that were casted at the specified second including the past two seconds for reference.
+
+### Demonstration:
+
+- Let's compare the difference in roles for both teams' duelist.
+- Team Liquid
+![Alt text](assets/examples/liq_atk_raze.PNG?raw=true "Process Description")
+- Team Leviatan
+![Alt text](assets/examples/lev_atk_raze.PNG?raw=true "Process Description")
 
 ### Challenges:
 
@@ -56,10 +64,10 @@ Hosted on Streamlit: [Check it out here](https://keith-ng-vct-analysis-overview-
  
 ### Files used:
 
-- liq_lev_m1_md_final.csv -- Cleaned match data from Liquid vs Leviathan map 1.
-- liq_lev_m1_pl_final.csv -- Cleaned location data from Liquid vs Leviathan map 1.
-- liq_lev_m2_md_final.csv -- Cleaned match data from Liquid vs Leviathan map 2.
-- liq_lev_m2_pl_final.csv -- Cleaned location data from Liquid vs Leviathan map 2.
+- liq_lev_m1_md_final.csv -- Cleaned match data from Liquid vs Leviatan map 1.
+- liq_lev_m1_pl_final.csv -- Cleaned location data from Liquid vs Leviatan map 1.
+- liq_lev_m2_md_final.csv -- Cleaned match data from Liquid vs Leviatan map 2.
+- liq_lev_m2_pl_final.csv -- Cleaned location data from Liquid vs Leviatan map 2.
 
 ### License:
 
