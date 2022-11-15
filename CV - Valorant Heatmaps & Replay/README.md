@@ -21,7 +21,7 @@ Hosted on Streamlit: [Check it out here](https://keith-ng-vct-analysis-overview-
 - These insights can be interpreted through the display of movements, heatmaps, and a pseudo-replay system provided by this project.
     - The pseudo-replay system also provides an ability tracker that includes the abilities that were casted at the specified second including the past two seconds for reference.
 
-### Demonstration:
+### A Simple Demonstration:
 
 - Let's compare the difference in roles for both teams' duelist through the heatmaps.
 
@@ -34,8 +34,10 @@ Hosted on Streamlit: [Check it out here](https://keith-ng-vct-analysis-overview-
     - Common angles held as shown by dark red patches:
         - Mid Window
         - Deep A Lobby
-    - A execute more often from 'A Sewer'
-- Post-plant
+    - A execute from 'A Sewer' likely slower than 'A Long'
+        - Expect blast pack entries from 'A Long'
+        - Expect a more traditional pop or contact entry from 'A Sewers'
+- After site entry
     - Holds from 'graffiti'(wall close to A Link)
 
 **Team Leviatán - Raze**
@@ -50,8 +52,11 @@ Hosted on Streamlit: [Check it out here](https://keith-ng-vct-analysis-overview-
         - Mid Window
         - Deep A Lobby
     - A execute often from 'A Long'
+        - Expect an attempt at blast pack entries from 'A Long'
     - B execute often from 'Mid Courtyard'
-- Post-plant
+        - Expect an attempt at blast pack towards 'B Top Site' or towards 'A Link' from Mid
+        - Expect raze's grenade ability towards 'A Link'
+- After site entry
     - If A, 'Hell'
     - If B, Near 'A Link'
 
