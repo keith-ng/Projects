@@ -1,5 +1,7 @@
 ### Project X - Valorant Match Analyses (VCT Champions 2022 - Istanbul)
 
+Hosted on Streamlit: [Check it out here](https://keith-ng-vct-analysis-overview-gm5wxq.streamlit.app/replay_system)
+
 ### TLDR:
 
 - Extracted positional data of over 10 object classes from videos using YOLOv7
