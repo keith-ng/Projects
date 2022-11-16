@@ -4,17 +4,15 @@
 
 - This project seeks to utilise regression models to predict future sales prices of Walmart's outlets & departments. 
 - The valuation model will be constructed based on a data set with data from 2010 to 2012. 
-- Final model accuracy of ~95%.
+- Final model accuracy of approximately 95%.
 
 ### Process:
 
+- Data preprocessing. 
 - Exploratory Data Analysis
-- Data cleaned in a manner deemed appropriate. 
-- Removed outliers based on 1.5 IQR thresholds.
-- Further data preprocessing. 
 - A variety of regression models were applied and the model with the highest R2 score was selected. 
 - Data transformed and refined through normalisation.
-- Final Model used: Random Forest with a R2 score of 0.95.
+- Final Model used: Random Forest with a R2 score of approximately 0.95.
 
 ### Files used:
 
