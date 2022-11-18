@@ -8,8 +8,8 @@
 
 ### Process:
 
-- Data preprocessing. 
-- Exploratory Data Analysis
+- Data preprocessing 
+- EDA
 - A variety of regression models were applied and the model with the highest R2 score was selected. 
 - Data transformed and refined through normalisation.
 - Final Model used: Random Forest with a R2 score of 0.9621
