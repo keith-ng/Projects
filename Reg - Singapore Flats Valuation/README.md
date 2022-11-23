@@ -4,14 +4,13 @@
 
 - This project seeks to utilise regression models to predict the prices of Flats in Singapore. 
 - The valuation model will be constructed based on a data set with data from 2017 to early 2021. 
-- Final model accuracy of 96.21%.
+- Final model accuracy of 96.29%.
 
 ### Process:
 
 - Data preprocessing 
 - EDA
 - A variety of regression models were applied and the model with the highest R2 score was selected. 
-- Data transformed and refined through normalisation.
 - Final Model used: Random Forest with a R2 score of 0.9621
 
 ### Files used:
