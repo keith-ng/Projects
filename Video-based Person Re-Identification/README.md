@@ -17,13 +17,14 @@ bboxes | 1191003 | - | 43800 | -
 distractors | 3248 | 0 | 0 | 0
 cameras_num | 6 | 8 | 2 | 6
 
-**Datasets Comparison**
+**Simple Comparison:**
 Dataset | MARS | DukeMTMC | iLIDS | Airport 
 --- | --- | --- | --- |--- 
 Sample Size | ✓✓ | ✓✓ | ✓ | ✓✓✓
 Image Variations | ✓✓ | ✓✓✓ | ✓ | ✓✓
 Raw | - | ✓ | ✓ | ✓
 
+**Dataset used to train model**
 To create a robust model, we seek to train the model with a vast dataset. 
 - Although 'Airport' is the largest dataset, it has the least number of independent studies and exposure which does not inspire the most confidence in the data's integrity.
 - The DukeMTMC dataset is the second largest dataset. However, it has since been retracted due to external factors, thus we refrain from using it as well.
@@ -32,23 +33,39 @@ To create a robust model, we seek to train the model with a vast dataset.
 
 ### Model Selection:
 
-Selection Criteria:
+**Top publicly-available models comparison**:
+1. B-BOT + OSM + CL Centers*
+  - Although this model achieved a higher rank on the metric mean Average Precision (mAP) for the MARS dataset, it's rank varied more across other metrics which does not reflect consistency.
+  - It obtained rank 1 in another dataset PRID2011 as well, but extra training data was used which likely provided it with an advantage.
+2. PiT
+  - The PiT model score rank 1 for 6 metrics between MARS and iLIDS-VID dataset and rank 3 for the remaining 2 metrics which meets our requirements.
+3. mgh
+  - The mgh model was only tested on the MARS dataset and achieved admirable top 5 ranks in 4 different metrics.
+4. PSTA
+  - The PSTA model ranked 1 on mAP for the DukeMTMC dataset, 2nd for a metric in iLIDS-VID, and ranked 5th on the MARS dataset for the mAP metric.
+
+**Selection Criteria**:
 - Applicability:
-	- Since the application is undefined, we seek to implement a flexible model that performs well in as many situations as possible.
-		- To achieve this, the model should return a respectable score with the iLIDs dataset as there may be cases where the model has to be retrained with new data and we have some level of assurance that it can perform well with small datasets
+  - Since the application is undefined, we seek to implement a flexible model that performs well in as many situations as possible.
+    - To achieve this, the model should return a respectable score with the iLIDs dataset as there may be cases where the model has to be retrained with new data and we have some level of assurance that it can perform well with small datasets
 - Feasibility:
-	- With access to only a local terminal to test the model, a large and complex dataset may prove to be unfeasible to train and test.
+  - With access to only a local terminal to test the model, a large and complex dataset may prove to be unfeasible to train and test.
 - Model Accuracy:
-	- The selected model ideally will perform well with different datasets as it will increase the likelihood of it performing well in new unseen data.
-	- The selected model PiT obtained the highest scores for 4 metrics with the iLIDS-VID dataset and top 3 for 4 metrics with the MARS dataset
+  - The selected model ideally will perform well with different datasets as it will increase the likelihood of it performing well in new unseen data.
+  - The selected model PiT obtained the highest scores for 4 metrics with the iLIDS-VID dataset and top 3 for 4 metrics with the MARS dataset
+
+**Conclusion**
+- All things considered, the PiT model is most appropriate for our use case and is selected as the ideal video-based person reidentification model.
 
 ### Model Evaluation:
 
-Given the focus of projects on security and retail, we test the model on a video with shoplifting occurence to see if we can re-identify individuals captured by different cameras in a gas station.  
+Given the focus of projects on security and retail, we test the model on a video with shoplifting occurence to see if we can re-identify individuals captured by different cameras in a gas station. 
+
+>> insert result observations here
 
 ### Acknowledgement:
-This repository is built upon the repository TranReID.
-Credits to Youtube channel [Gas Station Encounters](https://youtu.be/LamLq3dlqyI) for video used in model testing.
+- This repository is built upon the repository TranReID.
+- Credits to Youtube channel [Gas Station Encounters](https://youtu.be/LamLq3dlqyI) for the video, the_peanut_pocketer.mp4, used in model testing.
 
 ### Citation:
 @ARTICLE{9714137,
@@ -62,6 +79,3 @@ Credits to Youtube channel [Gas Station Encounters](https://youtu.be/LamLq3dlqyI
   doi={10.1109/TII.2022.3151766}
 }
 
-
-### Project Status:
-- Plans to refine the model further are subjected to availability.
