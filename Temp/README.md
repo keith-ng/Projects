@@ -1,6 +1,6 @@
 ## Video-Based Person Re-Identification
 
-### Dataset selection:
+### Dataset Summary:
 
 Dataset | MARS | DukeMTMC | iLIDS | Airport 
 --- | --- | --- | --- |--- 
@@ -11,7 +11,8 @@ bboxes | 1191003 | - | 43800 | -
 distractors | 3248 | 0 | 0 | 0
 cameras_num | 6 | 8 | 2 | 6
 
-Summary
+**Datasets Comparison**
+
 Dataset | MARS | DukeMTMC | iLIDS | Airport 
 --- | --- | --- | --- |--- 
 Sample Size | ✓✓ | ✓✓ | ✓ | ✓✓✓
