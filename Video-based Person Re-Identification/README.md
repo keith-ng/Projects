@@ -46,8 +46,9 @@ Selection Criteria:
 
 Given the focus of projects on security and retail, we test the model on a video with shoplifting occurence to see if we can re-identify individuals captured by different cameras in a gas station.  
 
-### Acknowledgement:This repository is built upon the repository TranReID.
-
+### Acknowledgement:
+This repository is built upon the repository TranReID.
+Credits to Youtube channel [Gas Station Encounters](https://youtu.be/LamLq3dlqyI) for video used in model testing.
 
 ### Citation:
 @ARTICLE{9714137,
@@ -60,6 +61,7 @@ Given the focus of projects on security and retail, we test the model on a video
   pages={8776-8785},
   doi={10.1109/TII.2022.3151766}
 }
+
 
 ### Project Status:
 - Plans to refine the model further are subjected to availability.
