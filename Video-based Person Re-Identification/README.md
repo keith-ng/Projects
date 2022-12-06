@@ -4,7 +4,7 @@
 
 The goal of this project is to implement a video-based Person Re-Identification algorithm on a single camera. We assess and select existing publicly-available algorithms [here](https://paperswithcode.com/task/video-based-person-re-identification) and identify their relevance (if any) for this case.
 
-Final model selected is user deropty's PiT model. Instructions to implement the model can be found on his [GitHub](https://github.com/deropty/PiT).
+The algorithm selected is GitHub user [deropty's PiT model](https://github.com/deropty/PiT). Instructions to implement the algorithm can be found on his GitHub.
 
 ### Datasets Summary:
 
@@ -22,23 +22,29 @@ Dataset | MARS | DukeMTMC | iLIDS | Airport
 --- | --- | --- | --- |--- 
 Sample Size | ✓✓ | ✓✓ | ✓ | ✓✓✓
 Image Variations | ✓✓ | ✓✓✓ | ✓ | ✓✓
+Image Quality | ✓✓ | ✓✓ | ✓ | ✓
 Raw | - | ✓ | ✓ | ✓
 
-**Dataset used to train model**
-To create a robust model, we seek to train the model with a vast dataset. 
-- Although 'Airport' is the largest dataset, it has the least number of independent studies and exposure which does not inspire the most confidence in the data's integrity.
-- The DukeMTMC dataset is the second largest dataset. However, it has since been retracted due to external factors, thus we refrain from using it as well.
-- The **MARS dataset** is relatively big and widely used in numerous papers & studies, and it seems to be the most appropriate dataset so far.
-- The iLIDs dataset only consists of 300 unique individuals and may be too small to create a robust model as a result of underfitting.
+**Training Dataset Selection**
 
-### Model Selection:
+To create a robust model, we seek to train the algorithm with a large dataset and one consisting of images or frames with similar quality (pixels) as its intended use case.
+- Image quality
+  - Based on the previews, the iLIDS-VID and Airport dataset seem to consist blurrer images.
+  - If the quality of the videos or images we are trying to re-identify people are of similar image quality, training the algorithm with the aforementioned dataset would be adequate.
+- Size of dataset 
+  - Although 'Airport' is the largest dataset, it has the least number of independent studies and exposure which does not inspire the most confidence in the data's integrity.
+  - The DukeMTMC dataset is the second largest dataset. However, it has since been retracted due to external factors, thus we refrain from using it as well.
+  - The **MARS dataset** is relatively big and widely used in numerous papers & studies, and it seems to be the most appropriate dataset so far.
+  - The iLIDs dataset only consists of 300 unique individuals and may be too small to create a robust model due to underfitting.
 
-**Top publicly-available models comparison**:
+### Algorithm Selection:
+
+**Top publicly-available models (MARS) comparison**:
 1. B-BOT + OSM + CL Centers*
   - Although this model achieved a higher rank on the metric mean Average Precision (mAP) for the MARS dataset, it's rank varied more across other metrics which does not reflect consistency.
   - It obtained rank 1 in another dataset PRID2011 as well, but extra training data was used which likely provided it with an advantage.
 2. PiT
-  - The PiT model score rank 1 for 6 metrics between MARS and iLIDS-VID dataset and rank 3 for the remaining 2 metrics which meets our requirements.
+  - The PiT model score rank 1 for 6 metrics between MARS and iLIDS-VID dataset and rank 3 for the remaining 2 metrics which makes it the most ideal model.
 3. mgh
   - The mgh model was only tested on the MARS dataset and achieved admirable top 5 ranks in 4 different metrics.
 4. PSTA
@@ -52,10 +58,13 @@ To create a robust model, we seek to train the model with a vast dataset.
   - With access to only a local terminal to test the model, a large and complex dataset may prove to be unfeasible to train and test.
 - Model Accuracy:
   - The selected model ideally will perform well with different datasets as it will increase the likelihood of it performing well in new unseen data.
-  - The selected model PiT obtained the highest scores for 4 metrics with the iLIDS-VID dataset and top 3 for 4 metrics with the MARS dataset
+  - The model PiT obtained the highest scores for 4 metrics with the iLIDS-VID dataset and top 3 for 4 metrics with the MARS dataset
 
 **Conclusion**
-- All things considered, the PiT model is most appropriate for our use case and is selected as the ideal video-based person reidentification model.
+All things considered, the PiT model is most appropriate for our use case and is selected as the ideal video-based person reidentification algorithm for the following reasons:
+  1. Consistent when tested with different datasets & metrics
+  2. File is somewhat large for a local terminal but is manageable for a local terminal
+  3. Image quality of the dataset (MARS) it performed well on seems the closest to those produced by a typical camera used today
 
 ### Model Evaluation:
 
@@ -63,8 +72,18 @@ Given the focus of projects on security and retail, we test the model on a video
 
 >> insert result observations here
 
+- If the model did not perform up to standard, there are some possible solutions
+  1. Provide a more exhaustive dataset
+    - Larger sample size
+  2. Provide a more relevant dataset
+    - Images or frames closer to the test images/videos or future input
+    - If unavailable, take some samples and personally annotate them
+  3. Identify any reasons that may impact the algorithm
+    - Eg. location where test or input images/frames are taken may be poorly lit resulting in the algorithm's inability to generate ideal results
+
+
 ### Acknowledgement:
-- This repository is built upon the repository TranReID.
+- This repository is built upon the repository [TranReID](https://github.com/damo-cv/TransReID).
 - Credits to Youtube channel [Gas Station Encounters](https://youtu.be/LamLq3dlqyI) for the video, the_peanut_pocketer.mp4, used in model testing.
 
 ### Citation:
