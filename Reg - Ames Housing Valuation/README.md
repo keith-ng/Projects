@@ -421,10 +421,5 @@
   - Oth Other
   
 
-### Credits:
-#### Advisors:
-- Kishan
-- Joshua Soh
-
 ### Project Status:
 - Plans to refine the model further are subjected to availability.

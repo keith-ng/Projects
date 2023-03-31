@@ -1,4 +1,4 @@
-## Singapore Flats Prediction
+## Singapore HDB Flats Prediction
 
 ### Description:
 
